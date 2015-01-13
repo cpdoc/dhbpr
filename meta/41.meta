@@ -1,10 +1,35 @@
 ---
 title: ALBERTO, João
-cargoss:
- -  militar
- -  rev. 1924
- -  Col. Prestes
- - rev. 1930
- -  deleg. mil. SP
-author: Jorge Miguel Mayer
+cargoss: 
+ - Revolucionário ou revoltoso
+ - Revolucionário ou revoltoso
+ - deleg mil
+ - Interventor
+ - Constituinte
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1924
+ - 1930
+ - 1930
+ - 1930
+ - 1934
+datas_fim: 
+ - 1924
+ - 1930
+ - 1930
+ - 1931
+ - 1934
+estados: 
+ - 
+ - 
+ - SP
+ - SP
+ - 
+autor: 
+ - Jorge Miguel Mayer
 ---

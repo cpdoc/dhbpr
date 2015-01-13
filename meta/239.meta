@@ -1,8 +1,25 @@
 ---
 title: BARROS, Morais
-cargoss:
- - const. 1891
- -  dep. fed. SP 1891-1895
- -  sen. SP 1895-1902.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1895
+datas_fim: 
+ - 1891
+ - 1895
+ - 1902
+estados: 
+ - 
+ - SP
+ - SP
+autor: 
+ - 
 ---

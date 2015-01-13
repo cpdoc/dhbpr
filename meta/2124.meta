@@ -1,9 +1,30 @@
 ---
 title: VASCONCELOS, Raimundo Artur de
-cargoss:
- - militar
- -  dep. fed. PI 1895-1896
- -  gov. PI 1896-1900
- -  dep. fed. PI
-author: Raimundo Helio Lopes
+cargoss: 
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1895
+ - 1896
+ - 1900
+ - 1904
+datas_fim: 
+ - 1896
+ - 1900
+ - 1904
+ - 1908
+estados: 
+ - PI
+ - PI
+ - PI
+ - PI
+autor: 
+ - Raimundo Helio Lopes
 ---

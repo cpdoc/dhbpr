@@ -1,6 +1,42 @@
 ---
 title: RIBEIRO, Manuel Gomes
-cargoss:
- - pres. AL 1885 e 1889
- -  gov. AL 1891-1892 e 1894-1897
- -  sen. AL 1900-1902
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Governador de estado ou do Distrito Federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Senador
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1885
+ - 1894
+ - 1891
+ - 1918
+ - 1912
+ - 1900
+datas_fim: 
+ - 1889
+ - 1885
+ - 1897
+ - 1892
+ - 1918
+ - 
+ - 1902
+estados: 
+ - AL
+ - AL
+ - AL
+ - AL
+ - AL
+ - AL
+ - AL

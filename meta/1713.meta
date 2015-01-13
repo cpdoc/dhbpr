@@ -1,8 +1,25 @@
 ---
 title: PRATA, Alaor
-cargoss:
- - dep. fed. MG 1909-1922
- -  pref. RJ 1922-1926
- -  dep. fed. MG 1927-1930.
-author: Claudia Mesquitta
+cargoss: 
+ - Deputado federal
+ - Prefeito
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1909
+ - 1922
+ - 1927
+datas_fim: 
+ - 1922
+ - 1926
+ - 1930
+estados: 
+ - MG
+ - RJ
+ - MG
+autor: 
+ - Claudia Mesquitta
 ---

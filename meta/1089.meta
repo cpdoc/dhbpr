@@ -1,8 +1,25 @@
 ---
 title: LEMOS, Artur
-cargoss:
- - dep. fed. PA 1900-1908
- -  sen. PA 1909-1917
- -  dep. fed. PA 1921-1930.
-author: Renato Lemos
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1900
+ - 1909
+ - 1921
+datas_fim: 
+ - 1908
+ - 1917
+ - 1930
+estados: 
+ - PA
+ - PA
+ - PA
+autor: 
+ - Renato Lemos
 ---

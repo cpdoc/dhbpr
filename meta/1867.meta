@@ -1,8 +1,25 @@
 ---
 title: SALES, Efigênio Ferreira
-cargoss:
- - dep. fed. AM 1915-1925
- -  gov. AM 1926-1929
- -  sen. AM 1930.
-author: Maria Eugenia Bertarelli
+cargoss: 
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1915
+ - 1926
+ - 1930
+datas_fim: 
+ - 1925
+ - 1929
+ - 1930
+estados: 
+ - AM
+ - AM
+ - AM
+autor: 
+ - Maria Eugenia Bertarelli
 ---

@@ -1,9 +1,50 @@
 ---
 title: MARINHO, Saldanha
-cargoss:
- - dep. geral CE 1848
- -  dep. geral RJ 1861-1865
- -  pres. MG 1865-1867
- -  dep.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Constituinte
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1848
+ - 1861
+ - 1865
+ - 1867
+ - 1867
+ - 1878
+ - 1891
+ - 1891
+datas_fim: 
+ - 1848
+ - 1865
+ - 1867
+ - 1869
+ - 1868
+ - 1881
+ - 1891
+ - 1895
+estados: 
+ - CE
+ - RJ
+ - MG
+ - PE
+ - SP
+ - AM
+ - 
+ - DF
+autor: 
+ - Raimundo Helio Lopes
 ---

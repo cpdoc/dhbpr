@@ -1,9 +1,60 @@
 ---
 title: LUCENA, Henrique Pereira de
-cargoss:
- - magistrado
- -  pres. RN 1872
- -  pres. PE 1872-1875
- -  pres. BA 1877-1878
-author: Eduardo Junqueira
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Governador de estado ou do Distrito Federal
+ - Ministro da Justiça
+ - Ministro da Agricultura
+ - Ministro da Fazenda
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1872
+ - 1872
+ - 1877
+ - 1885
+ - 1886
+ - 1890
+ - 1891
+ - 1891
+ - 1891
+ - 1891
+datas_fim: 
+ - 1872
+ - 1875
+ - 1878
+ - 1886
+ - 1889
+ - 1890
+ - 1891
+ - 1891
+ - 1891
+ - 1892
+estados: 
+ - RN
+ - PE
+ - BA
+ - RS
+ - PE
+ - PE
+ - 
+ - 
+ - 
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

@@ -1,10 +1,50 @@
 ---
 title: CAPANEMA, GUSTAVO
-cargoss:
- - rev. 1930
- -  interv. MG 1933
- -  min. Educ. 1934-1945
- -  const. 1946
- -  dep.
-author: Paulo Brandi
+cargoss: 
+ - Revolucionário ou revoltoso
+ - Interventor
+ - Ministro da Educação
+ - Constituinte
+ - Deputado federal
+ - Ministro do Tribunal de Contas
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1930
+ - 1933
+ - 1934
+ - 1946
+ - 1946
+ - 1959
+ - 1961
+ - 1971
+datas_fim: 
+ - 1930
+ - 1933
+ - 1945
+ - 1946
+ - 1959
+ - 1961
+ - 1970
+ - 1979
+estados: 
+ - 
+ - MG
+ - 
+ - 
+ - MG
+ - 
+ - MG
+ - MG
+autor: 
+ - Paulo Brandi
 ---

@@ -1,9 +1,35 @@
 ---
 title: SANTOS, Generoso Marques dos
-cargoss:
- -  dep. geral PR 1881-1884
- -  const. 1891
- -  pres. PR 1891
- -  sen. PR
-author: Luciana Pinheiro
+cargoss: 
+ - Deputado Geral
+ - Constituinte
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1881
+ - 1891
+ - 1891
+ - 1909
+ - 1891
+datas_fim: 
+ - 1884
+ - 1891
+ - 1891
+ - 1926
+ - 1893
+estados: 
+ - PR
+ - 
+ - PR
+ - PR
+ - PR
+autor: 
+ - Luciana Pinheiro
 ---

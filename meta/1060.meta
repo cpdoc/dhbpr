@@ -1,8 +1,25 @@
 ---
 title: LAMARTINE, Juvenal
-cargoss:
- -  dep. fed. RN 1906-1926
- -  sen.1927
- -  gov. RN 1928-1930.
-author: Renato Amado Peixoto
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1906
+ - 1927
+ - 1928
+datas_fim: 
+ - 1926
+ - 1927
+ - 1930
+estados: 
+ - RN
+ - 
+ - RN
+autor: 
+ - Renato Amado Peixoto
 ---

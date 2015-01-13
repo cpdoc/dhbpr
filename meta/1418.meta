@@ -1,9 +1,40 @@
 ---
 title: MORAIS, Prudente de
-cargoss:
- -  dep. geral SP 1885
- -  junta gov. SP 1889
- -  gov. SP 1889-1890
- -  const.
-author: 
+cargoss: 
+ - Deputado Geral
+ - Membro de junta governativa
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Senador
+ - Presidente da República
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1885
+ - 1889
+ - 1889
+ - 1891
+ - 1891
+ - 1894
+datas_fim: 
+ - 1885
+ - 1889
+ - 1890
+ - 1891
+ - 1894
+ - 1898
+estados: 
+ - SP
+ - SP
+ - SP
+ - 
+ - SP
+ - 
+autor: 
+ - 
 ---

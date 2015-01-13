@@ -1,10 +1,55 @@
 ---
 title: SODRÉ, Lauro
-cargoss:
- - militar
- -  const. 1891
- -  dep. fed. PA 1891
- -  gov. PA 1891-1897
- -  sen. PA
-author: Adrianna Setemy
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Candidato a presidência da República
+ - Senador
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1891
+ - 1897
+ - 1898
+ - 1903
+ - 1912
+ - 1917
+ - 1921
+datas_fim: 
+ - 1891
+ - 1891
+ - 1897
+ - 1902
+ - 1898
+ - 1912
+ - 1917
+ - 1921
+ - 1929
+estados: 
+ - 
+ - PA
+ - PA
+ - PA
+ - 
+ - DF
+ - PA
+ - PA
+ - PA
+autor: 
+ - Adrianna Setemy
 ---

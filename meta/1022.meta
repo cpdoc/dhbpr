@@ -1,10 +1,45 @@
 ---
 title: HORN, Raulino
-cargoss:
- - junta gov. SC 1889
- -  gov. SC 1890
- -  const. 1891
- -  sen. SC 1891-1899
- -  gov.
-author: Carolina Vianna Dantas
+cargoss: 
+ - Membro de junta governativa
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Governador de estado ou do Distrito Federal
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1890
+ - 1891
+ - 1891
+ - 1922
+ - 1921
+ - 1920
+datas_fim: 
+ - 1889
+ - 1890
+ - 1891
+ - 1899
+ - 1922
+ - 1921
+ - 
+estados: 
+ - SC
+ - SC
+ - 
+ - SC
+ - SC
+ - SC
+ - SC
+autor: 
+ - Carolina Vianna Dantas
 ---

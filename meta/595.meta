@@ -1,8 +1,40 @@
 ---
 title: COELHO, Érico Marinho da Gama
-cargoss:
- - const. 1891
- -  dep. fed. RJ 1891-1899 e 1903-1905
- -  sen. RJ 1906-1909
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+ - Senador
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1903
+ - 1891
+ - 1906
+ - 1909
+ - 1914
+datas_fim: 
+ - 1891
+ - 1905
+ - 1899
+ - 1909
+ - 1914
+ - 1918
+estados: 
+ - 
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

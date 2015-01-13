@@ -1,9 +1,30 @@
 ---
 title: ACIÓLI, Nogueira
-cargoss:
- -  pres. CE 1896-1900
- -  dep.fed.CE 1900-1902
- -  sen. CE 1903-1904
- -  pres.CE
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1896
+ - 1900
+ - 1903
+ - 1904
+datas_fim: 
+ - 1900
+ - 1902
+ - 1904
+ - 1912
+estados: 
+ - CE
+ - CE
+ - CE
+ - CE
+autor: 
+ - 
 ---

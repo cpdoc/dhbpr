@@ -1,8 +1,35 @@
 ---
 title: BRANDÃO, Júlio Bueno
-cargoss:
- - sen. MG 1898-1908
- -  pres. MG 1908-1909 e 1910-1914
- -  dep. fed. MG
-author: Luciana Pinheiro
+cargoss: 
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1898
+ - 1910
+ - 1908
+ - 1917
+ - 1924
+datas_fim: 
+ - 1908
+ - 1914
+ - 1909
+ - 1923
+ - 1930
+estados: 
+ - MG
+ - MG
+ - MG
+ - MG
+ - MG
+autor: 
+ - Luciana Pinheiro
 ---

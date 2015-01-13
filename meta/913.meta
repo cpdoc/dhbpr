@@ -1,9 +1,30 @@
 ---
 title: FRONTIN, Paulo de
-cargoss:
- -  sen. DF 1917-1918
- -  pref. DF 1919
- -  dep. fed. DF 1919-1920
- -  sen. DF
-author: Surama Conde Sá Pinto
+cargoss: 
+ - Senador
+ - Prefeito
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1917
+ - 1919
+ - 1919
+ - 1921
+datas_fim: 
+ - 1918
+ - 1919
+ - 1920
+ - 1930
+estados: 
+ - DF
+ - DF
+ - DF
+ - DF
+autor: 
+ - Surama Conde Sá Pinto
 ---

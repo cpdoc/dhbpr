@@ -1,9 +1,25 @@
 ---
 title: MENESES, Siqueira
-cargoss:
- - militar
- -  junta gov. SE 1889
- -  pres. SE 1911-1914
- -  sen. SE 1915-1923.
-author: 
+cargoss: 
+ - Membro de junta governativa
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1911
+ - 1915
+datas_fim: 
+ - 1889
+ - 1914
+ - 1923
+estados: 
+ - SE
+ - SE
+ - SE
+autor: 
+ - 
 ---

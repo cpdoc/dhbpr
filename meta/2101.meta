@@ -1,9 +1,25 @@
 ---
 title: TROVÃO, Lopes
-cargoss:
- -  mov. abolicionista
- -  mov. republicano
- -  const. 1891
- -  dep. fed. DF
-author: Carolina Vianna Dantas
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1895
+datas_fim: 
+ - 1891
+ - 1895
+ - 1902
+estados: 
+ - 
+ - DF
+ - DF
+autor: 
+ - Carolina Vianna Dantas
 ---

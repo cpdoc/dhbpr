@@ -1,9 +1,50 @@
 ---
 title: CAMPOS, Bernardino de
-cargoss:
- -  const. 1891
- -  dep. fed. SP 1891-1892
- -  pres. SP 1892-1896
- -  sen. SP
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+ - Ministro da Fazenda
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1892
+ - 1896
+ - 1896
+ - 1900
+ - 1902
+ - 1904
+datas_fim: 
+ - 1891
+ - 1892
+ - 1896
+ - 1896
+ - 1898
+ - 1902
+ - 1904
+ - 1915
+estados: 
+ - 
+ - SP
+ - SP
+ - SP
+ - 
+ - SP
+ - SP
+ - SP
+autor: 
+ - 
 ---

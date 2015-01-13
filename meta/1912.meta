@@ -1,9 +1,50 @@
 ---
 title: SÁ, Francisco
-cargoss:
- - dep. geral CE 1889
- -  dep. fed. CE 1897-1905
- -  sen. CE 1906-1909
- -  min.
-author: Paulo Brandi Cachapuz
+cargoss: 
+ - Deputado Geral
+ - Deputado federal
+ - Senador
+ - Ministro da Viação e Obras Públicas
+ - Senador
+ - Senador
+ - Ministro da Viação e Obras Públicas
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - e Obras Públ
+ - 
+ - 
+ - e Obras Públ
+ - 
+datas_ini: 
+ - 1889
+ - 1897
+ - 1906
+ - 1909
+ - 1922
+ - 1911
+ - 1922
+ - 1927
+datas_fim: 
+ - 1889
+ - 1905
+ - 1909
+ - 1910
+ - 1922
+ - 1915
+ - 1926
+ - 1930
+estados: 
+ - CE
+ - CE
+ - CE
+ - 
+ - CE
+ - CE
+ - 
+ - CE
+autor: 
+ - Paulo Brandi Cachapuz
 ---

@@ -1,7 +1,20 @@
 ---
 title: SILVA, José Joaquim Monteiro da
-cargoss:
- - sen. MG 1888-1889
- -  dep. fed. MG 1891-1893
-author: Luciana Pinheiro
+cargoss: 
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+datas_ini: 
+ - 1888
+ - 1891
+datas_fim: 
+ - 1889
+ - 1893
+estados: 
+ - MG
+ - MG
+autor: 
+ - Luciana Pinheiro
 ---

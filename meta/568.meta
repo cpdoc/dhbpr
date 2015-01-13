@@ -1,9 +1,50 @@
 ---
 title: CHAVES, Ferreira
-cargoss:
- -  junta gov. RN 1891-1892
- -  gov. RN 1896-1900
- -  sen. RN 1900-1914
- -  gov.
-author: Renato Amado Peixoto
+cargoss: 
+ - Membro de junta governativa
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - min Marinha
+ - min Justiça
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1896
+ - 1900
+ - 1914
+ - 1920
+ - 1920
+ - 1921
+ - 1923
+datas_fim: 
+ - 1892
+ - 1900
+ - 1914
+ - 1920
+ - 1920
+ - 1921
+ - 1922
+ - 1930
+estados: 
+ - RN
+ - RN
+ - RN
+ - RN
+ - RN
+ - 
+ - 
+ - RN
+autor: 
+ - Renato Amado Peixoto
 ---

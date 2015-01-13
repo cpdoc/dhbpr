@@ -1,8 +1,25 @@
 ---
 title: FREIRE, Sá
-cargoss:
- -  dep. fed. DF 1898-1909
- -  sen. DF 1909-1916
- -  pref. DF 1919-1920.
-author: 
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Prefeito
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1898
+ - 1909
+ - 1919
+datas_fim: 
+ - 1909
+ - 1916
+ - 1920
+estados: 
+ - DF
+ - DF
+ - DF
+autor: 
+ - 
 ---

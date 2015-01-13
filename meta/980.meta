@@ -1,9 +1,35 @@
 ---
 title: GÓIS, Manuel José de Araújo
-cargoss:
- - pres. SE 1885-1888
- -  gov. AL 1890-1891
- -  dep. fed. AL 1895-1902
- -  sen. AL
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1885
+ - 1890
+ - 1895
+ - 1906
+ - 1924
+datas_fim: 
+ - 1888
+ - 1891
+ - 1902
+ - 1923
+ - 1930
+estados: 
+ - SE
+ - AL
+ - AL
+ - AL
+ - AL
+autor: 
+ - 
 ---

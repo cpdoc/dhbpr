@@ -1,8 +1,25 @@
 ---
 title: DELFIM, Moreira
-cargoss:
- -  dep. fed. MG 1909-1910
- -  gov. MG 1914-1918
- -  pres. Rep. 1918-1919.
-author: 
+cargoss: 
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Presidente da República
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1909
+ - 1914
+ - 1918
+datas_fim: 
+ - 1910
+ - 1918
+ - 1919
+estados: 
+ - MG
+ - MG
+ - 
+autor: 
+ - 
 ---

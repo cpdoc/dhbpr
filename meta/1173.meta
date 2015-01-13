@@ -1,8 +1,25 @@
 ---
 title: LOBO, Pereira
-cargoss:
- - sen. SE 1914-1917
- -  pres. SE 1918-1922
- -  sen. SE 1923-1930.
-author: 
+cargoss: 
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1914
+ - 1918
+ - 1923
+datas_fim: 
+ - 1917
+ - 1922
+ - 1930
+estados: 
+ - SE
+ - SE
+ - SE
+autor: 
+ - 
 ---

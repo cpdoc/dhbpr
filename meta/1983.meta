@@ -1,9 +1,30 @@
 ---
 title: SILVA, Vespasiano Gonçalves de Albuquerque e
-cargoss:
- - militar
- -  dep. fed. RS 1894-1907
- -  min. Guerra 1912-1914
- -  min. Mar 1913
-author: 
+cargoss: 
+ - Deputado federal
+ - Ministro da Guerra
+ - Ministro da Marinha
+ - Ministro do Supremo Tribunal Militar
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1894
+ - 1912
+ - 1913
+ - 1914
+datas_fim: 
+ - 1907
+ - 1914
+ - 1913
+ - 1914
+estados: 
+ - RS
+ - 
+ - 
+ - 
+autor: 
+ - 
 ---

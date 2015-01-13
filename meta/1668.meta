@@ -1,8 +1,30 @@
 ---
 title: PINHO, Araújo
-cargoss:
- - pres. SE 1876-1878
- -  dep. geral BA 1881-1884 e 1886-1889
- -  gov. BA
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Deputado Geral
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1876
+ - 1886
+ - 1881
+ - 1908
+datas_fim: 
+ - 1878
+ - 1889
+ - 1884
+ - 1911
+estados: 
+ - SE
+ - BA
+ - BA
+ - BA
+autor: 
+ - 
 ---

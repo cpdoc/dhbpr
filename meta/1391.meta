@@ -1,7 +1,21 @@
 ---
 title: MONJARDIM, Manuel Silvino
-cargoss:
- - dep. fed. ES 1918-1923
- -  sen. ES 1924-1930.
-author: Nara Saletto/Fernando Achiamé
+cargoss: 
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+datas_ini: 
+ - 1918
+ - 1924
+datas_fim: 
+ - 1923
+ - 1930
+estados: 
+ - ES
+ - ES
+autor:
+ - Nara Saletto
+ - Fernando Achiamé
 ---

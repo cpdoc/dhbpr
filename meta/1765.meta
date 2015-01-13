@@ -1,8 +1,20 @@
 ---
 title: REGO, Francisco Melo
-cargoss:
- - militar
- -  pres. MT 1877
- -  dep. fed. MT 1897-1899.
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+datas_ini: 
+ - 1877
+ - 1897
+datas_fim: 
+ - 1877
+ - 1899
+estados: 
+ - MT
+ - MT
+autor: 
+ - 
 ---

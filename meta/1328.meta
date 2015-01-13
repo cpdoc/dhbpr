@@ -1,8 +1,25 @@
 ---
 title: MELO, Herculano Bandeira de
-cargoss:
- -  dep. fed. PE 1895-1901
- -  sen. PE 1901-1908
- -  gov. PE 1908-1911.
-author: Juliana Sampaio
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1895
+ - 1901
+ - 1908
+datas_fim: 
+ - 1901
+ - 1908
+ - 1911
+estados: 
+ - PE
+ - PE
+ - PE
+autor: 
+ - Juliana Sampaio
 ---

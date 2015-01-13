@@ -1,9 +1,27 @@
 ---
 title: MAYRINK, Francisco de Paula
-cargoss:
- - const. 1891
- -  dep. fed. DF 1891-1893
- -  dep. fed. MG 1894-1902
- -  dep. fed.
-author: 
----
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1894
+ - 1906
+datas_fim: 
+ - 1891
+ - 1893
+ - 1902
+ - 1908
+estados: 
+ - 
+ - DF
+ - MG
+ - DF

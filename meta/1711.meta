@@ -1,8 +1,35 @@
 ---
 title: PRADO, Manuel
-cargoss:
- - dep. geral SE 1869-1875
- -  pres. ES 1876-1877
- -  dep. geral SE e 1878
-author: 
+cargoss: 
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1869
+ - 1876
+ - 1878
+ - 1885
+ - 1894
+datas_fim: 
+ - 1875
+ - 1877
+ - 1878
+ - 1886
+ - 1896
+estados: 
+ - SE
+ - ES
+ - SE
+ - PI
+ - SE
+autor: 
+ - 
 ---

@@ -1,8 +1,40 @@
 ---
 title: MACIEL, Leandro
-cargoss:
- - dep. geral SE 1869-1872 e 1877-1885
- -  const. 1891
- -  dep. fed. SE
-author: 
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Constituinte
+ - Deputado federal
+ - Membro de junta governativa
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1877
+ - 1869
+ - 1891
+ - 1891
+ - 1891
+ - 1894
+datas_fim: 
+ - 1885
+ - 1872
+ - 1891
+ - 1893
+ - 1892
+ - 1903
+estados: 
+ - SE
+ - SE
+ - 
+ - SE
+ - SE
+ - SE
+autor: 
+ - 
 ---

@@ -1,8 +1,30 @@
 ---
 title: ALENCAR, Alexandrino de
-cargoss:
- -  sen. AM 1906
- -  min. Marinha1906-1910 e 1913-1918
- -  sen. AM
-author: Luciana Pinheiro
+cargoss: 
+ - Senador
+ - min Marinha1906-1910
+ - Senador
+ - min Marinha
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1906
+ - 1913
+ - 1921
+ - 1922
+datas_fim: 
+ - 1906
+ - 1918
+ - 1922
+ - 1926
+estados: 
+ - AM
+ - 
+ - AM
+ - 
+autor: 
+ - Luciana Pinheiro
 ---

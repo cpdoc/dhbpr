@@ -1,7 +1,25 @@
 ---
 title: FERRAZ, Sampaio
-cargoss:
- - const. 1891
- -  dep. fed. DF 1891-1893 e 1900-1902.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1900
+ - 1891
+datas_fim: 
+ - 1891
+ - 1902
+ - 1893
+estados: 
+ - 
+ - DF
+ - DF
+autor: 
+ - Raimundo Helio Lopes
 ---

@@ -1,8 +1,40 @@
 ---
 title: CORREIA, Manuel Francisco
-cargoss:
- -  pres. PE 1862
- -  dep. ger. PR 1869-1877
- -  min. Estrangeiros 1871-1873
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - min Estrangeiros
+ - Senador
+ - Ministro do Tribunal de Contas
+ - Presidente de associação ou confederação de empregados ou empregadores
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - TCU
+datas_ini: 
+ - 1862
+ - 1869
+ - 1871
+ - 1877
+ - 1893
+ - 1893
+datas_fim: 
+ - 1862
+ - 1877
+ - 1873
+ - 1889
+ - 1894
+ - 1894
+estados: 
+ - PE
+ - PR
+ - 
+ - PR
+ - 
+ - 
+autor: 
+ - 
 ---

@@ -1,9 +1,30 @@
 ---
 title: SILVA, José Moreira Alves da
-cargoss:
- - pres. RN 1885-1886
- -  pres. AL 1886-1887
- -  pres. MA 1888-1889
- -  dep. fed.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1885
+ - 1886
+ - 1888
+ - 1897
+datas_fim: 
+ - 1886
+ - 1887
+ - 1889
+ - 1906
+estados: 
+ - RN
+ - AL
+ - MA
+ - PE
+autor: 
+ - Raimundo Helio Lopes
 ---

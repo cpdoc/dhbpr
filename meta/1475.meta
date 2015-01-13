@@ -1,10 +1,30 @@
 ---
 title: NERY, Silvério José
-cargoss:
- - militar
- -  dep. fed. AM 1897-1899
- -  sen. AM 1900
- -  gov. AM 1900-1903
- -  sen.
-author: Maria Eugenia Bertarelli
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1897
+ - 1900
+ - 1900
+ - 1904
+datas_fim: 
+ - 1899
+ - 1900
+ - 1903
+ - 1930
+estados: 
+ - AM
+ - AM
+ - AM
+ - AM
+autor: 
+ - Maria Eugenia Bertarelli
 ---

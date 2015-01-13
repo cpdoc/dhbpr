@@ -1,8 +1,75 @@
 ---
 title: ALVES, Rodrigues
-cargoss:
- -  dep. geral SP 1885-1887
- -  pres.SP 1887-1888
- -  dep. geral SP1888-1889
-author: 
+cargoss: 
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Constituinte
+ - Deputado federal
+ - Ministro da Fazenda
+ - Senador
+ - Ministro da Fazenda
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente da República
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+ - Presidente da República
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - eleito
+datas_ini: 
+ - 1885
+ - 1887
+ - 1891
+ - 1891
+ - 1891
+ - 1893
+ - 1894
+ - 1897
+ - 1900
+ - 1902
+ - 1912
+ - 1916
+ - 1918
+datas_fim: 
+ - 1887
+ - 1888
+ - 1891
+ - 1891
+ - 1892
+ - 1894
+ - 1896
+ - 1900
+ - 1902
+ - 1906
+ - 1916
+ - 1917
+ - 1918
+estados: 
+ - SP
+ - SP
+ - 
+ - SP
+ - 
+ - SP
+ - 
+ - SP
+ - SP
+ - 
+ - SP
+ - SP
+ - 
+autor: 
+ - 
 ---

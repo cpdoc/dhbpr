@@ -1,9 +1,30 @@
 ---
 title: CAMARGO, Afonso
-cargoss:
- -  pres. PR 1916-1920
- -  dep. fed. PR 1921-1922
- -  sen. PR 1922-1927
- -  pres.
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1916
+ - 1921
+ - 1922
+ - 1928
+datas_fim: 
+ - 1920
+ - 1922
+ - 1927
+ - 1930
+estados: 
+ - PR
+ - PR
+ - PR
+ - PR
+autor: 
+ - 
 ---

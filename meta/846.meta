@@ -1,9 +1,30 @@
 ---
 title: FIGUEIREDO, Oliveira
-cargoss:
- -  pres. MG 1886-1887
- -  dep. fed. RJ 1900-1904
- -  sen. RJ 1904-1911
- -  min.
-author: Eduardo Junqueira
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1886
+ - 1900
+ - 1904
+ - 1911
+datas_fim: 
+ - 1887
+ - 1904
+ - 1911
+ - 1912
+estados: 
+ - MG
+ - RJ
+ - RJ
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

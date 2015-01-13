@@ -1,9 +1,45 @@
 ---
 title: GONÇALVES, Segismundo Antônio
-cargoss:
- - dep. geral GO 1878-1881
- -  dep. geral PE 1885
- -  pres. PE 1889
- -  gov. PE
-author: Raimundo Helio Lopes
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1878
+ - 1885
+ - 1889
+ - 1899
+ - 1900
+ - 1904
+ - 1908
+datas_fim: 
+ - 1881
+ - 1885
+ - 1889
+ - 1900
+ - 1903
+ - 1908
+ - 1915
+estados: 
+ - GO
+ - PE
+ - PE
+ - PE
+ - PE
+ - PE
+ - PE
+autor: 
+ - Raimundo Helio Lopes
 ---

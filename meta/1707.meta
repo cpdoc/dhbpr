@@ -1,8 +1,45 @@
 ---
 title: PRADO, Antônio
-cargoss:
- -  dep. geral SP 1869-1875 e 1885-1887
- -  min. Agric. 1885-1887
- -  sen.
-author: 
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Ministro da Agricultura
+ - Senador
+ - min Estrangeiros
+ - Ministro da Agricultura
+ - Prefeito
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1885
+ - 1869
+ - 1885
+ - 1887
+ - 1888
+ - 1888
+ - 1899
+datas_fim: 
+ - 1887
+ - 1875
+ - 1887
+ - 1889
+ - 1888
+ - 1889
+ - 1911
+estados: 
+ - SP
+ - SP
+ - 
+ - SP
+ - 
+ - 
+ - SP
+autor: 
+ - 
 ---

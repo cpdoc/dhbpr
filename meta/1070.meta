@@ -1,10 +1,40 @@
 ---
 title: LEAL, Valfredo
-cargoss:
- - religioso
- -  pres. PB 1896
- -  dep. fed. PB 1903-1904
- -  sen. PB 1905
- -  pres.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1896
+ - 1903
+ - 1905
+ - 1905
+ - 1909
+ - 1922
+datas_fim: 
+ - 1896
+ - 1904
+ - 1905
+ - 1908
+ - 1917
+ - 1926
+estados: 
+ - PB
+ - PB
+ - PB
+ - PB
+ - PB
+ - PB
+autor: 
+ - Raimundo Helio Lopes
 ---

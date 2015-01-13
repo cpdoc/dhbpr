@@ -1,9 +1,30 @@
 ---
 title: GÓIS, Geminiano de
-cargoss:
- - dep. geral SE 1881-1884
- -  pres. AL 1886
- -  pres. PB 1886-1887
- -  dep. fed.
-author: 
+cargoss: 
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1881
+ - 1886
+ - 1886
+ - 1894
+datas_fim: 
+ - 1884
+ - 1886
+ - 1887
+ - 1899
+estados: 
+ - SE
+ - AL
+ - PB
+ - SE
+autor: 
+ - 
 ---

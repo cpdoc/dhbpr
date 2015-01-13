@@ -1,9 +1,42 @@
 ---
 title: WANDENKOLK, Eduardo
-cargoss:
- -  militar
- -  min. Marinha 1889-1891
- -  min. Rel. Ext. 1890
- -  min. Guerra
-author: 
----
+cargoss: 
+ - min Marinha
+ - Ministro das Relações Exteriores
+ - Ministro da Guerra
+ - Ministro do Interior
+ - Constituinte
+ - Senador
+ - Chefe do Estado-Maior da Armada
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1890
+ - 1890
+ - 1890
+ - 1891
+ - 1891
+ - 1900
+datas_fim: 
+ - 1891
+ - 1890
+ - 1890
+ - 1890
+ - 1891
+ - 1899
+ - 1900
+estados: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 

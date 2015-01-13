@@ -1,9 +1,25 @@
 ---
 title: MIRANDA, Raimundo Pontes de
-cargoss:
- - jornalista
- -  dep. fed. AL 1900-1911
- -  sen. AL 1912-1921
- -  dep. fed. AL
-author: 
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1900
+ - 1912
+ - 1921
+datas_fim: 
+ - 1911
+ - 1921
+ - 1923
+estados: 
+ - AL
+ - AL
+ - AL
+autor: 
+ - 
 ---

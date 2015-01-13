@@ -1,9 +1,30 @@
 ---
 title: OTONI, Cristiano Benedito
-cargoss:
- - militar
- -  dep. geral MG 1848 e 1861-1868
- -  sen. ES 1879-1889
- -  sen. MG
-author: Luciana Pinheiro
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Senador
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1861
+ - 1848
+ - 1879
+ - 1892
+datas_fim: 
+ - 1868
+ - 1848
+ - 1889
+ - 1896
+estados: 
+ - MG
+ - MG
+ - ES
+ - MG
+autor: 
+ - Luciana Pinheiro
 ---

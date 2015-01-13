@@ -1,8 +1,30 @@
 ---
 title: MARTINS, Eneias
-cargoss:
- - jornalista
- -  dep. fed. PA 1894-1896
- -  dep. fed. AM 1897-1899 e
-author: Adrianna Setemy
+cargoss: 
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1894
+ - 1903
+ - 1897
+ - 1913
+datas_fim: 
+ - 1896
+ - 1905
+ - 1899
+ - 1917
+estados: 
+ - PA
+ - AM
+ - AM
+ - PA
+autor: 
+ - Adrianna Setemy
 ---

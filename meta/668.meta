@@ -1,9 +1,25 @@
 ---
 title: CRUZ, Joaquim Antônio da
-cargoss:
- - militar
- -  const. 1891
- -  sen. PI 1891-1899
- -  dep. fed. PI 1906-1912.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Constituinte
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1906
+datas_fim: 
+ - 1891
+ - 1899
+ - 1912
+estados: 
+ - 
+ - PI
+ - PI
+autor: 
+ - Raimundo Helio Lopes
 ---

@@ -1,8 +1,30 @@
 ---
 title: CARVALHO, Álvaro Augusto da Costa
-cargoss:
- - dep. fed. SP 1894-1896 e 1903-1917
- -  sen. SP 1918-1923
- -  dep. fed. SP
-author: Dirceu Franco
+cargoss: 
+ - Deputado federal
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1903
+ - 1894
+ - 1918
+ - 1927
+datas_fim: 
+ - 1917
+ - 1896
+ - 1923
+ - 1930
+estados: 
+ - SP
+ - SP
+ - SP
+ - SP
+autor: 
+ - Dirceu Franco
 ---

@@ -1,7 +1,40 @@
 ---
 title: OLIVEIRA, Antônio Pereira da Silva e
-cargoss:
- -  gov. SC 1902-1905 e 1905-1906
- -  dep. fed. SC 1912-1914 e 1918-1920
-author: Carolina Vianna Dantas
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1905
+ - 1902
+ - 1918
+ - 1912
+ - 1923
+ - 1926
+datas_fim: 
+ - 1906
+ - 1905
+ - 1920
+ - 1914
+ - 1925
+ - 1929
+estados: 
+ - SC
+ - SC
+ - SC
+ - SC
+ - SC
+ - SC
+autor: 
+ - Carolina Vianna Dantas
 ---

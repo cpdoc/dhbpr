@@ -1,8 +1,25 @@
 ---
 title: MORAIS, Jorge de
-cargoss:
- - dep. fed. AM 1905-1908
- -  sen. AM 1909-1911
- -  dep. fed. AM 1927-1930.
-author: Inoã Pierre Carvalho Urbinati
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1905
+ - 1909
+ - 1927
+datas_fim: 
+ - 1908
+ - 1911
+ - 1930
+estados: 
+ - AM
+ - AM
+ - AM
+autor: 
+ - Inoã Pierre Carvalho Urbinati
 ---

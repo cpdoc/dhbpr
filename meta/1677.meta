@@ -1,9 +1,40 @@
 ---
 title: PINTO, Olegário
-cargoss:
- - militar
- -  dep. fed. GO 1912-1913
- -  pres. GO 1913-1914
- -  dep. fed. GO
-author: Adrianna Setemy
+cargoss: 
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1912
+ - 1913
+ - 1918
+ - 1921
+ - 1924
+ - 1926
+datas_fim: 
+ - 1913
+ - 1914
+ - 1921
+ - 1924
+ - 1926
+ - 1930
+estados: 
+ - GO
+ - GO
+ - GO
+ - GO
+ - GO
+ - GO
+autor: 
+ - Adrianna Setemy
 ---

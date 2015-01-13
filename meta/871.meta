@@ -1,10 +1,30 @@
 ---
 title: FONSECA, Pedro Paulino da
-cargoss:
- - militar
- -  gov. AL 1889-1890
- -  const. 1891
- -  gov. AL 1891
- -  sen. AL 1891.
-author: 
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1891
+ - 1891
+ - 1891
+datas_fim: 
+ - 1890
+ - 1891
+ - 1891
+ - 1891
+estados: 
+ - AL
+ - 
+ - AL
+ - AL
+autor: 
+ - 
 ---

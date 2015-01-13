@@ -1,9 +1,31 @@
 ---
 title: LUZ, Hercílio
-cargoss:
- - gov. SC 1894-1898
- -  dep. fed. SC 1900
- -  sen. SC 1900-1918
- -  gov. SC
-author: Carolina Vianna Dantas/Alan Carneiro
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1894
+ - 1900
+ - 1900
+ - 1918
+datas_fim: 
+ - 1898
+ - 1900
+ - 1918
+ - 1924
+estados: 
+ - SC
+ - SC
+ - SC
+ - SC
+autor:
+ - Carolina Vianna Dantas
+ - Alan Carneiro
 ---

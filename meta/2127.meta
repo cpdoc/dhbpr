@@ -1,8 +1,21 @@
 ---
 title: VAZ, José Viana
-cargoss:
- - jornalista
- -  dep. geral MA 1881-1885
- -  gov. MA 1890-1891.
-author: Alan Carneiro/Raimundo Helio Lopes
+cargoss: 
+ - Deputado Geral
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+datas_ini: 
+ - 1881
+ - 1890
+datas_fim: 
+ - 1885
+ - 1891
+estados: 
+ - MA
+ - MA
+autor:
+ - Alan Carneiro
+ - Raimundo Helio Lopes
 ---

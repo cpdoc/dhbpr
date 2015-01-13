@@ -1,9 +1,40 @@
 ---
 title: BATISTA, Abdon
-cargoss:
- - pres. SC 1889
- -  dep. fed. SC 1903-1905
- -  gov. SC 1906
- -  dep. fed. SC
-author: Carolina Vianna Dantas
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1903
+ - 1906
+ - 1910
+ - 1912
+ - 1918
+datas_fim: 
+ - 1889
+ - 1905
+ - 1906
+ - 1912
+ - 1917
+ - 1920
+estados: 
+ - SC
+ - SC
+ - SC
+ - SC
+ - SC
+ - SC
+autor: 
+ - Carolina Vianna Dantas
 ---

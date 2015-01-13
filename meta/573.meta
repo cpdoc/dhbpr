@@ -1,9 +1,35 @@
 ---
 title: CHERMONT, Justo
-cargoss:
- - junta gov. PA 1889
- -  gov. PA 1889-1891
- -  min. Rel. Ext. 1891
- -  sen. PA
-author: Adrianna Setemy
+cargoss: 
+ - Membro de junta governativa
+ - Governador de estado ou do Distrito Federal
+ - Ministro das Relações Exteriores
+ - Senador
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1889
+ - 1891
+ - 1921
+ - 1894
+datas_fim: 
+ - 1889
+ - 1891
+ - 1891
+ - 1926
+ - 1909
+estados: 
+ - PA
+ - PA
+ - 
+ - PA
+ - PA
+autor: 
+ - Adrianna Setemy
 ---

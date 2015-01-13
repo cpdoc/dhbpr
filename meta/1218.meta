@@ -1,9 +1,27 @@
 ---
 title: MACIEL, Francisco Antunes
-cargoss:
- -  dep. geral RS 1881-1888
- -  min. Int. 1883-1884
- -  rev. 1893
- -  dep. fed. RS
-author: 
----
+cargoss: 
+ - Deputado Geral
+ - Ministro do Interior
+ - Revolucionário ou revoltoso
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1881
+ - 1883
+ - 1893
+ - 1906
+datas_fim: 
+ - 1888
+ - 1884
+ - 1893
+ - 1911
+estados: 
+ - RS
+ - 
+ - 
+ - RS

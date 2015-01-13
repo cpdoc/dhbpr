@@ -1,9 +1,35 @@
 ---
 title: HIGINO, José
-cargoss:
- - magistrado
- -  const. 1891
- -  sen. PE 1891
- -  min. Instr. Públ. 1891-1892
-author: Eduardo Junqueira
+cargoss: 
+ - Constituinte
+ - Senador
+ - min Instr Públ
+ - Ministro da Justiça
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1891
+ - 1891
+ - 1892
+datas_fim: 
+ - 1891
+ - 1891
+ - 1892
+ - 1892
+ - 1897
+estados: 
+ - 
+ - PE
+ - 
+ - 
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

@@ -1,9 +1,45 @@
 ---
 title: BARBOSA, Rui
-cargoss:
- -  dep. geral BA 1878-1885
- -  min. Faz. 1889-1891
- -  min. Just. 1889
- -  const.
-author: 
+cargoss: 
+ - Deputado Geral
+ - Ministro da Fazenda
+ - Ministro da Justiça
+ - Constituinte
+ - Senador
+ - Candidato a presidência da República
+ - Candidato a presidência da República
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1878
+ - 1889
+ - 1889
+ - 1891
+ - 1891
+ - 1919
+ - 1910
+datas_fim: 
+ - 1885
+ - 1891
+ - 1889
+ - 1891
+ - 1923
+ - 1919
+ - 1910
+estados: 
+ - BA
+ - 
+ - 
+ - 
+ - BA
+ - 
+ - 
+autor: 
+ - 
 ---

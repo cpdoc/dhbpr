@@ -1,10 +1,45 @@
 ---
 title: MELO, Custódio de
-cargoss:
- -  militar
- -  const. 1891
- -  dep. fed. BA 1891
- -  min. Mar. 1891-1893
- -  min.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Ministro da Marinha
+ - Ministro das Relações Exteriores
+ - Ministro das Relações Exteriores
+ - Ministro da Guerra
+ - Revolucionário ou revoltoso
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1891
+ - 1892
+ - 1891
+ - 1892
+ - 1893
+datas_fim: 
+ - 1891
+ - 1891
+ - 1893
+ - 1892
+ - 1891
+ - 1892
+ - 1893
+estados: 
+ - 
+ - BA
+ - 
+ - 
+ - 
+ - 
+ - 
+autor: 
+ - 
 ---

@@ -1,9 +1,30 @@
 ---
 title: ERNESTO, Pedro
-cargoss:
- - rev. 1924
- -  rev. 1930
- -  interv. DF 1931-1935
- -  pref. DF 1935-1936.
-author: Paulo Brandi
+cargoss: 
+ - Revolucionário ou revoltoso
+ - Revolucionário ou revoltoso
+ - Interventor
+ - Prefeito
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1924
+ - 1930
+ - 1931
+ - 1935
+datas_fim: 
+ - 1924
+ - 1930
+ - 1935
+ - 1936
+estados: 
+ - 
+ - 
+ - DF
+ - DF
+autor: 
+ - Paulo Brandi
 ---

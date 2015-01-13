@@ -1,9 +1,50 @@
 ---
 title: ARARIPE, Alencar
-cargoss:
- -  dep. ger. CE 1869-1889
- -  pres.RS 1876
- -  pres. PA 1885-1886
- - min. STJ
-author: 
+cargoss: 
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - min STJ
+ - Ministro do Supremo Tribunal Federal
+ - Ministro da Fazenda
+ - min Jus
+ - Ministro do Interior
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1869
+ - 1876
+ - 1885
+ - 1886
+ - 1891
+ - 1891
+ - 1891
+ - 1891
+datas_fim: 
+ - 1889
+ - 1876
+ - 1886
+ - 1886
+ - 1894
+ - 1891
+ - 1891
+ - 1891
+estados: 
+ - CE
+ - RS
+ - PA
+ - 
+ - 
+ - 
+ - 
+ - 
+autor: 
+ - 
 ---

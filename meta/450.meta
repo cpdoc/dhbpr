@@ -1,9 +1,35 @@
 ---
 title: CARVALHO, Anfilófio de
-cargoss:
- -  magistrado
- -  pres. AL 1885-1886
- -  const. 1891
- -  dep. fed. BA 1891-1892
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Constituinte
+ - Deputado federal
+ - Ministro do Supremo Tribunal Federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1885
+ - 1891
+ - 1891
+ - 1892
+ - 1897
+datas_fim: 
+ - 1886
+ - 1891
+ - 1892
+ - 1895
+ - 1899
+estados: 
+ - AL
+ - 
+ - BA
+ - 
+ - BA
+autor: 
+ - 
 ---

@@ -1,8 +1,25 @@
 ---
 title: SILVEIRA, Xavier da
-cargoss:
- - gov. RN 1890
- -  dep. fed. DF 1897-1899
- -  pref. DF 1901-1902.
-author: Renato Amado Peixoto
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Prefeito
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1890
+ - 1897
+ - 1901
+datas_fim: 
+ - 1890
+ - 1899
+ - 1902
+estados: 
+ - RN
+ - DF
+ - DF
+autor: 
+ - Renato Amado Peixoto
 ---

@@ -1,8 +1,40 @@
 ---
 title: GUANABARA, Alcindo
-cargoss:
- - const. 1891
- -  dep. fed. RJ 1891-1893
- -  dep. fed. DF 1894-1899 e
-author: Surama Conde Sá Pinto
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+ - Senador
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1906
+ - 1894
+ - 1912
+ - 1918
+datas_fim: 
+ - 1891
+ - 1893
+ - 1911
+ - 1899
+ - 1917
+ - 1918
+estados: 
+ - 
+ - RJ
+ - DF
+ - DF
+ - DF
+ - RJ
+autor: 
+ - Surama Conde Sá Pinto
 ---

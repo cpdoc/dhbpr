@@ -1,9 +1,30 @@
 ---
 title: PARAÍSO, Prisco
-cargoss:
- - min. Just. 1883-1884
- -  dep. geral BA 1889
- -  const. 1891
- -  dep. fed. BA
-author: 
+cargoss: 
+ - Ministro da Justiça
+ - Deputado Geral
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1883
+ - 1889
+ - 1891
+ - 1891
+datas_fim: 
+ - 1884
+ - 1889
+ - 1891
+ - 1893
+estados: 
+ - 
+ - BA
+ - 
+ - BA
+autor: 
+ - 
 ---

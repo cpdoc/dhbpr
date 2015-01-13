@@ -1,6 +1,22 @@
 ---
 title: CAVALCANTI, Ambrósio Machado da Cunha
-cargoss:
- - dep. geral AL 1864-1870
- -  gov. PE 1890
- -  junta gov. PE 1891-1892.
+cargoss: 
+ - Deputado Geral
+ - Governador de estado ou do Distrito Federal
+ - Membro de junta governativa
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1864
+ - 1890
+ - 1891
+datas_fim: 
+ - 1870
+ - 1890
+ - 1892
+estados: 
+ - AL
+ - PE
+ - PE

@@ -1,8 +1,25 @@
 ---
 title: PEDROSA, Jônatas de Freitas
-cargoss:
- - militar
- -  sen. AM 1898-1906 e 1907-1912
- -  gov. AM 1913-1917.
-author: Maria Eugenia Bertarelli
+cargoss: 
+ - Senador
+ - Senador
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1907
+ - 1898
+ - 1913
+datas_fim: 
+ - 1912
+ - 1906
+ - 1917
+estados: 
+ - AM
+ - AM
+ - AM
+autor: 
+ - Maria Eugenia Bertarelli
 ---

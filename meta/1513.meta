@@ -1,10 +1,30 @@
 ---
 title: OLIVEIRA, José Simeão de
-cargoss:
- - militar
- -  gov. PE 1889-1890
- -  const. 891
- -  sen. PE 1891
- -  min. Guerra
-author: 
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Senador
+ - Ministro da Guerra
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 891
+ - 1891
+ - 1891
+datas_fim: 
+ - 1890
+ - 891
+ - 1891
+ - 1892
+estados: 
+ - PE
+ - 
+ - PE
+ - 
+autor: 
+ - 
 ---

@@ -1,8 +1,30 @@
 ---
 title: DAMÁSIO, VIRGÍLIO
-cargoss:
- -  gov. BA 1889 e 1890
- -  const. 1891
- -  sen. BA 1891-1908.
-author: 
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1890
+ - 1889
+ - 1891
+ - 1891
+datas_fim: 
+ - 1890
+ - 1889
+ - 1891
+ - 1908
+estados: 
+ - BA
+ - BA
+ - 
+ - BA
+autor: 
+ - 
 ---

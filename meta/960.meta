@@ -1,8 +1,25 @@
 ---
 title: GONÇALVES, Augusto César Lopes
-cargoss:
- - dep. fed. AM 1912-1914
- -  sen. AM 1915-1923
- -  sen. SE 1924-1930.
-author: Maria Eugenia Bertarelli
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1912
+ - 1915
+ - 1924
+datas_fim: 
+ - 1914
+ - 1923
+ - 1930
+estados: 
+ - AM
+ - AM
+ - SE
+autor: 
+ - Maria Eugenia Bertarelli
 ---

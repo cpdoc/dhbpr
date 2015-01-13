@@ -1,9 +1,60 @@
 ---
 title: MÜLLER, Lauro
-cargoss:
- - gov. SC 1889-1890
- -  const. 1891
- -  gov. SC 1891
- -  dep. fed. SC 1891-1899
-author: Paulo Brandi Cachapuz
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - min Ind
+ - Senador
+ - Ministro das Relações Exteriores
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1891
+ - 1891
+ - 1891
+ - 1900
+ - 1902
+ - 1902
+ - 1907
+ - 1912
+ - 1917
+datas_fim: 
+ - 1890
+ - 1891
+ - 1891
+ - 1899
+ - 1902
+ - 1902
+ - 1906
+ - 1912
+ - 1917
+ - 1926
+estados: 
+ - SC
+ - 
+ - SC
+ - SC
+ - SC
+ - SC
+ - 
+ - SC
+ - 
+ - SC
+autor: 
+ - Paulo Brandi Cachapuz
 ---

@@ -1,9 +1,52 @@
 ---
 title: SALES, Campos
-cargoss:
- - dep. geral 1885
- -  min. Just. 1889-1891
- -  const. 1891
- -  sen. SP 1891-1896
-author: 
----
+cargoss: 
+ - Deputado Geral
+ - Ministro da Justiça
+ - Constituinte
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente da República
+ - Senador
+ - Embaixador do Brasil - Argentina
+ - sem
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1885
+ - 1889
+ - 1891
+ - 1891
+ - 1896
+ - 1898
+ - 1909
+ - 1912
+ - 1913
+datas_fim: 
+ - 1885
+ - 1891
+ - 1891
+ - 1896
+ - 1897
+ - 1902
+ - 1912
+ - 1912
+ - 1913
+estados: 
+ - 
+ - 
+ - 
+ - SP
+ - SP
+ - 
+ - SP
+ - 
+ - SP

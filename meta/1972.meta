@@ -1,8 +1,25 @@
 ---
 title: SILVA, José Marcelino da Rosa e
-cargoss:
- - pres. RN 1888-1889
- -  sen. PE 1898-1902
- -  dep. fed. PE 1903-1911.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1888
+ - 1898
+ - 1903
+datas_fim: 
+ - 1889
+ - 1902
+ - 1911
+estados: 
+ - RN
+ - PE
+ - PE
+autor: 
+ - Raimundo Helio Lopes
 ---

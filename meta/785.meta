@@ -1,9 +1,26 @@
 ---
 title: EUSÉBIO, José
-cargoss:
- - magistrado
- -  junta gov. PI 1891
- -  dep. fed. MA 1900-1908
- -  sen. MA
-author: Alan Carneiro/Raimundo Helio Lopes
+cargoss: 
+ - Membro de junta governativa
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1900
+ - 1909
+datas_fim: 
+ - 1891
+ - 1908
+ - 1925
+estados: 
+ - PI
+ - MA
+ - MA
+autor:
+ - Alan Carneiro
+ - Raimundo Helio Lopes
 ---

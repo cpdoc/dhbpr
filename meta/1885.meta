@@ -1,8 +1,25 @@
 ---
 title: SANTOS, Gabriel Salgado dos
-cargoss:
- -  militar
- -  dep. fed. AM 1893-1896 e 1900-1902
- -  sen. AM 1911-1912.
-author: Maria Eugenia Bertarelli
+cargoss: 
+ - Deputado federal
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1900
+ - 1893
+ - 1911
+datas_fim: 
+ - 1902
+ - 1896
+ - 1912
+estados: 
+ - AM
+ - AM
+ - AM
+autor: 
+ - Maria Eugenia Bertarelli
 ---

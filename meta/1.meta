@@ -1,9 +1,37 @@
 ---
 title: ABBOTT,Fernando
-cargoss:
- -  const.1891
- -  gov. RS 1891
- -  dep. fed.RS 1891-1892
- -  gov. RS 1892-1893
-author: Izabel Noll
----
+cargoss: 
+ - Constituinte
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Embaixador do Brasil - Argentina
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1891
+ - 1892
+ - 1893
+ - 1894
+datas_fim: 
+ - 1891
+ - 1891
+ - 1892
+ - 1893
+ - 1894
+ - 1897
+estados: 
+ - 
+ - RS
+ - RS
+ - RS
+ - RS
+ - 

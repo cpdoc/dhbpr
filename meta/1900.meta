@@ -1,8 +1,45 @@
 ---
 title: SANTOS, Urbano
-cargoss:
- - dep. fed. MA 1897-1905
- -  sen. MA 1906-1914
- -  vice-pres. Rep. 1914-1918
-author: Alan Carneiro
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Vice-presidente da República
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Ministro da Justiça
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Vice-presidente da República
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - Neg Int
+ - 
+ - 
+datas_ini: 
+ - 1897
+ - 1906
+ - 1914
+ - 1918
+ - 1918
+ - 1919
+ - 1922
+datas_fim: 
+ - 1905
+ - 1914
+ - 1918
+ - 1918
+ - 1919
+ - 1922
+ - 1922
+estados: 
+ - MA
+ - MA
+ - 
+ - MA
+ - 
+ - MA
+ - 
+autor: 
+ - Alan Carneiro
 ---

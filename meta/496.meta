@@ -1,9 +1,61 @@
 ---
 title: CASTRO, Augusto Olímpio Gomes de
-cargoss:
- - magistrado
- -  dep. geral MA 1867-1868
- -  pres. MA 1868-1869
- -  dep. geral MA
-author: Alan Carneiro/Raimundo Helio Lopes
+cargoss: 
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Deputado Geral
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1867
+ - 1868
+ - 1869
+ - 1870
+ - 1872
+ - 1873
+ - 1882
+ - 1877
+ - 1890
+ - 1894
+datas_fim: 
+ - 1868
+ - 1869
+ - 1870
+ - 1872
+ - 1873
+ - 1875
+ - 1889
+ - 1877
+ - 1890
+ - 1909
+estados: 
+ - MA
+ - MA
+ - MA
+ - MA
+ - MA
+ - MA
+ - MA
+ - MA
+ - MA
+ - MA
+autor:
+ - Alan Carneiro
+ - Raimundo Helio Lopes
 ---

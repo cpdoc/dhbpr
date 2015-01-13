@@ -1,8 +1,25 @@
 ---
 title: RIBEIRO, Carlos Leite
-cargoss:
- - dep. fed. DF 1900-1902
- -  pref. DF 1902
- -  dep. fed. DF 1905.
-author: Izabel Silva
+cargoss: 
+ - Deputado federal
+ - Prefeito
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1900
+ - 1902
+ - 1905
+datas_fim: 
+ - 1902
+ - 1902
+ - 1905
+estados: 
+ - DF
+ - DF
+ - DF
+autor: 
+ - Izabel Silva
 ---

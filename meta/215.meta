@@ -1,9 +1,30 @@
 ---
 title: BARRETO, Emídio Dantas
-cargoss:
- - militar
- -  min. Guerra 1910-1911
- -  gov. PE 1911-1915
- -  sen. PE 1916-1918
-author: Marcos Paulo Torres
+cargoss: 
+ - Ministro da Guerra
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1910
+ - 1911
+ - 1916
+ - 1921
+datas_fim: 
+ - 1911
+ - 1915
+ - 1918
+ - 1923
+estados: 
+ - 
+ - PE
+ - PE
+ - PE
+autor: 
+ - Marcos Paulo Torres
 ---

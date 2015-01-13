@@ -1,10 +1,25 @@
 ---
 title: PIMENTEL, Esperidião Elói de Barros
-cargoss:
- - magistrado
- -  dep. geral AL 1861-1872
- -  pres. RS
- -  pres. AL
- -  pres. RJ
-author: Eduardo Junqueira
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1861
+ - 1878
+ - 1892
+datas_fim: 
+ - 1872
+ - 1881
+ - 1893
+estados: 
+ - AL
+ - AL
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

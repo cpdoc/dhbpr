@@ -1,9 +1,22 @@
 ---
 title: FROTA, Júlio
-cargoss:
- -  militar
- -  gov. RS 1890
- -  const. 1891
- -  sen. RS 1891-1909.
-author: 
----
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1890
+ - 1891
+ - 1891
+datas_fim: 
+ - 1890
+ - 1891
+ - 1909
+estados: 
+ - RS
+ - 
+ - RS

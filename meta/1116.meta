@@ -1,9 +1,47 @@
 ---
 title: LIMA, Alexandre Barbosa
-cargoss:
- - const. 1891
- -  dep. fed. CE 1891-1892
- -  gov. PE 1892-1896
- -  dep. fed. PE
-author: Raimundo Helio Lopes
----
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1892
+ - 1897
+ - 1900
+ - 1915
+ - 1906
+ - 1924
+datas_fim: 
+ - 1891
+ - 1892
+ - 1896
+ - 1899
+ - 1905
+ - 1917
+ - 1911
+ - 1930
+estados: 
+ - 
+ - CE
+ - PE
+ - PE
+ - RS
+ - DF
+ - DF
+ - AM

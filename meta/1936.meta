@@ -1,8 +1,30 @@
 ---
 title: SILVA, Antonino Freire da
-cargoss:
- - gov. PI 1910-1012
- -  dep. fed. PI 1913-1916
- -  sen. PI 1919-1926 e 1930.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Senador
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1910
+ - 1913
+ - 1930
+ - 1919
+datas_fim: 
+ - 1012
+ - 1916
+ - 1930
+ - 1926
+estados: 
+ - PI
+ - PI
+ - PI
+ - PI
+autor: 
+ - Raimundo Helio Lopes
 ---

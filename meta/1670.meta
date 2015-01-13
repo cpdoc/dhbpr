@@ -1,9 +1,30 @@
 ---
 title: PINTO, Alfredo
-cargoss:
- -  dep. fed. MG 1897-1902
- -  min. Just. 1919-1921
- -  min. Guerra 1919
- -  min.
-author: Eduardo Junqueira
+cargoss: 
+ - Deputado federal
+ - Ministro da Justiça
+ - Ministro da Guerra
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1897
+ - 1919
+ - 1919
+ - 1921
+datas_fim: 
+ - 1902
+ - 1921
+ - 1919
+ - 1923
+estados: 
+ - MG
+ - 
+ - 
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

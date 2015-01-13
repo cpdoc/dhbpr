@@ -1,8 +1,30 @@
 ---
 title: SILVA, Luís Antônio Domingues da
-cargoss:
- - dep. geral MA 1886-1889
- -  dep. fed. MA 1892-1910
- -  pres. MA 1910-1914
-author: Raimundo Helio Lopes
+cargoss: 
+ - Deputado Geral
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1886
+ - 1892
+ - 1910
+ - 1915
+datas_fim: 
+ - 1889
+ - 1910
+ - 1914
+ - 1922
+estados: 
+ - MA
+ - MA
+ - MA
+ - MA
+autor: 
+ - Raimundo Helio Lopes
 ---

@@ -1,8 +1,40 @@
 ---
 title: CASTRO, Miguel
-cargoss:
- -  pres. PI 1882-1883
- -  dep. geral CE 1885-1888
- -  dep. geral RN 1889
-author: Renato Amado Peixoto
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Deputado Geral
+ - Constituinte
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1882
+ - 1885
+ - 1889
+ - 1891
+ - 1891
+ - 1892
+datas_fim: 
+ - 1883
+ - 1888
+ - 1889
+ - 1891
+ - 1891
+ - 1893
+estados: 
+ - PI
+ - CE
+ - RN
+ - 
+ - RN
+ - RN
+autor: 
+ - Renato Amado Peixoto
 ---

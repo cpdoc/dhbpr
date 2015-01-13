@@ -1,9 +1,40 @@
 ---
 title: CAVALCANTI, Amaro
-cargoss:
- - const. 1891
- -  sen. RN 1891-1893
- -  min. Just. 1897-1898
- -  min. STF
-author: Eduardo Junqueira
+cargoss: 
+ - Constituinte
+ - Senador
+ - Ministro da Justiça
+ - Ministro do Supremo Tribunal Federal
+ - Prefeito
+ - Ministro da Fazenda
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1897
+ - 1906
+ - 1917
+ - 1918
+datas_fim: 
+ - 1891
+ - 1893
+ - 1898
+ - 1914
+ - 1918
+ - 1919
+estados: 
+ - 
+ - RN
+ - 
+ - 
+ - DF
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

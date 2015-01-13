@@ -1,10 +1,35 @@
 ---
 title: ALEIXO, Pinto
-cargoss:
- -  militar
- -  rev. 1922
- -  rev. 1930
- - interv. BA 1942-1945
- -  const. 1946
-author: 
+cargoss: 
+ - Revolucionário ou revoltoso
+ - Revolucionário ou revoltoso
+ - Interventor
+ - Constituinte
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1922
+ - 1930
+ - 1942
+ - 1946
+ - 1946
+datas_fim: 
+ - 1922
+ - 1930
+ - 1945
+ - 1946
+ - 1955
+estados: 
+ - 
+ - 
+ - BA
+ - 
+ - BA
+autor: 
+ - 
 ---

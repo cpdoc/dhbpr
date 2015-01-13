@@ -1,8 +1,35 @@
 ---
 title: CAMPOS, Coelho e
-cargoss:
- -  dep. geral SE 1876-1878 e 1882-1885
- -  const. 1891
- -  sen. SE 1891-1913
-author: 
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Constituinte
+ - Senador
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1882
+ - 1876
+ - 1891
+ - 1891
+ - 1913
+datas_fim: 
+ - 1885
+ - 1878
+ - 1891
+ - 1913
+ - 1919
+estados: 
+ - SE
+ - SE
+ - 
+ - SE
+ - 
+autor: 
+ - 
 ---

@@ -1,7 +1,25 @@
 ---
 title: SILVA, Eliseu Guilherme da
-cargoss:
- - gov. SC 1893
- -  dep. fed. SC 1903-1908 e 1921-1926
-author: Carolina Vianna Dantas
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1893
+ - 1921
+ - 1903
+datas_fim: 
+ - 1893
+ - 1926
+ - 1908
+estados: 
+ - SC
+ - SC
+ - SC
+autor: 
+ - Carolina Vianna Dantas
 ---

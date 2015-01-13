@@ -1,8 +1,25 @@
 ---
 title: BORBA, Manuel
-cargoss:
- -  dep. fed. PE 1912-1915
- -  gov. PE 1915-1919
- -  sen. SE 1920-1928.
-author: 
+cargoss: 
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1912
+ - 1915
+ - 1920
+datas_fim: 
+ - 1915
+ - 1919
+ - 1928
+estados: 
+ - PE
+ - PE
+ - SE
+autor: 
+ - 
 ---

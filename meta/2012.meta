@@ -1,7 +1,20 @@
 ---
 title: SODRÉ, Azevedo
-cargoss:
- -  pref. DF 1916-1917
- -  dep. fed. RJ 1918-1923.
-author: 
+cargoss: 
+ - Prefeito
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+datas_ini: 
+ - 1916
+ - 1918
+datas_fim: 
+ - 1917
+ - 1923
+estados: 
+ - DF
+ - RJ
+autor: 
+ - 
 ---

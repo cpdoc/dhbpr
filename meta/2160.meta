@@ -1,9 +1,30 @@
 ---
 title: VITORINO, Manuel
-cargoss:
- - gov. BA 1889-1890
- -  sen. BA 1891-1894
- -  vice-pres. Rep. 1894-1898
- -  pres.
-author: Silvia Noronha Sarmento
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Vice-presidente da República
+ - Presidente da República
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1889
+ - 1891
+ - 1894
+ - 1896
+datas_fim: 
+ - 1890
+ - 1894
+ - 1898
+ - 1897
+estados: 
+ - BA
+ - BA
+ - 
+ - 
+autor: 
+ - Silvia Noronha Sarmento
 ---

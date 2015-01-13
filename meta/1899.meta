@@ -1,9 +1,27 @@
 ---
 title: SANTOS, Tomás Delfino dos
-cargoss:
- - const. 1891
- -  dep. fed. DF 1891-1896
- -  sen. DF 1896-1906
- -  dep. fed. DF
-author: 
----
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1896
+ - 1912
+datas_fim: 
+ - 1891
+ - 1896
+ - 1906
+ - 1916
+estados: 
+ - 
+ - DF
+ - DF
+ - DF

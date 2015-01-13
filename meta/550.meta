@@ -1,9 +1,40 @@
 ---
 title: CERQUEIRA, Dionísio
-cargoss:
- -  militar
- -  const. 1891
- -  dep. fed. BA 1891-1896
- -  min. Rel. Ext.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Ministro das Relações Exteriores
+ - Ministro da Guerra
+ - min Ind Viação e Obras Públ
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1896
+ - 1896
+ - 1897
+ - 1899
+datas_fim: 
+ - 1891
+ - 1896
+ - 1898
+ - 1897
+ - 1897
+ - 1903
+estados: 
+ - 
+ - BA
+ - 
+ - 
+ - 
+ - BA
+autor: 
+ - 
 ---

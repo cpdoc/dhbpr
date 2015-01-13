@@ -1,10 +1,45 @@
 ---
 title: VALADÃO, Manuel
-cargoss:
- - militar
- -  const. 1891
- -  dep. fed. SE 1891-1893
- -  pres. SE 1894-1896
- -  dep.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1894
+ - 1903
+ - 1907
+ - 1914
+ - 1919
+datas_fim: 
+ - 1891
+ - 1893
+ - 1896
+ - 1907
+ - 1914
+ - 1918
+ - 1921
+estados: 
+ - 
+ - SE
+ - SE
+ - SE
+ - SE
+ - SE
+ - SE
+autor: 
+ - 
 ---

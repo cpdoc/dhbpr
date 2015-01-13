@@ -1,8 +1,30 @@
 ---
 title: ALBUQUERQUE, Carlos Cavalcanti de
-cargoss:
- -  militar
- -  dep. fed. PR 1900-1905e 1909-1911
- -  pres. PR 1912-1916
-author: 
+cargoss: 
+ - Deputado federal
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1909
+ - 1900
+ - 1912
+ - 1921
+datas_fim: 
+ - 1911
+ - 
+ - 1916
+ - 1930
+estados: 
+ - PR
+ - PR
+ - PR
+ - PR
+autor: 
+ - 
 ---

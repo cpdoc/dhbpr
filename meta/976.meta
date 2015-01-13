@@ -1,9 +1,35 @@
 ---
 title: GOUVEIA, Urbano Coelho de
-cargoss:
- - militar
- -  dep. fed. GO 1892-1898
- -  pres. GO 1898-1901
- -  dep. fed. GO
-author: Adrianna Setemy
+cargoss: 
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1892
+ - 1898
+ - 1901
+ - 1903
+ - 1909
+datas_fim: 
+ - 1898
+ - 1901
+ - 1902
+ - 1909
+ - 1912
+estados: 
+ - GO
+ - GO
+ - GO
+ - GO
+ - GO
+autor: 
+ - Adrianna Setemy
 ---

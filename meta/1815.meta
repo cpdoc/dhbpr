@@ -1,8 +1,30 @@
 ---
 title: RICHARD, Gustavo
-cargoss:
- -  gov. SC 1890-1891 e 1906-1910
- -  sen. SC 1906
- -  dep. fed. SC 1912-1914.
-author: Carolina Vianna Dantas
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1906
+ - 1890
+ - 1906
+ - 1912
+datas_fim: 
+ - 1910
+ - 1891
+ - 1906
+ - 1914
+estados: 
+ - SC
+ - SC
+ - SC
+ - SC
+autor: 
+ - Carolina Vianna Dantas
 ---

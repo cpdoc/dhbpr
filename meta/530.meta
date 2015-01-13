@@ -1,9 +1,30 @@
 ---
 title: CAVALCANTI, José Rufino Bezerra
-cargoss:
- - dep. fed. PE 1906-1914
- -  min. Agr. 1915-1918
- -  sen. PE 1918-1919
- -  gov.
-author: Marcos Paulo Torres
+cargoss: 
+ - Deputado federal
+ - min Agr
+ - Senador
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1906
+ - 1915
+ - 1918
+ - 1919
+datas_fim: 
+ - 1914
+ - 1918
+ - 1919
+ - 1920
+estados: 
+ - PE
+ - 
+ - PE
+ - PE
+autor: 
+ - Marcos Paulo Torres
 ---

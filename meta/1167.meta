@@ -1,9 +1,35 @@
 ---
 title: LOBO, Aristides
-cargoss:
- -  dep. geral AL 1864-1870
- -  min. Interior 1889-1890
- -  const. 1891
- -  dep.
-author: Surama Conde Sá Pinto
+cargoss: 
+ - Deputado Geral
+ - Ministro do Interior
+ - Constituinte
+ - Deputado federal
+ - senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1864
+ - 1889
+ - 1891
+ - 1891
+ - 1892
+datas_fim: 
+ - 1870
+ - 1890
+ - 1891
+ - 1892
+ - 1896
+estados: 
+ - AL
+ - 
+ - 
+ - DF
+ - DF
+autor: 
+ - Surama Conde Sá Pinto
 ---

@@ -1,8 +1,25 @@
 ---
 title: ACIÓLI JÚNIOR, João Batista
-cargoss:
- -  dep. fed. AL 1912-1914
- - gov. AL 1915-1918
- -  sen. AL 1927-1928.
-author: 
+cargoss: 
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1912
+ - 1915
+ - 1927
+datas_fim: 
+ - 1914
+ - 1918
+ - 1928
+estados: 
+ - AL
+ - AL
+ - AL
+autor: 
+ - 
 ---

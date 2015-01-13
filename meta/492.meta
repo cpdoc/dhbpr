@@ -1,8 +1,35 @@
 ---
 title: CASTILHOS, Júlio de
-cargoss:
- -  const. 1891
- -  dep. fed. RS 1891-1893
- -  pres. RS 1891, 1892 e 1893-1898.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1893
+ - 1892
+ - 1891
+datas_fim: 
+ - 1891
+ - 1893
+ - 1898
+ - 1892
+ - 
+estados: 
+ - 
+ - RS
+ - RS
+ - RS
+ - RS
+autor: 
+ - 
 ---

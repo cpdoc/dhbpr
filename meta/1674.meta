@@ -1,8 +1,30 @@
 ---
 title: PINTO, Firmiano de Morais
-cargoss:
- - dep. fed. SP 1897 e 1900-1902
- -  pref. SP 1920-1926
- -  dep. fed. SP
-author: Dirceu Franco
+cargoss: 
+ - Deputado federal
+ - Deputado federal
+ - Prefeito
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1900
+ - 1897
+ - 1920
+ - 1926
+datas_fim: 
+ - 1902
+ - 1897
+ - 1926
+ - 1930
+estados: 
+ - SP
+ - SP
+ - SP
+ - SP
+autor: 
+ - Dirceu Franco
 ---

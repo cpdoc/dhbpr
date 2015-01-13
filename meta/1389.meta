@@ -1,7 +1,22 @@
 ---
 title: MOACIR, Pedro
-cargoss:
- - dep. fed. RS 1894-1896 e 1906-1914
- -  dep. fed. RJ 1915-1917.
-author: 
----
+cargoss: 
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1906
+ - 1894
+ - 1915
+datas_fim: 
+ - 1914
+ - 1896
+ - 1917
+estados: 
+ - RS
+ - RS
+ - RJ

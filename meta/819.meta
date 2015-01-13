@@ -1,9 +1,55 @@
 ---
 title: FERREIRA, Antônio Gonçalves
-cargoss:
- - dep. geral PE 1881-1888
- -  pres. MG 1888-1889
- -  const. 1891
- -  dep. fed. PE
-author: 
+cargoss: 
+ - Deputado Geral
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Constituinte
+ - Deputado federal
+ - Ministro da Justiça
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1881
+ - 1888
+ - 1891
+ - 1891
+ - 1894
+ - 1897
+ - 1900
+ - 1904
+ - 1915
+datas_fim: 
+ - 1888
+ - 1889
+ - 1891
+ - 1893
+ - 1896
+ - 1900
+ - 1904
+ - 1914
+ - 1929
+estados: 
+ - PE
+ - MG
+ - 
+ - PE
+ - 
+ - PE
+ - PE
+ - PE
+ - PE
+autor: 
+ - 
 ---

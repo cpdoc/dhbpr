@@ -1,8 +1,50 @@
 ---
 title: NASCIMENTO, Alexandre Cassiano do
-cargoss:
- - const. 1891
- -  dep. fed. RS 1891-1893
- -  min. Rel. Ext. 1893-1894
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Ministro das Relações Exteriores
+ - Ministro da Justiça
+ - Ministro da Fazenda
+ - Deputado federal
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1893
+ - 1893
+ - 1894
+ - 1900
+ - 1895
+ - 1909
+datas_fim: 
+ - 1891
+ - 1893
+ - 1894
+ - 1894
+ - 1894
+ - 1909
+ - 1898
+ - 1912
+estados: 
+ - 
+ - RS
+ - 
+ - 
+ - 
+ - RS
+ - RS
+ - RS
+autor: 
+ - 
 ---

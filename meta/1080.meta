@@ -1,8 +1,31 @@
 ---
 title: LEITE, Benedito
-cargoss:
- - magistrado e jornalista
- -  junta gov. MA 1891-1892
- -  dep. fed. MA
-author: Alan Carneiro/Raimundo Helio Lopes
+cargoss: 
+ - Membro de junta governativa
+ - Deputado federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1892
+ - 1896
+ - 1906
+datas_fim: 
+ - 1892
+ - 1896
+ - 1906
+ - 1908
+estados: 
+ - MA
+ - MA
+ - MA
+ - MA
+autor:
+ - Alan Carneiro
+ - Raimundo Helio Lopes
 ---

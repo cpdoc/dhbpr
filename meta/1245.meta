@@ -1,8 +1,25 @@
 ---
 title: MALTA, Joaquim Paulo Vieira
-cargoss:
- -  sen. AL 1903
- -  gov. AL 1903-1905
- -  sen. AL 1907-1911.
-author: 
+cargoss: 
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1903
+ - 1903
+ - 1907
+datas_fim: 
+ - 1903
+ - 1905
+ - 1911
+estados: 
+ - AL
+ - AL
+ - AL
+autor: 
+ - 
 ---

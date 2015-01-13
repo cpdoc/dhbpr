@@ -1,10 +1,35 @@
 ---
 title: PINHEIRO, João
-cargoss:
- - gov. MG 1890
- -  const. 1891
- -  dep. fed. MG 1891
- -  sen. MG 1905-1906
- -  pres.
-author: Vanessa Lana
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Deputado federal
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1890
+ - 1891
+ - 1891
+ - 1905
+ - 1906
+datas_fim: 
+ - 1890
+ - 1891
+ - 1891
+ - 1906
+ - 1908
+estados: 
+ - MG
+ - 
+ - MG
+ - MG
+ - MG
+autor: 
+ - Vanessa Lana
 ---

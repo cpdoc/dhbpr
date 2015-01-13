@@ -1,10 +1,37 @@
 ---
 title: PEIXOTO, Floriano
-cargoss:
- - militar
- -  min. Guerra 1890-1891
- -  const. 1891
- -  sen. AL 1891
- -  pres. STM
-author: Renato Lemos
----
+cargoss: 
+ - Ministro da Guerra
+ - Constituinte
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Vice-presidente da República
+ - Presidente da República
+cargos_esp: 
+ - 
+ - 
+ - 
+ - STM
+ - 
+ - 
+datas_ini: 
+ - 1890
+ - 1891
+ - 1891
+ - 1891
+ - 1891
+ - 1891
+datas_fim: 
+ - 1891
+ - 1891
+ - 1891
+ - 1893
+ - 1891
+ - 1894
+estados: 
+ - 
+ - 
+ - AL
+ - 
+ - 
+ - 

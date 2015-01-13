@@ -1,9 +1,50 @@
 ---
 title: FRANCO, Pereira
-cargoss:
- - magistrado
- -  pres. SE 1853
- -  dep. geral BA 1857-1864 e 1869-1870
- -  min.
-author: Eduardo Junqueira
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Deputado Geral
+ - min Marinha
+ - Deputado Geral
+ - min Marinha
+ - Ministro da Guerra
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1853
+ - 1869
+ - 1857
+ - 1870
+ - 1872
+ - 1875
+ - 1876
+ - 1891
+datas_fim: 
+ - 1853
+ - 1870
+ - 1864
+ - 1871
+ - 1875
+ - 1878
+ - 1878
+ - 1902
+estados: 
+ - SE
+ - BA
+ - BA
+ - 
+ - BA
+ - 
+ - 
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

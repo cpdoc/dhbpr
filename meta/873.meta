@@ -1,10 +1,50 @@
 ---
 title: FONTENELLE, Bezerril
-cargoss:
- - militar
- -  const. 1891
- -  dep. fed. CE 1891-1892
- -  pres. CE 1892-1896
- -  dep.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+ - Senador
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1892
+ - 1897
+ - 1898
+ - 1903
+ - 1908
+ - 1909
+datas_fim: 
+ - 1891
+ - 1892
+ - 1896
+ - 1898
+ - 1903
+ - 1908
+ - 1909
+ - 1914
+estados: 
+ - 
+ - CE
+ - CE
+ - CE
+ - CE
+ - CE
+ - CE
+ - CE
+autor: 
+ - 
 ---

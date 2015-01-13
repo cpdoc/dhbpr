@@ -1,8 +1,26 @@
 ---
 title: NEVES, Graciano dos Santos
-cargoss:
- - junta gov. ES 1891-1892
- -  pres. ES 1896-1897
- -  dep. fed. ES 1906-1908.
-author: Nara Saletto/Fernando Achiamé
+cargoss: 
+ - Membro de junta governativa
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1896
+ - 1906
+datas_fim: 
+ - 1892
+ - 1897
+ - 1908
+estados: 
+ - ES
+ - ES
+ - ES
+autor:
+ - Nara Saletto
+ - Fernando Achiamé
 ---

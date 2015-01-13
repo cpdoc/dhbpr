@@ -1,8 +1,26 @@
 ---
 title: MARCELINO, José
-cargoss:
- - dep. geral BA 1886-1889
- -  gov. BA 1904-1908
- -  sen. BA 1909-1917.
-author: Silvia Noronha Sarmento/ Consuelo Novais Sampaio
+cargoss: 
+ - Deputado Geral
+ - Governador de estado ou do Distrito Federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1886
+ - 1904
+ - 1909
+datas_fim: 
+ - 1889
+ - 1908
+ - 1917
+estados: 
+ - BA
+ - BA
+ - BA
+autor:
+ - Silvia Noronha Sarmento
+ -  Consuelo Novais Sampaio
 ---

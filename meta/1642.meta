@@ -1,9 +1,35 @@
 ---
 title: PEREIRA, Sodré
-cargoss:
- - min. Império 1879
- -  pres. PE 1882-1883
- -  min. Just. 1884-1885
- -  const.
-author: 
+cargoss: 
+ - min Império
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Ministro da Justiça
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1879
+ - 1882
+ - 1884
+ - 1891
+ - 1891
+datas_fim: 
+ - 1879
+ - 1883
+ - 1885
+ - 1891
+ - 1902
+estados: 
+ - 
+ - PE
+ - 
+ - 
+ - BA
+autor: 
+ - 
 ---

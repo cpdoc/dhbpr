@@ -1,8 +1,26 @@
 ---
 title: OURIQUE, Alfredo Ernesto Jacques
-cargoss:
- - const. 1891
- -  dep. fed. DF 1891
- -  dep. fed. ES 1912-1914.
-author: Nara Saletto/Fernando Achiamé
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1912
+datas_fim: 
+ - 1891
+ - 1891
+ - 1914
+estados: 
+ - 
+ - DF
+ - ES
+autor:
+ - Nara Saletto
+ - Fernando Achiamé
 ---

@@ -1,8 +1,40 @@
 ---
 title: MALTA, Euclides Vieira
-cargoss:
- - dep. fed. AL 1892-1893 e 1897-1899
- -  gov. AL 1900-1903
- -  sen. AL
-author: 
+cargoss: 
+ - Deputado federal
+ - Deputado federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1897
+ - 1892
+ - 1900
+ - 1903
+ - 1906
+ - 1921
+datas_fim: 
+ - 1899
+ - 1893
+ - 1903
+ - 1906
+ - 1912
+ - 1926
+estados: 
+ - AL
+ - AL
+ - AL
+ - AL
+ - AL
+ - AL
+autor: 
+ - 
 ---

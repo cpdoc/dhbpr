@@ -1,9 +1,35 @@
 ---
 title: LEMOS, Faria
-cargoss:
- - magistrado
- -  pres. PE 1872
- -  pres. CE 1876-1877
- -  pres. RS 1877-1878
-author: Eduardo Junqueira
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1872
+ - 1876
+ - 1877
+ - 1886
+ - 1892
+datas_fim: 
+ - 1872
+ - 1877
+ - 1878
+ - 1887
+ - 1894
+estados: 
+ - PE
+ - CE
+ - RS
+ - MG
+ - 
+autor: 
+ - Eduardo Junqueira
 ---

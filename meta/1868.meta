@@ -1,9 +1,35 @@
 ---
 title: SALES, Francisco
-cargoss:
- - dep. fed. MG 1900-1902
- -  pres. MG 1902-1906
- -  sen. MG 1906-1910
- -  min.
-author: Vanessa Lana
+cargoss: 
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+ - Ministro da Fazenda
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1900
+ - 1902
+ - 1906
+ - 1910
+ - 1915
+datas_fim: 
+ - 1902
+ - 1906
+ - 1910
+ - 1913
+ - 1923
+estados: 
+ - MG
+ - MG
+ - MG
+ - 
+ - MG
+autor: 
+ - Vanessa Lana
 ---

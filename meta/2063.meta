@@ -1,8 +1,22 @@
 ---
 title: TAVARES, Francisco da Silva
-cargoss:
- -  dep. geral RS 1886-1889
- -  gov. RS 1890
- -  rev. 1893.
-author: 
----
+cargoss: 
+ - Deputado Geral
+ - Governador de estado ou do Distrito Federal
+ - Revolucionário ou revoltoso
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1886
+ - 1890
+ - 1893
+datas_fim: 
+ - 1889
+ - 1890
+ - 1893
+estados: 
+ - RS
+ - RS
+ - 

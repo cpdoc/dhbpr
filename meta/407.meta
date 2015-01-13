@@ -1,9 +1,30 @@
 ---
 title: CAMPOS, Monsenhor Olímpio
-cargoss:
- - religioso
- -  dep. geral SE 1886-1889
- -  dep. fed. SE 1894-1899
- -  pres. SE
-author: 
+cargoss: 
+ - Deputado Geral
+ - Deputado federal
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1886
+ - 1894
+ - 1899
+ - 1902
+datas_fim: 
+ - 1889
+ - 1899
+ - 1902
+ - 1906
+estados: 
+ - SE
+ - SE
+ - SE
+ - SE
+autor: 
+ - 
 ---

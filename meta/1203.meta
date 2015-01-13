@@ -1,9 +1,26 @@
 ---
 title: MACHADO, Francisco da Cunha
-cargoss:
- - magistrado
- -  junta gov. MA 1891-1892
- -  dep. fed. MA 1904-1923
- -  sen. MA
-author: Alan Carneiro/Raimundo Helio Lopes
+cargoss: 
+ - Membro de junta governativa
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1904
+ - 1923
+datas_fim: 
+ - 1892
+ - 1923
+ - 1930
+estados: 
+ - MA
+ - MA
+ - MA
+autor:
+ - Alan Carneiro
+ - Raimundo Helio Lopes
 ---

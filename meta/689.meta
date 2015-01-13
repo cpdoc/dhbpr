@@ -1,9 +1,30 @@
 ---
 title: CUNHA, José Mariano Carneiro da
-cargoss:
- - dep. geral PE 1878-1885
- -  const. 1891
- -  dep. fed. PE 1891-1899
- -  dep.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Deputado Geral
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1878
+ - 1891
+ - 1891
+ - 1912
+datas_fim: 
+ - 1885
+ - 1891
+ - 1899
+ - 1912
+estados: 
+ - PE
+ - 
+ - PE
+ - PB
+autor: 
+ - Raimundo Helio Lopes
 ---

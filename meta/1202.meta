@@ -1,8 +1,30 @@
 ---
 title: MACHADO, Ângelo Gomes Pinheiro
-cargoss:
- - const. 1891
- -  dep. fed. SP 1891-1896
- -  dep. fed. RS 1900-1905 e
-author: Henrique Sugahara Francisco
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1909
+ - 1900
+datas_fim: 
+ - 1891
+ - 1896
+ - 1910
+ - 1905
+estados: 
+ - 
+ - SP
+ - RS
+ - RS
+autor: 
+ - Henrique Sugahara Francisco
 ---

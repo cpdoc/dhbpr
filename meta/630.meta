@@ -1,10 +1,60 @@
 ---
 title: CORREIA, Serzedelo
-cargoss:
- -  militar
- -  pres. PR 1890
- -  const. 1891
- -  dep. fed. PA 1891-1892
- -  min.
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Constituinte
+ - Deputado federal
+ - Ministro das Relações Exteriores
+ - secr Agric , Com e Obras Públicas
+ - Ministro da Viação e Obras Públicas
+ - Ministro da Fazenda
+ - Deputado federal
+ - Prefeito
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1890
+ - 1891
+ - 1891
+ - 1892
+ - 1892
+ - 1892
+ - 1892
+ - 1895
+ - 1909
+ - 1912
+datas_fim: 
+ - 1890
+ - 1891
+ - 1892
+ - 1892
+ - 1892
+ - 1892
+ - 1893
+ - 1902
+ - 1910
+ - 1914
+estados: 
+ - PR
+ - 
+ - PA
+ - 
+ - 
+ - 
+ - 
+ - PA
+ - DF
+ - PA
+autor: 
+ - 
 ---

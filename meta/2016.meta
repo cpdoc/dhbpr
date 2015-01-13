@@ -1,8 +1,25 @@
 ---
 title: SODRÉ, Muniz
-cargoss:
- - dep. fed. BA 1912-1920
- -  sen. BA 1920-1927
- -  dep. fed. BA 1930.
-author: 
+cargoss: 
+ - Deputado federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1912
+ - 1920
+ - 1930
+datas_fim: 
+ - 1920
+ - 1927
+ - 1930
+estados: 
+ - BA
+ - BA
+ - BA
+autor: 
+ - 
 ---

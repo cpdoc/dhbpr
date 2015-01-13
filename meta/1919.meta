@@ -1,8 +1,70 @@
 ---
 title: SEABRA, J. J.
-cargoss:
- - const. 1891
- -  dep. fed. BA 1891-1893 e 1897-1902
- -  min. Interior e Just.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+ - Ministro do Interior
+ - Deputado federal
+ - Ministro da Viação e Obras Públicas
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+ - Senador
+ - Governador de estado ou do Distrito Federal
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - e Just
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1897
+ - 1891
+ - 1902
+ - 1909
+ - 1910
+ - 1912
+ - 1916
+ - 1917
+ - 1920
+ - 1934
+ - 1935
+datas_fim: 
+ - 1891
+ - 1902
+ - 1893
+ - 1906
+ - 1910
+ - 1912
+ - 1915
+ - 1917
+ - 1920
+ - 1924
+ - 1934
+ - 1937
+estados: 
+ - 
+ - BA
+ - BA
+ - 
+ - BA
+ - 
+ - BA
+ - BA
+ - BA
+ - BA
+ - 
+ - BA
+autor: 
+ - 
 ---

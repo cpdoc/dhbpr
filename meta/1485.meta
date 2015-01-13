@@ -1,8 +1,35 @@
 ---
 title: NOGUEIRA, Almeida
-cargoss:
- - dep. geral SP 1878, 1881-1884 e 1886-1889
- -  const. 1891
- -  dep. fed. SP
-author: Dirceu Franco
+cargoss: 
+ - Deputado Geral
+ - Deputado Geral
+ - Deputado Geral
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1886
+ - 1881
+ - 1878
+ - 1891
+ - 1891
+datas_fim: 
+ - 1889
+ - 1884
+ - 
+ - 1891
+ - 1896
+estados: 
+ - SP
+ - SP
+ - SP
+ - 
+ - SP
+autor: 
+ - Dirceu Franco
 ---

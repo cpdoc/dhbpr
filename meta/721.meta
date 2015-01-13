@@ -1,9 +1,35 @@
 ---
 title: DIAS, Sátiro
-cargoss:
- - pres. AM 1880-1881
- -  pres. RN 1881-1882
- -  pres. CE 1883-1884
- -  dep. geral
-author: 
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Deputado Geral
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1880
+ - 1881
+ - 1883
+ - 1885
+ - 1900
+datas_fim: 
+ - 1881
+ - 1882
+ - 1884
+ - 1885
+ - 1906
+estados: 
+ - AM
+ - RN
+ - CE
+ - AM
+ - BA
+autor: 
+ - 
 ---

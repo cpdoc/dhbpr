@@ -1,8 +1,45 @@
 ---
 title: ALVIM, Cesário
-cargoss:
- -  dep. geral MG 1867-1868 e1877-1880
- -  pres. RJ 1884-1886
- -  gov.MG
-author: Vanessa Lana
+cargoss: 
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Governador de estado ou do Distrito Federal
+ - Ministro do Interior
+ - Constituinte
+ - Senador
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Prefeito
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1884
+ - 1889
+ - 1890
+ - 1891
+ - 1891
+ - 1891
+ - 1899
+datas_fim: 
+ - 1886
+ - 1890
+ - 1891
+ - 1891
+ - 1891
+ - 1892
+ - 1990
+estados: 
+ - RJ
+ - MG
+ - 
+ - 
+ - MG
+ - MG
+ - DF
+autor: 
+ - Vanessa Lana
 ---
