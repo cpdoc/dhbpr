@@ -1,46 +1,15 @@
 ---
 title: ABBOTT,Fernando
-cargoss: 
- - Constituinte
- - Governador de estado ou do Distrito Federal
- - Deputado federal
- - Governador de estado ou do Distrito Federal
- - Deputado federal
- - Embaixador do Brasil - Argentina
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1891
- - 1892
- - 1893
- - 1894
-datas_fim: 
- - 1891
- - 1891
- - 1892
- - 1893
- - 1894
- - 1897
-estados: 
- - 
- - RS
- - RS
- - RS
- - RS
- - 
+autor:
+ - Izabel Noll
+cargos:
+ - const. 1891
+ - gov. RS 1891
+ - dep. fed.RS 1891-1892
+ - gov. RS 1892-1893
+ - dep.fed. RS 1893-1894
+ - emb. Bras. Argentina 1894-1897
 ---
-
-**ABBOTT,Fernando**
-
-\* const.1891; gov. RS 1891; dep. fed.RS 1891-1892; gov. RS 1892-1893;
-dep.fed. RS 1893-1894; emb. Bras. Argentina 1894-1897.
 
 *Fernando Fernandes Abbott* nasceu em SãoGabriel (RS) em 1857, filho de
 JonatasAbbott Filho, natural da Bahia, e deZeferina Fernandes Abbott.
@@ -94,8 +63,3 @@ Publicou *Ligeiro estudo sobre a afinidade química* (1877);*Do
 jaborandi: sua ação fisiológica e terapêutica. Qual o ácido do suco
 gástrico?*;*Da hematocele*; e *Histeria*, tese apresentada naFaculdade
 de Medicina do Rio de Janeiro(1878).
-
-Izabel Noll
-
-**FONTES**: BLAKE, A. *Diccionario*;GUIMARÃES, J.; FELIZARDO, J.
-*Genealogia*; O’DONNELL,F. *Apparicio.*
