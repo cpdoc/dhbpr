@@ -1,0 +1,112 @@
+#+Title: Dicionário Histórico Biográfico da Primeira República
+
+* Files
+
+This dictionary has six directories: 
+
+- html :: Holds the original html files for each dictionary entry.
+
+- md :: Holds the markdown files from of each html file entry.
+
+- meta :: Holds the processed meta data information compiled in the
+     first paragraph of each dictionary entry. Each meta file holds
+     the following fields:
+
+  - title
+  - each position is comprised of 5 different fields (represented by a
+    list, each position entry means an item of list for each field):
+    cargoss (position), cargos_esp (detail of the position), datas_ini
+    (initial date), datas_fim (end date), estados (state where the
+    position was taken).
+  - autor (author of the entry)
+
+- ref :: Holds the reference text in each dictionary entry.
+
+- txt :: Holds the text body in each dictionary entry.
+
+- text :: final documents
+
+* Automatic Correct Files (under construction)
+
+The library cl-yaml has a bug! The code below isn't completed because
+of that. The strings are not double-quoted in the flow style.
+
+#+BEGIN_SRC lisp
+(ql:quickload :optima)
+(ql:quickload :cl-ppcre)
+(ql:quickload :cl-yaml)
+
+(defpackage :test
+  (:use :optima :cl-ppcre :cl-yaml :cl))
+
+(in-package :test)
+
+(defmacro consume (flag)
+  `(progn
+     (format t "DEBUG [~a] : ~a~%" lineno line)
+     (incf lineno)
+     (if ,flag
+	 (push line lines))))
+
+(defun make-head (lines)
+  (let ((tb (cl-yaml:parse (format nil "~{~a~^~%~}" (reverse lines)))))
+    (dolist (k '("cargoss" "datas_ini" "datas_fim" "estados" "cargos_esp") tb)
+      (remhash k tb))))
+
+(defun read-file (filename)
+  (with-open-file (stream filename)
+    (let ((state 'start)
+	  (lineno 0)
+	  (head)
+	  (lines))
+      (do ((line (read-line stream nil nil)
+		 (read-line stream nil nil)))
+	  ((null line)
+	   (cons head (format nil "~{~a~^~%~}" (reverse lines))))
+	(match (list line state lineno)
+	  ((list "---" 'start _)
+	   (push line lines)
+	   (setf state 'head))
+	  ((list "---" 'head _)
+	   (push line lines)
+	   (setf state 'text)
+	   (setf head (make-head lines))
+	   (setf lines nil))
+	  ((list _ 'head _)
+	   (push line lines))
+	  ((list _ 'text 1)
+	   (multiple-value-bind (m vals)
+	       (cl-ppcre:scan-to-strings "^\\*+([^\\*]*)\\*+$" (string-trim '(#\Space) line))
+	     (if m
+		 (progn
+		   (assert (equal (aref vals 0) (gethash "title" head)))
+		   (consume nil))
+		 (consume t))))
+	  ((list _ 'text 3)
+	   (multiple-value-bind (m vals)
+	       (cl-ppcre:scan-to-strings "^\\\\\\*[ ]*(.+)$" (string-trim '(#\Space #\.) line))
+	     (if m
+		 (progn
+		   (setf (gethash "cargos" head) (cl-ppcre:split ";[ ]*" (aref vals 0)))
+		   (consume nil))
+		 (consume t))))
+	  ((list _ 'text _)
+	   (consume t)))))))
+#+END_SRC
+
+Possible alternative with Python:
+
+#+BEGIN_SRC python
+import yaml
+print yaml.dump(yaml.load(open("1.tmp")), default_flow_style=False)
+#+END_SRC
+
+Ou usando haskell, idéia preliminar:
+
+#+BEGIN_SRC haskell :results value
+  import Data.Yaml
+  decodeFile "text/1.tmp" :: IO (Maybe Value)
+#+END_SRC
+
+- https://hackage.haskell.org/package/yaml 
+- https://hackage.haskell.org/package/aeson-0.11.2.0/docs/Data-Aeson.html
