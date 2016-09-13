@@ -1,49 +1,18 @@
 ---
 title: CERQUEIRA, Dionísio
-cargoss: 
- - Constituinte
- - Deputado federal
- - Ministro das Relações Exteriores
- - Ministro da Guerra
- - min Ind Viação e Obras Públ
- - Deputado federal
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1896
- - 1896
- - 1897
- - 1899
-datas_fim: 
- - 1891
- - 1896
- - 1898
- - 1897
- - 1897
- - 1903
-estados: 
- - 
- - BA
- - 
- - 
- - 
- - BA
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - const. 1891 
+ - dep. fed. BA 1891-1896
+ - min. Rel. Ext. 1896-1898
+ - min. Guerra 1896-1897
+ - min. Ind. Viação e Obras Públ. 1897
+ - dep. fed. BA 1899-1903
 autor: 
- - 
+ - Jaime Oliveira do Nascimento
 ---
-
-**CERQUEIRA, Dionísio**
-
-\* militar; const. 1891; dep. fed. BA 1891-1896; min. Rel. Ext.
-1896-1898; min. Guerra 1896-1897; min. Ind. Viação e Obras Públ. 1897;
-dep. fed. BA 1899-1903.
 
 *Dionísio Evangelista de Castro Cerqueira* nasceu na vila de Curralinho,
 atual município de Castro Alves (BA), no dia 2 de abril de 1847, filho
@@ -141,7 +110,7 @@ tarefa na qual já haviam falhado outros oficiais de patente superior.
 Apelando para o espírito patriótico e a disciplina militar dos alunos,
 conseguiu obter sua confiança.
 
-Constituinte de 1891
+## Constituinte de 1891
 
 Quando das eleições de 15 de setembro de 1890 para o Congresso Nacional
 Constituinte, logrou conquistar uma cadeira, tendo sido indicado
@@ -212,10 +181,10 @@ Branco pôde redigir contundente exposição ao árbitro da questão, o
 presidente dos Estados Unidos, Stephen Grover Cleveland. Este, frente à
 irrefutabilidade das provas apresentadas, decidiu-se a favor do Brasil.
 
-Ministro e Deputado
+## Ministro e Deputado
 
 Dionísio Cerqueira foi reeleito para a Câmara dos Deputados na
-legislatura 1894-1896, mas renunciou ao mandato em 1^o^ de setembro de
+legislatura 1894-1896, mas renunciou ao mandato em 1º de setembro de
 1896, por ter sido nomeado pelo presidente Prudente de Morais
 (1894-1898) para o Ministério das Relações Exteriores em substituição a
 Carlos Augusto de Carvalho, que havia pedido demissão. Também foi,
@@ -307,13 +276,4 @@ federal pelo Distrito Federal (1912-1914).
 
 Escreveu *Reminiscências da Guerra do Paraguai* e *Reminiscências da
 fronteira*, obra póstuma.
-
-Jaime Oliveira do Nascimento
-
-**FONTES:** ABRANCHES, J. *Governos* (v.2); AMARAL, B. *Elogio*
-(p.130-135); BLAKE, A. *Diccionario* (v.1); BULCÃO SOBRINHO, A.
-*Histórico*; BULCÃO SOBRINHO, A. *Representantes* (p.55-86); CALMON, P.
-*História* (p.2.056/2.057); CERQUEIRA, P. *General* (p.30-63); *Gazeta
-do Povo, Diário da Bahia, Diário de Notícias* (17,18/2/1910).
-Falecimento do general Dionísio Cerqueira; PRAZERES, O. *Bahia*; PRES.
-REP. *Governos* (p.27,28,40); SOUZA, A. *Baianos* (p.171-172).
+=
