@@ -1,27 +1,14 @@
 ---
 title: CASTRO, Cardoso de
-cargoss: 
- - Ministro do Supremo Tribunal Militar
- - Ministro do Supremo Tribunal Federal
-cargos_esp: 
- - 
- - 
-datas_ini: 
- - 1893
- - 1905
-datas_fim: 
- - 1905
- - 1911
-estados: 
- - 
- - 
-autor: 
+natureza: biográfico
+sexo: m
+cargos: 
+ - magistrado
+ - min. STM 1893-1905
+ - min. STF 1905-1911 
+autor:  
  - Eduardo Junqueira
 ---
-
-**CASTRO, Cardoso de**
-
-\*magistrado; min. STM 1893-1905; min. STF 1905-1911.
 
 *Antônio Augusto Cardoso de Castro* nasceu na província da Bahia no dia
 8 de setembro de 1860, filho de Antônio Joaquim Cardoso de Castro e de
@@ -52,9 +39,3 @@ outubro de 1911, data em que faleceu na cidade do Rio de Janeiro.
 Seu filho Mário Augusto Cardoso de Castro seguiu carreira na
 magistratura militar, tendo sido, como o pai, ministro do Supremo (atual
 Superior) Tribunal Militar.
-
-Eduardo Junqueira
-
-**FONTES:** MATTOSO, P. *Supremo Tribunal*; MELLO FILHO, J. *Notas*;
-RODRIGUES, L. *História*; SUP. TRIB. FED. Disponível em:
-\<www.stf.jus.br/portal/ministros\>*.*

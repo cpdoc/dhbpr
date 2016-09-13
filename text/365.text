@@ -1,48 +1,17 @@
 ---
 title: CAFÉ FILHO
-cargoss: 
- - Revolucionário ou revoltoso
- - Deputado federal
- - Constituinte
- - Deputado federal
- - Vice-presidente da República
- - Presidente da República
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1930
- - 1935
- - 1946
- - 1946
- - 1951
- - 1954
-datas_fim: 
- - 1930
- - 1937
- - 1946
- - 1951
- - 1954
- - 1955
-estados: 
- - 
- - RN
- - 
- - RN
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - rev. 1930
+ - dep. fed. RN 1935-1937
+ - const. 1946
+ - dep. fed. RN 1946-1951
+ - vice-pres. Rep. 1951-1954
+ - pres. Rep. 1954-1955 
 autor: 
  - Vilma Keller
 ---
-
-**CAFÉ FILHO**
-
-\*rev. 1930; dep. fed. RN 1935-1937; const. 1946; dep. fed. RN
-1946-1951; vice-pres. Rep. 1951-1954; pres. Rep. 1954-1955.
 
 *João Café Filho* nasceu em Natal no dia 3 de fevereiro de 1899, filho
 de João Fernandes Campos Café e de Florência Amélia Campos Café. Seu avô
@@ -65,7 +34,7 @@ junto às camadas populares e alvo de pressões por parte das oligarquias
 dominantes.
 
 Sua atividade regular no campo do jornalismo começou em 1921, quando
-fundou o *Jornal do Norte,* impresso nas oficinas de *A Opinião,* órgão
+fundou o *Jornal do Norte*, impresso nas oficinas de *A Opinião*, órgão
 oposicionista. Além de publicar frequentes artigos sobre as más
 condições de vida dos trabalhadores da região, passou a apoiar a Reação
 Republicana, movimento que lançou a candidatura de Nilo Peçanha à
@@ -93,9 +62,9 @@ geral na capital do estado. Nessa ocasião, escapou de um cerco policial
 à sua residência e, acompanhado da esposa, Jandira Fernandes de Oliveira
 Café, fugiu para Bezerros (PE). Aí conseguiu emprego na prefeitura
 graças à sua amizade com o delegado de polícia, e passou a editar o
-*Correio de Bezerros.*
+*Correio de Bezerros*.
 
-Mudou-se para Recife em 1925, tornando-se diretor do jornal *A Noite,*
+Mudou-se para Recife em 1925, tornando-se diretor do jornal *A Noite*,
 onde passou a escrever reportagens e propaganda política. Ainda nesse
 ano, redigiu uma proclamação pedindo que os soldados, cabos, sargentos e
 oficiais jovens se recusassem a combater a Coluna Miguel Costa-Prestes,
@@ -126,7 +95,7 @@ sindicatos em que trabalhava foram depredados, forçando nova fuga para
 Recife.
 
 Transferiu-se para o Rio de Janeiro no início de 1929, tornando-se
-redator do jornal *A Manhã,* dirigido por Agripino Nazaré. Em agosto
+redator do jornal *A Manhã*, dirigido por Agripino Nazaré. Em agosto
 desse ano, formou-se a Aliança Liberal, coligação oposicionista de
 âmbito nacional apoiada pelos governos do Rio Grande do Sul, Minas
 Gerais e Paraíba e por grande parte da jovem oficialidade do Exército.
@@ -136,13 +105,13 @@ chapa Getúlio Vargas-João Pessoa para disputar as eleições presidenciais
 de março de 1930. Impedido de regressar ao Rio Grande do Norte, foi
 indicado por Assis Brasil para integrar a equipe que coordenava a
 campanha da Aliança Liberal na Paraíba sob a liderança de João Pessoa.
-Chegando a esse estado em janeiro de 1930, relançou o *Jornal do Norte,*
+Chegando a esse estado em janeiro de 1930, relançou o *Jornal do Norte*,
 que fora fechado em Natal, e passou a percorrer o interior em campanha.
 Junto com José Américo de Almeida e outros políticos da região, fez a
 saudação pública à chegada da caravana liberal à Paraíba no dia 2 de
 fevereiro, motivo de grande manifestação popular.
 
-Na Revolução de 1930
+## Na Revolução de 1930
 
 A vitória do candidato situacionista Júlio Prestes nas eleições de 1930
 foi considerada fraudulenta por importantes setores da Aliança Liberal,
@@ -219,7 +188,7 @@ que elegeu 14 deputados para a Constituinte estadual contra 11 da
 Aliança Social, garantindo assim a indicação de Rafael Fernandes para o
 cargo de governador a partir de outubro seguinte.
 
-Primeiro Mandato Parlamentar
+## Primeiro Mandato Parlamentar
 
 Eleito deputado federal para a legislatura iniciada em 3 de maio de
 1935, Café Filho foi convidado pelo comandante Herculino Cascardo,
@@ -276,7 +245,7 @@ preparação de um golpe militar.
 
 Café Filho integrou a comitiva de Armando Sales em visita a Minas Gerais
 e discursou ao seu lado em Belo Horizonte. O estado de guerra foi
-suspenso em junho, mas em 1^o^ de outubro o governo solicitou nova
+suspenso em junho, mas em 1º de outubro o governo solicitou nova
 autorização do Congresso para decretá-lo por mais 90 dias em virtude da
 “descoberta” de um suposto plano comunista para a tomada violenta do
 poder, denominado Plano Cohen. Conforme comprovação posterior,
@@ -297,7 +266,7 @@ dia 10 desse mês foi desfechado o golpe que, liderado pelo próprio
 presidente Vargas, suprimiu os órgãos legislativos e os partidos
 políticos do país e instaurou o Estado Novo.
 
-Na Constituinte de 1946
+## Na Constituinte de 1946
 
 Em entrevista concedida à imprensa de Buenos Aires, Café Filho criticou
 o novo regime político brasileiro. Em consequência, foi confinado pelo
@@ -382,7 +351,7 @@ Em fins de 1947, o Congresso aprovou um projeto, apresentado por Café
 Filho, determinando a fixação de um piso salarial para os trabalhadores
 em jornais. Em represália, os proprietários de jornais decidiram proibir
 a publicação de notícias referentes ao autor do projeto, o que levou os
-jornalistas a editar o *Café Jornal,* autointitulado “órgão do comitê
+jornalistas a editar o *Café Jornal*, autointitulado “órgão do comitê
 pró-aumento de salários dos jornalistas profissionais”. Apoiando a
 reação patronal, o presidente Dutra vetou a promulgação da lei, o que
 provocou a realização de uma grande concentração de jornalistas em
@@ -421,7 +390,7 @@ também do PSD. Permanecendo no exercício das funções parlamentares, Café
 propôs, com êxito, a criação de uma comissão especial para verificar as
 condições carcerárias nos presídios do Distrito Federal.
 
-A Sucessão de Dutra
+## A Sucessão de Dutra
 
 As negociações em torno da sucessão presidencial tiveram início ainda em
 1949 com a formação de uma comissão composta pelos presidentes das três
@@ -472,7 +441,7 @@ pretensão e, em 18 de janeiro de 1951, o TSE confirmou a vitória de
 Vargas e Café, afirmando que a Constituição não previa a necessidade de
 maioria absoluta.
 
-Na Vice-Presidência da República
+## Na Vice-Presidência da República
 
 O segundo governo constitucional de Vargas teve início em 31 de janeiro
 de 1951, passando a enfrentar uma forte oposição liderada pela UDN,
@@ -564,7 +533,7 @@ ocorrida, principalmente no Rio, em São Paulo e em Porto Alegre,
 desarmou a ofensiva golpista e inviabilizou a intervenção militar direta
 no governo, garantindo a posse de Café Filho no mesmo dia.
 
-Na Presidência da República
+## Na Presidência da República
 
 Procurando diminuir o impacto produzido pela divulgação da
 *Carta-Testamento* de Vargas, Café Filho emitiu logo sua primeira nota
@@ -675,12 +644,12 @@ Roboré, que foi muito criticada pelas forças nacionalistas no Brasil por
 permitir a entrada de capitais privados na exploração do petróleo nessa
 região. Ainda no terreno energético, Café Filho inaugurou em fins de
 janeiro de 1955 a primeira usina hidrelétrica de Paulo Afonso. Também
-nessa época, foi baixada a Instrução n^o^ 113 da Sumoc, que favoreceu o
+nessa época, foi baixada a Instrução nº 113 da Sumoc, que favoreceu o
 ingresso do capital estrangeiro no país e veio a se constituir num dos
 mecanismos mais importantes para captar os recursos necessários ao
 processo de industrialização dos anos seguintes.
 
-O Encaminhamento da Sucessão
+## O Encaminhamento da Sucessão
 
 Ainda no início de 1955, o presidente recebeu do ministro da Marinha um
 documento sigiloso assinado pelos ministros militares e por destacados
@@ -694,7 +663,7 @@ descontentes.
 
 O presidente apoiou o teor do documento e, diante dos comentários da
 imprensa sobre sua existência, obteve a aprovação dos signatários para
-divulgá-lo na íntegra através da *Voz* *do Brasil.* Apesar dessa
+divulgá-lo na íntegra através da *Voz do Brasil*. Apesar dessa
 demonstração da oposição militar à sua candidatura, Kubitschek
 prosseguiu em campanha e seu nome foi homologado pela convenção nacional
 do PSD em 10 de fevereiro. Os líderes do PTB e do PSP também reagiram
@@ -712,7 +681,7 @@ contava com o apoio dos diretórios estaduais de seu estado, do Rio
 Grande do Sul e de Santa Catarina, além de deter influência na Bahia e
 no Distrito Federal.
 
-Em 1^o^ de abril, Jânio Quadros declarou sua intenção de
+Em 1º de abril, Jânio Quadros declarou sua intenção de
 desincompatibilizar-se do governo de São Paulo para concorrer à
 presidência, mas no mesmo dia enviou emissários para negociar uma
 composição com Juarez Távora. Sua proposta incluía o apoio ao candidato
@@ -795,7 +764,7 @@ Exército e resultou na vitória da chapa Juscelino-Goulart. O resultado
 final do IPM foi divulgado no fim do mês, inocentando o vice-presidente
 eleito.
 
-O Movimento Militar de 11 de Novembro
+## O Movimento Militar de 11 de Novembro
 
 Com a divulgação dos resultados oficiais do pleito, a UDN deflagrou uma
 campanha contra a posse dos candidatos eleitos, voltando a sustentar a
@@ -805,7 +774,7 @@ deflagração de um golpe militar. Entretanto, Café Filho e o general Lott
 reafirmaram seu compromisso com a legalidade.
 
 A crise se agravou a partir do discurso pronunciado pelo coronel
-Jurandir de Bizarria Mamede em 1^o^ de novembro, durante o enterro do
+Jurandir de Bizarria Mamede em 1º de novembro, durante o enterro do
 general Canrobert Pereira da Costa, falecido na véspera. Falando como
 porta-voz da diretoria do Clube Militar, Mamede posicionou-se contra a
 posse dos eleitos, numa atitude considerada por Lott como desrespeitosa
@@ -814,8 +783,8 @@ Guerra (ESG), órgão vinculado à Presidência da República, o que obrigava
 o ministro da Guerra a pedir autorização a Café Filho para puni-lo. O
 presidente, por sua vez, também estava sofrendo pressões de outra
 natureza. No dia 2 de novembro, recebeu um memorial assinado pelos três
-ministros militares solicitando o fechamento do jornal *Imprensa*
-*Popular* e de outros órgãos considerados comunistas, mas a medida foi
+ministros militares solicitando o fechamento do jornal *Imprensa
+Popular* e de outros órgãos considerados comunistas, mas a medida foi
 considerada inconstitucional pelo ministro Prado Kelly.
 
 Na manhã do dia 3 de novembro, Café Filho foi internado no Hospital dos
@@ -868,28 +837,9 @@ do Estado, onde permaneceu até aposentar-se em 1969.
 Faleceu no Rio de Janeiro no dia 20 de fevereiro de 1970. Era casado com
 Jandira Fernandes de Oliveira Café, com quem teve um filho.
 
-Deixou publicado o livro *Do sindicato ao* *Catete*; *memórias políticas
+Deixou publicado o livro *Do sindicato ao Catete; memórias políticas
 e confissões humanas* (2v., 1966).
 
 O arquivo de Café Filho encontra-se depositado no Centro de Pesquisa e
 Documentação de História Contemporânea do Brasil (Cpdoc) da Fundação
 Getúlio Vargas.
-
-Vilma Keller
-
-**FONTES:** *Almanaque Abril*; *Almanaque Mundial* (1960); ARQ. CAFÉ
-FILHO; ARQ. GETÚLIO VARGAS; *Boletim Min.* *Trab.* (5 /1936); CAFÉ
-FILHO, J. *Do sindicato*; CÂM. DEP. *Deputados*;CÂM. DEP. *Relação dos
-dep.*; CARVALHO, E. *Petróleo*; CASCUDO, L. *História*; CASCUDO, L.
-*História da Assembleia*;CISNEIROS, A. *Parlamentares*; CORTÉS, C.
-*Homens*; COSTA, M. *Cronologia*; COUTINHO*,* A*. Brasil*; Diário do
-congresso nacional; DULLES, J. *Getúlio*; *Encic. Mirador*;*Estado de*
-*S. Paulo* (19/9/1976); FRANCO, A. *Escalada*; *Grande encic. Delta*;
-*Grande encic. portuguesa*; HIPÓLITO, L. *Campanha*;*Jornal do Brasil*
-(1/2, 11, 21/7/1959, 11/9/1960, 21/12/1972); *Jornal do Comércio,* Rio
-(21/2/1970); LEITE, A. *História*; LEITE, A. *Páginas*;LIMA, H.
-*Travessia*; MACEDO, N. *Aspectos*; MACHADO, F. *Últimos*; MIN. GUERRA.
-*Subsídios*; MORAIS, A. *Minas*;NOGUEIRA FILHO, P. *Ideais*; REIS
-JÚNIOR, P. *Presidentes*;SILVA*,* G*. Constituinte*; SILVA, H. *1935*;
-SILVA, H. *1937*; SILVA, R. *Bacharéis*; TAVARES, J.
-*Radicalização*;TRIB. SUP. ELEIT. *Dados*; *Veja* (25/2/1970).

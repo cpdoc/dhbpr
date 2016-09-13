@@ -1,86 +1,24 @@
 ---
 title: BRASIL, Assis
-cargoss: 
- - Constituinte
- - Embaixador do Brasil - Argentina
- - membro junta gov
- - Embaixador do Brasil - Argentina
- - Embaixador do Brasil - EUA
- - Embaixador do Brasil - Argentina
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - Deputado federal
- - Revolucionário ou revoltoso
- - Ministro da Agricultura
- - Embaixador do Brasil - Argentina
- - Constituinte
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1890
- - 1891
- - 1892
- - 1898
- - 1905
- - 1923
- - 1924
- - 1927
- - 1930
- - 1930
- - 1931
- - 1934
-datas_fim: 
- - 1891
- - 1891
- - 1891
- - 1893
- - 1903
- - 1907
- - 1923
- - 1924
- - 1929
- - 1930
- - 1932
- - 1933
- - 1934
-estados: 
- - 
- - 
- - RS
- - 
- - 
- - 
- - 
- - 
- - RS
- - 
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - emb. Bras. Argentina 1890-1891
+ - membro junta gov. RS 1891
+ - emb. Bras. Argentina 1892-1893
+ - emb. Bras. EUA 1898-1903
+ - emb. Bras. Argentina 1905-1907
+ - rev. 1923
+ - rev. 1924
+ - dep. fed. RS 1927-1929
+ - rev. 1930
+ - min. Agric. 1930-1932
+ - emb. Bras. Argentina 1931-1933
+ - const. 1934 
 autor: 
- - 
+ - Regina da Luz Moreira
 ---
-
-**BRASIL, Assis**
-
-\*const. 1891; emb. Bras. Argentina 1890-1891; membro junta gov. RS
-1891; emb. Bras. Argentina 1892-1893; emb. Bras. EUA 1898-1903; emb.
-Bras. Argentina 1905-1907; rev. 1923; rev. 1924; dep. fed. RS 1927-1929;
-rev. 1930; min. Agric. 1930-1932; emb. Bras. Argentina 1931-1933; const.
-1934.
 
 *Joaquim Francisco de Assis Brasil* nasceu na estância de São Gonçalo,
 município de São Gabriel (RS), em 29 de julho de 1857, filho do
@@ -101,10 +39,10 @@ Contemporâneos de colégio, ambos participaram do grêmio literário
 Fraternidade Escola, responsável pela publicação de uma revista da qual
 eram colaboradores.
 
-Em 1877, publicou seu primeiro livro, *Chispas,* que reunia poemas
+Em 1877, publicou seu primeiro livro, *Chispas*, que reunia poemas
 revolucionários e anticlericais.
 
-Atuação Republicana
+## Atuação Republicana
 
 Ao ingressar em 1878 na Faculdade de Direito de São Paulo, na época um
 dos principais centros de propaganda do republicanismo, Assis Brasil já
@@ -114,15 +52,15 @@ sobretudo entre 1880 e 1881, período em que presidiram a agremiação
 Antônio Gomes Pinheiro Machado Filho (irmão de José Gomes Pinheiro
 Machado), Afonso Celso de Assis Figueiredo Júnior, o próprio Assis
 Brasil e Júlio de Castilhos. Colaborou também na revista da entidade,
-intitulada *A República,* em *Direito e* *Letras,* órgão mensal do
+intitulada *A República*, em *Direito e Letras*, órgão mensal do
 Ateneu Jurídico e Literário, um dos grêmios que floresciam na faculdade,
-e em *A Comédia,* outro órgão universitário. Ao lado de Júlio de
+e em *A Comédia*, outro órgão universitário. Ao lado de Júlio de
 Castilhos e Pereira da Costa, também gaúcho, fundou o jornal republicano
-*A Evolução,* mantendo-se ainda como colaborador de órgãos de imprensa
+*A Evolução*, mantendo-se ainda como colaborador de órgãos de imprensa
 do Rio de Janeiro, então Distrito Federal, sempre como defensor de teses
-republicanas e anticlericais. Fundou e dirigiu a*Revista Federal* e
+republicanas e anticlericais. Fundou e dirigiu a *Revista Federal* e
 finalmente publicou dois livros nesse período: *A república
-rio-grandense* (1880)*,* em que defendia ardorosamente a Revolução
+rio-grandense* (1880), em que defendia ardorosamente a Revolução
 Farroupilha (1835), e *A república federal* (1881).
 
 Em setembro de 1882, poucos meses antes de sua formatura, Assis Brasil
@@ -137,7 +75,7 @@ Castilhos e Assis Brasil.
 
 Durante dois anos, Assis Brasil concentrou sua atuação política no clube
 republicano de Porto Alegre e, no início de 1884, passou também a
-colaborar sistematicamente no jornal *A Federação,* órgão do PRR então
+colaborar sistematicamente no jornal *A Federação*, órgão do PRR então
 lançado graças aos trabalhos desenvolvidos desde a fundação do partido
 por uma comissão à frente da qual se encontrava Castilhos. O nome de *A
 Federação* fora proposto por Assis Brasil durante o primeiro congresso
@@ -161,7 +99,7 @@ recepção custou-lhe a acusação de indisciplina, motivo que determinou
 sua transferência para a Escola de Tiro de Rio Pardo (RS).
 
 O fato foi amplamente explorado pela imprensa oposicionista, em
-particular pela gaúcha. Através de *A Federação,* Castilhos e Assis
+particular pela gaúcha. Através de *A Federação*, Castilhos e Assis
 Brasil desenvolveram intensa campanha política – que contou, inclusive,
 com uma manifestação do marechal Deodoro da Fonseca, então comandante
 das guarnições da província, e com o apoio de José Antônio Correia da
@@ -222,7 +160,7 @@ de apenas trezentos votos. Todavia, os republicanos gaúchos não chegaram
 a ter qualquer participação direta na proclamação da República, no dia
 15 de novembro de 1889.
 
-O Governo Provisório de Deodoro da Fonseca
+## O Governo Provisório de Deodoro da Fonseca
 
 Ao assumir o governo provisório da República, o marechal Deodoro da
 Fonseca marcou as eleições para o Congresso Nacional Constituinte para o
@@ -243,7 +181,7 @@ incremento à inflação, já então bastante elevada.
 Por outro lado, Assis Brasil foi nomeado, em 25 de março de 1890,
 embaixador extraordinário e ministro plenipotenciário do Brasil na
 Argentina, em substituição a Leonel Martiniano, posto que conservaria
-oficialmente até 1^o^ de janeiro do ano seguinte. Aproveitando sua ida
+oficialmente até 1º de janeiro do ano seguinte. Aproveitando sua ida
 ao Rio de Janeiro – onde receberia instruções para sua missão junto ao
 governo argentino –, a comissão executiva do PRR e o próprio presidente
 do Rio Grande do Sul, general Júlio Frota, incumbiram-no de intermediar
@@ -274,7 +212,7 @@ Castilhos viajava para o Rio de Janeiro, onde conseguiu de Deodoro o
 afastamento definitivo de Silva Tavares e a nomeação do general Cândido
 Costa.
 
-A Constituinte de 1891
+## A Constituinte de 1891
 
 Em meados de julho de 1890, por ocasião da escolha da chapa do PRR que
 concorreria às eleições para a Constituinte, Assis Brasil teve lançada
@@ -336,7 +274,7 @@ tipo de pronunciamento definitivo. Iniciou-se então a preparação de um
 movimento rebelde, liderado em grande parte por oficiais militares e
 chefes dos antigos partidos monárquicos.
 
-A Junta Governativa Gaúcha de 1891
+## A Junta Governativa Gaúcha de 1891
 
 Os dias que se seguiram foram marcados pela eclosão de vários levantes
 no interior do estado, ao mesmo tempo em que a Câmara estadual – na qual
@@ -380,7 +318,7 @@ poder ao vice-presidente Floriano Peixoto em 23 de novembro de 1891.
 
 No dia 19 de dezembro – mês em que se reintegrou à carreira diplomática
 –, Assis Brasil publicou na imprensa gaúcha um manifesto intitulado
-*Assis Brasil aos seus concidadãos,* onde, rompendo o silêncio,
+*Assis Brasil aos seus concidadãos*, onde, rompendo o silêncio,
 criticava Castilhos e justificava o movimento que provocara sua queda.
 Entre outras coisas, declarava já se encontrar politicamente afastado do
 líder republicano desde a primeira dissidência ocorrida no partido, em
@@ -397,14 +335,13 @@ inteiramente nem com os dissidentes históricos do PRR, liderados por
 Barros Cassal, nem com os ideais do Partido Federalista, que seria
 criado no início de 1893.
 
-Retorno à Diplomacia
+## Retorno à Diplomacia
 
 No dia 15 de janeiro de 1892, Assis Brasil reassumiu seu posto de
 embaixador extraordinário e ministro plenipotenciário na Argentina, em
 substituição a Ciro de Azevedo, e nele permaneceu até outubro de 1893,
 quando, no mês de outubro, foi enviado à China em missão especial. Data
-desse ano, ainda, a publicação de seu livro *Democracia representativa;*
-*do voto e modo de votar.* No início de 1895, entrou em disponibilidade.
+desse ano, ainda, a publicação de seu livro *Democracia representativa; do voto e modo de votar*. No início de 1895, entrou em disponibilidade.
 
 Assis Brasil retornou em seguida ao Rio de Janeiro, aqui chegando no
 momento em que o governo de Prudente de Morais (1894-1898) dispunha-se a
@@ -435,7 +372,7 @@ filha de José Pereira Ferreira Felício e de Lídia Smith Vasconcelos,
 segundos condes de São Mamede, ambos brasileiros, mas residentes em
 Lisboa havia muitos anos.
 
-A Questão do Acre e o Tratado de Petrópolis
+## A Questão do Acre e o Tratado de Petrópolis
 
 Em março de 1898, no momento em que o Brasil iniciava uma aproximação
 maior, tanto política quando econômica, com o governo norte-americano,
@@ -605,7 +542,7 @@ maiores resultados práticos. Após o seu término, Assis Brasil e Joaquim
 Nabuco – embaixador brasileiro nos Estados Unidos – ainda acompanharam
 Root em sua visita a São Paulo.
 
-As Eleições de 1907 e o PRD
+## As Eleições de 1907 e o PRD
 
 Em 1907, Assis Brasil voltou a se envolver na política rio-grandense,
 então agitada pela proximidade das eleições para a presidência do
@@ -659,7 +596,7 @@ que deveriam ser feitas indiretamente pelo Congresso. O PRD adotou o
 lema “Representação e Justiça”, que, segundo Joseph Love, traduzia
 vagamente o conservadorismo de seu programa. Ainda em 1908, Assis Brasil
 desenvolveu essas teses no livro *Ditadura, parlamentarismo e
-democracia.* Publicou também *Brasil* *e Inglaterra,* breve comparação
+democracia*. Publicou também *Brasil e Inglaterra*, breve comparação
 entre os dois países a propósito da questão anglo-brasileira.
 
 Contudo, a duração do PRD foi efêmera. Ante o fracasso de mais essa
@@ -679,7 +616,7 @@ muito superior à das demais, tornou-se o responsável direto pela
 introdução da raça Devons no país, hoje um dos maiores e mais difundidos
 rebanhos do Rio Grande do Sul.
 
-A Revolução de 1923
+## A Revolução de 1923
 
 Em 1921, ao mesmo tempo em que se preparavam as eleições presidenciais
 de março do ano seguinte, iniciaram-se no Rio Grande do Sul as
@@ -802,7 +739,7 @@ por Borges de Medeiros: de todas as exigências dos revolucionários, só
 não foi aceita a da deposição imediata do presidente gaúcho, a quem,
 entretanto, foram vedadas novas reeleições.
 
-A Aliança Libertadora e a Revolução de 1924
+## A Aliança Libertadora e a Revolução de 1924
 
 Em 15 de janeiro de 1924, as oposições gaúchas – representadas por
 federalistas, democratas e republicanos dissidentes, e tendo como
@@ -923,7 +860,7 @@ exercida do exílio. A junção das tropas de Prestes e de Miguel Costa deu
 então origem à Coluna Miguel Costa-Prestes, que percorreu o país até
 1927, quando se internou em território boliviano.
 
-A Volta do Exílio e a Criação do PDN
+## A Volta do Exílio e a Criação do PDN
 
 Assis Brasil permaneceu no exílio até o início de 1927, quando retornou
 ao Rio Grande do Sul, que então se preparava para as eleições federais.
@@ -949,7 +886,7 @@ muito embora acreditasse não haver qualquer possibilidade de que isso
 viesse a ocorrer.
 
 No mês seguinte, o Partido Democrático (PD) de São Paulo, por ocasião do
-lançamento de seu jornal, *Diário Nacional*,convidou os parlamentares e
+lançamento de seu jornal, *Diário Nacional*, convidou os parlamentares e
 políticos da oposição ao governo federal a irem àquele estado, onde
 aproveitariam a oportunidade para debater sobre a conveniência da
 criação de um partido de oposição nacional. Chegando à capital paulista
@@ -984,7 +921,7 @@ turno, os libertadores abstiveram-se de apresentar um candidato próprio,
 mas publicaram um manifesto, assinado por Assis Brasil, no qual abriam
 crédito de confiança a Vargas, que teve assim garantida a sua eleição.
 
-O Partido Libertador
+## O Partido Libertador
 
 No início de 1928, intensificaram-se as articulações para a criação de
 um novo partido no Rio Grande do Sul. Em 28 de fevereiro, chegou ao
@@ -1062,7 +999,7 @@ Em Paris, na segunda quinzena de maio, Assis Brasil encontrou-se com
 Paulo Nogueira Filho, que, por problemas de saúde, se afastara do
 *Diário Nacional* e das articulações revolucionárias. Nessa ocasião,
 Assis Brasil mostrou-se favorável a mais uma tentativa pacífica – a
-última – nas eleições de 1^o^ de março de 1930; caso contrário,
+última – nas eleições de 1º de março de 1930; caso contrário,
 inclinar-se-ia à deflagração da “revolução democrático-libertadora”.
 Nesse sentido, o líder libertador informou a Nogueira Filho que
 recentemente estivera em Libres, na Argentina, onde se avistara com
@@ -1076,7 +1013,7 @@ preferiria a indicação de Getúlio Vargas, desde que houvesse
 concordância entre os chefes revolucionários. Poucos dias depois desse
 contato, Assis Brasil regressou ao país.
 
-A Aliança Liberal e a Revolução de 1930
+## A Aliança Liberal e a Revolução de 1930
 
 Em junho de 1929, empenhados na disputa pela sucessão do presidente
 Washington Luís, representantes dos estados de Minas Gerais e do Rio
@@ -1091,7 +1028,7 @@ ou Getúlio Vargas, para encabeçar a chapa aliancista.
 
 Já no mês seguinte, Assis Brasil recebeu carta de Antunes Maciel
 informando-o de que vinha fazendo, de modo indireto, propaganda
-favorável à Aliança Liberal no jornal *O* *Libertador,* órgão do PL,
+favorável à Aliança Liberal no jornal *O Libertador*, órgão do PL,
 muito embora ainda aguardasse a deliberação oficial do partido. Nesse
 mesmo dia, Antunes Maciel foi chamado a Porto Alegre por Osvaldo Aranha,
 então secretário do Interior, que pedia seu comparecimento ao palácio do
@@ -1109,7 +1046,7 @@ apenas da reunião do diretório central do PL, à qual estariam presentes,
 entre outros, o próprio Assis Brasil, Antunes Maciel, Raul Pilla,
 Batista Luzardo e um emissário de Vargas.
 
-Concluída em 1^o^ de agosto, a reunião decidiu que o PL apoiaria a
+Concluída em 1º de agosto, a reunião decidiu que o PL apoiaria a
 candidatura de Vargas. Essa decisão deveu-se em grande parte ao empenho
 de Assis Brasil e de Batista Luzardo, que conseguiram convencer a
 maioria do partido, favorável ao lançamento de uma candidatura própria.
@@ -1147,7 +1084,7 @@ notícia de seu afastamento. Questionado por Paulo Nogueira Filho, Assis
 Brasil negou haver-se retirado da política, muito embora houvesse
 decidido recusar qualquer posto de direção ou representação.
 
-Após a realização do pleito de 1^o^ de março, que deu a vitória a Júlio
+Após a realização do pleito de 1º de março, que deu a vitória a Júlio
 Prestes, Borges de Medeiros, em declaração à imprensa, aconselhou os
 políticos gaúchos a acatar os resultados. No mesmo dia, Assis Brasil
 convocou a imprensa para uma entrevista, declarando aos jornalistas que
@@ -1196,7 +1133,7 @@ encontro, pois desejava discutir com ele os problemas suscitados pela
 revolução antes de partir rumo ao *front* –, por uma comissão presidida
 por Assis Brasil, que pouco se demorou na capital, apesar da grande
 manifestação pública com que foi recebido. Mais tarde, em 26 de outubro,
-Assis Brasil enviou uma carta a Vargas, conhecida como *Decálogo,* na
+Assis Brasil enviou uma carta a Vargas, conhecida como *Decálogo*, na
 qual reafirmava os princípios com ele assentados antes de sua partida
 para o Rio. Essa carta, no entanto, só foi divulgada em 7 de novembro.
 
@@ -1235,7 +1172,7 @@ dedicou-se simultaneamente à política interna, à embaixada na Argentina,
 à comissão encarregada da reforma da Lei Eleitoral e à elaboração do
 anteprojeto da Constituição.
 
-A Política Interna
+## A Política Interna
 
 A questão de São Paulo refletia bem a situação que se criou após a
 Revolução de 1930. Entre novembro e dezembro desse ano, delineou-se a
@@ -1283,7 +1220,7 @@ No dia 4 de maio, foram oficialmente inaugurados os trabalhos da
 comissão encarregada da reforma eleitoral. Na verdade, porém, o que foi
 feito até o final de 1931 foram apenas estudos.
 
-A Missão na Argentina
+## A Missão na Argentina
 
 A partir de 1931 Assis Brasil realizou diversas viagens de curta duração
 à Argentina como embaixador em missão especial. Em fins desse ano, como
@@ -1304,7 +1241,7 @@ irrompeu a Guerra do Chaco, o que levou à suspensão das negociações. Até
 tentativa de coordenar esforços para solucionar o impasse, o que somente
 ocorreria, porém, em 1936.
 
-A Reconstitucionalização
+## A Reconstitucionalização
 
 A partir de janeiro de 1932, com a posse de Maurício Cardoso no
 Ministério da Justiça, intensificaram-se os trabalhos de preparação da
@@ -1408,7 +1345,7 @@ de seus integrantes continuava do lado de Assis Brasil, que considerava
 desnecessário o conflito armado.
 
 Após a derrota do movimento paulista no início de outubro, o governo deu
-prosseguimento ao processo de reconstitucionalização: em 1^o^ de
+prosseguimento ao processo de reconstitucionalização: em 1º de
 novembro, foi assinado um decreto acelerando e regulamentando os
 trabalhos da comissão constitucional encarregada de elaborar o
 anteprojeto de Constituição. Por ocasião da posse de Antunes Maciel no
@@ -1445,7 +1382,7 @@ objetivo, sem desvincular Assis Brasil do governo, afastá-lo da
 Argentina, onde se encontrava então grande parte dos exilados da
 Revolução de 1932, os quais tentavam articular ali um novo movimento.
 
-A Constituinte de 1934
+## A Constituinte de 1934
 
 Apesar do afastamento do país, Assis Brasil foi eleito para a Assembleia
 Nacional Constituinte no pleito de 3 de maio de 1933 na legenda da FUG.
@@ -1472,26 +1409,3 @@ Pedras Altas, em Pinheiro Machado, no dia 24 de dezembro de 1938.
 
 Além das obras já citadas, deixou publicados vários discursos,
 conferências e livros, alguns dos quais sobre problemas da agropecuária.
-
-Regina da Luz Moreira
-
-**FONTES:** ABRANCHES, J. *Governos;* ANTUNES, D. *História;* ARQ.
-GETÚLIO VARGAS; BEHAR, E. *Vultos;* BELEZA, N. *Evolução*; BLAKE, A.
-*Dic*.; CABRAL, C. *Homens*; CAMPOS, R. *Relações*;CARNEIRO, G.
-*História;* CARONE, E. *República nova;* COELHO, J.*Dic*.; *Correio do
-Povo* (23/6/41); DULLES, J*. Getúlio*; *Encic. Barsa; Encic. Mirador*;
-FERREIRA FILHO, A. *História*; FONTOURA, J. *Memórias*; FRANCO, A.
-*Estadista*; FRANCO, S. *Júlio;* FUND. GETULIO VARGAS. *Cronologia da
-Assembleia*; *Grande encic. Delta;* GUERRA FILHO, R. *Ministério*;
-GUIMARÃES, A. *Dic*.; INST. NAC. LIVRO. *Índice*; JARDIM, R. *Aventura*;
-LEITE, A. *História*; LEITE, A. *Memórias*; LEVINE, R. *Vargas*; LIMA,
-L. *Coluna*;LOVE, J. *Regionalismo*; MELO, L. *Subsídios;* MIN. REL.
-EXT*. Almanaque* (1934); MIN. REL. EXT. *Anuário;* NOGUEIRA FILHO, P.
-*Ideais*;*Novo dic. de* *história*; PEIXOTO, A. *Getúlio*;
-*Personalidades*; PESAVENTO, S. *Política*; REIS JÚNIOR, P.
-*Presidentes*;SÁ, M. *Politização*; SILVA, H. *1889*; SILVA, H. *1922*;
-SILVA, H. *1926*; SILVA, H. *1930*; SILVA, H. *1931*; SILVA, H. *1932*;
-SILVA, H. *1933*; SILVA, H. *1934*; SILVA, R. *Notas*; SOUSA, J.
-*Teatro*; SPALDING, V. *Construtores*;TÁVORA, J. *Vida*; TOCANTINS, L.
-*Formação*; VALLA, V. *Penetração*;VAMPRÉ, S. *Memórias*; VELHO
-SOBRINHO, J. *Dic*.; VIANA, H.*História.*
