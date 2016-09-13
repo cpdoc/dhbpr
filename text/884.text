@@ -1,54 +1,18 @@
 ---
 title: FRANCO, Afrânio de Melo
-cargoss: 
- - Deputado federal
- - Ministro da Viação e Obras Públicas
- - Deputado federal
- - Embaixador do Brasil - Liga
- - Deputado federal
- - Revolucionário ou revoltoso
- - Ministro das Relações Exteriores
-cargos_esp: 
- - 
- - 
- - 
- - das Nações
- - 
- - 
- - 
-datas_ini: 
- - 1906
- - 1918
- - 1920
- - 1924
- - 1927
- - 1930
- - 1930
-datas_fim: 
- - 1918
- - 1919
- - 1923
- - 1926
- - 1929
- - 1930
- - 1933
-estados: 
- - MG
- - 
- - MG
- - 
- - MG
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. fed. MG 1906-1918
+ - min. Viação 1918-1919
+ - dep. fed. MG 1920-1923
+ - emb. Bras. Liga das Nações 1924-1926
+ - dep. fed. MG 1927-1929
+ - rev. 1930
+ - min. Rel. Ext. 1930-1933 
 autor: 
  - Paulo Brandi
 ---
-
-**FRANCO, Afrânio de Melo**
-
-\*dep. fed. MG 1906-1918; min. Viação 1918-1919; dep. fed. MG 1920-1923;
-emb. Bras. Liga das Nações 1924-1926; dep. fed. MG 1927-1929; rev. 1930;
-min. Rel. Ext. 1930-1933.
 
 *Afrânio de Melo Franco* nasceu em Paracatu (MG) no dia 25 de fevereiro
 de 1870, filho de Virgílio Martins de Melo Franco e de Ana Leopoldina de
@@ -69,13 +33,6 @@ Arinos de Melo Franco, seu irmão mais velho e homônimo de seu filho, foi
 escritor da escola regionalista, autor de *Pelo sertão* e membro da
 Academia Brasileira de Letras.
 
-FGV/CPDOC
-
-![Descrição:
-http://www.novocpdoc.fgv.br/accessus/fotos/AA/AAFOTO001\_2.jpg](FRANCO,%20Afr%c3%a2nio%20de%20Melo_arquivos/image001.jpg)
-
-Afrânio de Melo Franco (à direita).
-
 Afrânio fez os estudos básicos no Colégio da Conceição, em São João del
 Rei, e no Colégio Abílio, em Barbacena, municípios de seu estado natal.
 Em 1887, ingressou na Faculdade de Direito de São Paulo, com o nome de
@@ -83,7 +40,7 @@ Afrânio Camorim Jacaúna de Otingi, seguindo, por imposição do pai, uma
 tradição liberal e maçônica de adoção de nomes indígenas. Na faculdade
 aderiu à causa republicana, junto com seu colega de turma Antônio Carlos
 Ribeiro de Andrada, futuro presidente de Minas. Foi também membro da
-Bucha*,* organização secreta de estudantes que prosperou na Faculdade de
+Bucha, organização secreta de estudantes que prosperou na Faculdade de
 Direito de São Paulo na segunda metade do século XIX e que teve
 importante papel na política paulista, inclusive na fase republicana. O
 nome da entidade surgiu da corruptela de *Burschenschaft*, corporação de
@@ -154,7 +111,7 @@ Buenos Aires e Montevidéu, onde foi recebido pelos governos locais. Em
 novembro, logo após a entrada do Brasil na Primeira Guerra Mundial, foi
 redator da Lei de Guerra, solicitada por Venceslau Brás ao Congresso.
 
-A “Regência Melo Franco” (1919) e a Eleição de Artur Bernardes (1922)
+## A “Regência Melo Franco” (1919) e a Eleição de Artur Bernardes (1922)
 
 Reeleito mais uma vez em 1918, Melo Franco renunciou ao mandato para
 assumir em setembro a Secretaria de Finanças do novo governo de Minas,
@@ -199,7 +156,7 @@ lançou a chapa oposicionista Nilo Peçanha-José Joaquim Seabra.
 
 No fim de 1921, Melo Franco dedicou-se a comprovar a falsidade dos
 documentos atribuídos a Artur Bernardes e ofensivos ao Exército,
-publicados em outubro no jornal carioca *Correio da Manhã,* com a
+publicados em outubro no jornal carioca *Correio da Manhã*, com a
 finalidade de incompatibilizar o candidato com as forças armadas. Em
 janeiro de 1922, por sugestão de Bernardes, os documentos foram levados
 por Virgílio de Melo Franco, filho de Afrânio, ao exame de peritos
@@ -220,7 +177,7 @@ Bernardes, pois durante quase todo esse período esteve em missões no
 exterior, das quais a mais importante foi a embaixada brasileira na Liga
 das Nações.
 
-Na Conferência Pan-Americana de Santiago e na Liga das Nações
+## Na Conferência Pan-Americana de Santiago e na Liga das Nações
 (1923-1926)
 
 Em fevereiro de 1923, Melo Franco viajou a Santiago do Chile como chefe
@@ -302,7 +259,7 @@ de Washington Luís, foi reeleito deputado federal na legenda do PRM e
 reconduzido à presidência da Comissão de Constituição e Justiça da
 Câmara.
 
-A Aliança Liberal e a Revolução de 1930
+## A Aliança Liberal e a Revolução de 1930
 
 Em meados de 1928, Antônio Carlos Ribeiro de Andrada, presidente de
 Minas, decidiu aproximar-se do governo do Rio Grande do Sul com o
@@ -394,7 +351,7 @@ de Melo Franco e Osvaldo Aranha (secretário do Interior do Rio Grande do
 Sul), passou então a admitir a hipótese de um movimento armado, no caso,
 bastante provável, da derrota de Vargas.
 
-As eleições de 1^o^ de março de 1930 confirmaram esta hipótese. Virgílio
+As eleições de 1º de março de 1930 confirmaram esta hipótese. Virgílio
 de Melo Franco, João Neves, Osvaldo Aranha e outros partidários da
 solução armada reativaram os contados com os líderes tenentistas e
 buscaram o apoio dos chefes da Aliança Liberal. Em abril, o movimento
@@ -433,7 +390,7 @@ Aranha, a junta divulgou uma proclamação ao país, redigida por Melo
 Franco, anunciando a decisão de transmitir o governo a Vargas, na
 condição de chefe da revolução vitoriosa.
 
-Atuação no Itamarati (1930-1933)
+## Atuação no Itamarati (1930-1933)
 
 Vargas tomou posse na chefia do governo provisório em 3 de novembro de
 1930. Durante as conversações para a formação de seu ministério, foi
@@ -449,7 +406,7 @@ Inglaterra, Vaticano, França, Argentina e Estados Unidos.
 Sua primeira gestão internacional como chanceler foi o restabelecimento
 das relações entre o Peru e o Uruguai, assinado por representantes dos
 dois países no dia 19 de novembro no palácio do Catete, com a presença
-de Vargas. No mesmo mês, Melo Franco tratou do “caso *Baden”*, navio
+de Vargas. No mesmo mês, Melo Franco tratou do “caso Baden”, navio
 alemão que fora atingido por um obus durante a revolução e tivera 31
 mortos entre seus tripulantes e passageiros.
 
@@ -474,7 +431,7 @@ Seitenfus, “a ação do Itamarati tomou duas direções pragmáticas: a
 primeira foi o comércio exterior; a segunda foi o pan-americanismo do
 início dos anos 1930”.
 
-A Política Comercial
+## A Política Comercial
 
 Logo no início de sua gestão, Afrânio de Melo Franco empenhou-se em
 obter novos mercados consumidores para o café, a fim de atenuar os
@@ -505,7 +462,7 @@ brasileiro dificultava o início das conversações. O Tratado de
 Reciprocidade só seria firmado em 1935, depois da saída de Melo Franco
 do Itamarati.
 
-A Guerra do Chaco
+## A Guerra do Chaco
 
 A guerra entre a Bolívia e o Paraguai pela disputa do território do
 Chaco irrompeu em junho de 1932, transformando-se no mais grave conflito
@@ -539,7 +496,7 @@ proposta de paz. O plano foi aceito com ressalvas pela Bolívia e
 integralmente pelo Paraguai. Os dois países não aceitaram posteriormente
 modificar seus pontos de vista em relação ao plano de Melo Franco. Em
 face do impasse, o chanceler brasileiro decidiu encerrar sua mediação em
-1^o^ de outubro de 1933.
+1º de outubro de 1933.
 
 A Guerra do Chaco estendeu-se por mais dois anos, terminando em junho de
 1935 com a derrota militar da Bolívia. Em julho de 1938, foi firmado o
@@ -549,12 +506,12 @@ Paraguai ficou com a maior parte do Chaco, comprometendo-se porém a
 garantir amplo e livre trânsito à Bolívia.
 
 Sobre a Guerra do Chaco, Melo Franco publicou em 1936 o livro *Episódios
-da história internacional recente,* refutando as acusações feitas pelo
+da história internacional recente*, refutando as acusações feitas pelo
 diplomata boliviano Luis Abelli de que em agosto de 1932 teria instigado
 o governo de La Paz a intensificar a guerra contra o Paraguai,
 garantindo-lhe ampla ajuda militar brasileira.
 
-A Questão de Letícia
+## A Questão de Letícia
 
 Em 31 de agosto de 1932, cerca de 250 peruanos, a maioria civis,
 invadiram e ocuparam o porto fluvial colombiano de Letícia, situado
@@ -604,7 +561,7 @@ antinazista. O nome do ex-chanceler brasileiro foi novamente lembrado em
 brasileiro. A escolha recaiu então sobre o chanceler argentino Saavedra
 Lamas.
 
-A Política Interna Durante a Permanência no Itamarati (1930-1933)
+## A Política Interna Durante a Permanência no Itamarati (1930-1933)
 
 Dos membros do primeiro ministério de Vargas, formado em novembro de
 1930, Melo Franco foi o que mais tempo permaneceu no cargo. Nesse
@@ -725,7 +682,7 @@ Assembleia Constituinte, instalada em novembro de 1933, aprovaria em
 grande parte o anteprojeto da Subcomissão do Itamarati, mantendo, porém,
 o sistema bicameral e incorporando a representação de classes.
 
-A Demissão do Itamarati
+## A Demissão do Itamarati
 
 A morte de Olegário Maciel em setembro de 1933 abriu uma disputa pelo
 poder em Minas que rapidamente ganhou dimensões nacionais, envolvendo
@@ -768,7 +725,7 @@ grandes potências.
 Nos meses seguintes, Melo Franco foi apontado frequentemente pela
 imprensa como possível candidato à presidência da República no pleito
 indireto que seria realizado no âmbito da Assembleia Constituinte.
-Segundo o *Diário da Manhã,* de Pernambuco, sua candidatura contava com
+Segundo o *Diário da Manhã*, de Pernambuco, sua candidatura contava com
 o apoio do líder tenentista João Alberto Lins de Barros, deputado
 constituinte pelo Partido Social Democrático de Pernambuco. Em julho, a
 bancada paulista, principal força de oposição à candidatura Vargas,
@@ -777,7 +734,7 @@ em 16 de julho, no dia seguinte Vargas foi eleito presidente da
 República pela Assembleia Constituinte. Melo Franco recebeu um voto,
 apesar de ter recusado publicamente sua candidatura.
 
-Da Constituinte Mineira de 1935 à Conferência Pan-Americana de 1938
+## Da Constituinte Mineira de 1935 à Conferência Pan-Americana de 1938
 
 Em outubro de 1934, Melo Franco foi eleito para a Assembleia
 Constituinte de Minas como candidato da chapa oposicionista organizada
@@ -839,7 +796,7 @@ do Eixo.
 Presidente da Academia Nacional de História, membro titular do Instituto
 Histórico e Geográfico e da Sociedade Brasileira de Direito
 Internacional, Afrânio de Melo Franco faleceu no Rio de Janeiro no dia
-1^o^ de janeiro de 1943.
+1º de janeiro de 1943.
 
 Além de Virgílio de Melo Franco, líder revolucionário na década de 1930
 e fundador da União Democrática Nacional (UDN) em 1945, teve mais nove
@@ -864,22 +821,3 @@ mineiras – Guido Tomas Marlière*. Seu filho Afonso Arinos de Melo Franco
 escreveu sua biografia: *Um estadista da República – Afrânio de Melo
 Franco e seu tempo* (1955).
 
-Paulo Brandi
-
-**FONTES:** ABRANCHES, J. *Governos*; BANDEIRA, L. *Presença*; BOMENY,
-H. *Estratégia*; CARONE, E. *República velha*; CASTRO, P.
-*Subdesenvolvimento*; COELHO, J. *Dicionário*;CONSULT. MAGALHÃES, B.;
-*Correio da Manhã* (4/7/1931); CORRESP. MIN. TRAB.; COSTA, S.
-*Diplomacia*; *Cronologia da Assembleia*; *Diário de Notícias,* Rio
-(26/5/1937); *Diário do Congresso Nacional*;*Digesto Econômico*
-(3/4/1970); DONGHI, T. *História*; DULLES J. *Anarquistas*;DULLES, J.
-*Getúlio*; *Encic. Mirador*; FONTOURA, J. *Memórias*;FRANCO, A.
-*Estadista*; GABAGLIA, L. *Epitácio*; GIFFIN, D. *Normal*; GOMES, A.
-*Regionalismo*; *Grande encic. Delta*;GUIMARÃES, A. *Dicionário*;
-HEILBORN, M. *Oligarquia*; HILTON, S. *Brasil e as grandes*;
-HIRSCHOWICZ, E. *Contemporâneos*;*Ilustração brasileira* (7/9/1922); M.
-*História*; PEIXOTO, A. *Getúlio*;*Personalidades*; QUADROS, J*.*;
-ARINOS, A*. História*;*Relação dos ministros*; RESENDE, M. *Formação*;
-*Rev. Arq. Públ. Mineiro* (12/76); ROUT JÚNIOR, L. *Politics*;
-SEITENFUS, R. *Difícil*; SILVA, H. *1938*; SOUSA, J. *Índice*;
-WANDERLEY, N. *História*; *Who’s who in Brazil*.

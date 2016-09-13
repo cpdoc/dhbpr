@@ -1,15 +1,12 @@
 ---
 title: ESCOLA MILITAR DA PRAIA VERMELHA
-cargoss: 
-cargos_esp: 
-datas_ini: 
-datas_fim: 
-estados: 
+natureza: temático
+subtipo: 
 autor: 
  - Celso Castro
 ---
 
-**ESCOLA MILITAR DA PRAIA VERMELHA**
+*ESCOLA MILITAR DA PRAIA VERMELHA*
 
 Instituição criada em 1857, no Rio de Janeiro, então capital do Império,
 como um desdobramento da Escola Central, localizada no largo de São
@@ -20,7 +17,7 @@ Vermelha, um ensino prático que complementasse o ensino teórico
 ministrado na Escola Central. A instituição funcionou até 1904, quando
 da Revolta da Vacina.
 
-A escola da “mocidade militar”
+## A escola da “mocidade militar”
 
 A Escola Militar da Praia Vermelha foi temporariamente fechada durante a
 Guerra do Paraguai (1864-1970). Em 1874, a Escola Central foi
@@ -99,8 +96,3 @@ da Revolta da Vacina, os alunos, que em sua quase totalidade aderiram à
 tentativa de golpe de Estado contra o presidente Rodrigues Alves
 (1902-1906), foram presos e expulsos do Exército, e a Escola Militar da
 Praia Vermelha foi fechada.
-
-Celso Castro
-
-**FONTES:** CASTRO, C. *Militares*; CASTRO, C.; GAGLIARDI, J. *Revolta*;
-LOBATO FILHO. *Última*; MOTA, J. *Formação.*

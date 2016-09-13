@@ -1,17 +1,14 @@
 ---
 title: DEPARTAMENTO NACIONAL DE SAÚDE PÚBLICA (DNSP)
-cargoss: 
-cargos_esp: 
-datas_ini: 
-datas_fim: 
-estados: 
+natureza: temático
+subtipo: 
 autor: 
  - Gilberto Hochman
 ---
 
-**DEPARTAMENTO NACIONAL DE SAÚDE PÚBLICA (DNSP)**
+*DEPARTAMENTO NACIONAL DE SAÚDE PÚBLICA (DNSP)*
 
-Departamento criado em 2 de janeiro de 1920, pelo Decreto n^o^ 3.987,
+Departamento criado em 2 de janeiro de 1920, pelo Decreto nº 3.987,
 para ser o principal órgão federal da área de saúde, subordinado ao
 Ministério da Justiça e Negócios Interiores. O novo departamento
 correspondeu na prática a uma reforma na estrutura da saúde pública
@@ -25,11 +22,11 @@ direção do DNSP o médico, professor da Faculdade de Medicina do Rio de
 Janeiro e político baiano Clementino Fraga, que permaneceu até a o final
 da Primeira República.
 
-Antecedentes
+## Antecedentes
 
 O DNSP substituiu e ampliou as atribuições e o alcance da Diretoria
-Geral de Saúde Pública (DGSP), que fora criada pela Lei n^o^ 429, de 10
-de dezembro de 1896, e regulamentada pelo Decreto n^o^ 2.458, de 10 de
+Geral de Saúde Pública (DGSP), que fora criada pela Lei nº 429, de 10
+de dezembro de 1896, e regulamentada pelo Decreto nº 2.458, de 10 de
 fevereiro de 1897. A DGSP tinha como atribuições principais e
 específicas: a direção dos serviços sanitários dos portos marítimos e
 fluviais; a fiscalização do exercício da medicina e farmácia; estudos
@@ -46,12 +43,12 @@ economia nacional baseada então no modelo agroexportador e manchavam a
 imagem da cidade e do país. Durante a gestão de Oswaldo Cruz
 (1903-1909), a competência da diretoria da DGSP foi ampliada, junto com
 a legislação sanitária, incorporando os serviços de higiene defensiva no
-Distrito Federal (Decreto n^o^ 1.151, de 5 de janeiro de 1904) – a
+Distrito Federal (Decreto nº 1.151, de 5 de janeiro de 1904) – a
 polícia sanitária, a profilaxia geral e a higiene domiciliar. Foram
 também criados o Serviço de Profilaxia da Febre Amarela e o Regulamento
 Processual da Justiça Sanitária.
 
-O novo Regulamento Sanitário de 1904 (Decreto n^o^ 1.156, de 8 de março
+O novo Regulamento Sanitário de 1904 (Decreto nº 1.156, de 8 de março
 de 1904, com 316 artigos) era já bastante abrangente e reorganizava e
 ampliava os serviços no Distrito Federal e nos portos nacionais.
 Concomitantemente os impactos sociais da reforma urbana da capital
@@ -92,7 +89,7 @@ serviços de saúde locais, de efeito demonstração das possibilidades e
 organização de estatísticas vitais e de colaboração sanitária entre
 diferentes esferas de governo. A última modificação significativa desse
 período ocorreu no ano de 1914. A reformulação da DGSP determinada pelo
-Decreto n^o^ 10.821, de 18 de março de 1914, com 357 artigos, alterou
+Decreto nº 10.821, de 18 de março de 1914, com 357 artigos, alterou
 alguns itens do esquema montado por Oswaldo Cruz, adaptando algumas
 medidas aos avanços do conhecimento médico e à diminuição das epidemias
 que atacavam a cidade do Rio de Janeiro. Por exemplo, a prerrogativa de
@@ -121,8 +118,8 @@ improdutividade de sua população.
 
 A ação política do movimento pelo saneamento obteve resultados rápidos e
 concretos ainda em 1918, com a criação, pelo presidente Venceslau Brás,
-do Serviço de Medicamentos Oficiais (Decreto n^o^ 13.000, de 1^o^ de
-maio de 1918), e do Serviço de Profilaxia Rural (Decreto n^o^ 13.001, da
+do Serviço de Medicamentos Oficiais (Decreto nº 13.000, de 1º de
+maio de 1918), e do Serviço de Profilaxia Rural (Decreto nº 13.001, da
 mesma data), vinculado diretamente ao Ministério da Justiça e Negócios
 Interiores, serviço este que poderia atuar nos estados por meio de
 acordos. Acordos poderiam ser feitos, inclusive, com a Comissão
@@ -131,7 +128,7 @@ ancilostomíase no país desde 1915. Entre o decreto de 1918 e o decreto
 de criação o DNSP em 1920, firmariam acordos para ações de saneamento
 rural três estados, além do Distrito Federal.
 
-Criação e Atuação do DNSP
+## Criação e Atuação do DNSP
 
 Novo passo foi dado em agosto de 1818, quando o deputado fluminense e
 médico Azevedo Sodré apresentou a proposta de criação de um ministério
@@ -147,7 +144,7 @@ da Liga Pró-Saneamento, materializava no DNSP, criado em 2 de janeiro de
 endemias rurais no interior do país.
 
 A extensa regulamentação estabelecida para o funcionamento do DNSP, dada
-pelo Decreto n^o^ 14.354, de 15 de agosto de 1920, com 1.195 artigos,
+pelo Decreto nº 14.354, de 15 de agosto de 1920, com 1.195 artigos,
 destacava o combate às então chamadas doenças venéreas, à lepra e à
 tuberculose, definia atividades regulatórias mais amplas para a saúde
 pública e reforçava os poderes dos serviços sanitários, aspectos que
@@ -178,7 +175,7 @@ presença da autoridade sanitária em áreas do interior do Brasil como no
 contato com as populações até então desassistidas pelo poder público.
 
 Outro indicador importante da expansão da autoridade sanitária são as
-regulamentações posteriores, principalmente a de 1923 (Decreto n^o^
+regulamentações posteriores, principalmente a de 1923 (Decreto nº
 16.300, de 31 de dezembro de 1923), que aumentaram as atribuições
 regulatórias e fiscalizadoras do DNSP, dando-lhe novas
 responsabilidades, tais como propaganda e educação sanitária, higiene
@@ -193,13 +190,8 @@ principal departamento na área de saúde a continuidade de sua atuação em
 âmbito nacional. Na reforma do Ministério da Educação e Saúde em 1934,
 na curta gestão do ministro Washington Pires, o DNSP foi extinto e suas
 funções foram incorporadas à nova Diretoria Nacional de Saúde e
-Assistência Médico-Social (DNSAMS) (Decreto n^o^ 24.438, 21 de junho de
+Assistência Médico-Social (DNSAMS) (Decreto nº 24.438, 21 de junho de
 1934). As marcas e os avanços do DNSP seriam as bases de um novo ciclo
 de expansão da saúde pública com as reformas realizadas em 1937 e 1941
 na gestão de Gustavo Capanema no Ministério da Educação e Saúde
 (1934-1945).
-
-Gilberto Hochman
-
-**FONTES:** CASTRO-SANTOS, L.; COSTA, N. *Lutas*; FARIA, L. *Reforma*;
-HOCHMAN, G. *Era*; OLIVEIRA, C. *Saúde.*

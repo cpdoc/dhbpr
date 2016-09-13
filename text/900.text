@@ -1,43 +1,15 @@
 ---
 title: FREIRE, Muniz
-cargoss: 
- - Constituinte
- - Deputado federal
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Senador
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1900
- - 1892
- - 1904
-datas_fim: 
- - 1891
- - 1892
- - 1904
- - 1896
- - 1915
-estados: 
- - 
- - ES
- - ES
- - ES
- - ES
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. ES 1891-1892
+ - pres. ES 1892-1896 e 1900-1904
+ - sen. ES 1904-1915 
 autor: 
  - Nara Saletto
 ---
-
-**FREIRE, Muniz**
-
-\*const. 1891; dep. fed. ES 1891-1892; pres. ES 1892-1896 e 1900-1904;
-sen. ES 1904-1915.
 
 *José de Melo Carvalho Muniz Freire* nasceu em Vitória a 13 de julho de
 1861, filho de Manuel Feliciano Muniz Freire e de Maria Emília de Melo
@@ -134,7 +106,7 @@ nova Assembleia votou uma Constituição tendo como base o projeto de cuja
 elaboração participara Muniz Freire, e em 2 de maio de 1892 elegeu o
 próprio Muniz Freire presidente do estado.
 
-No Governo do Espírito Santo
+## No Governo do Espírito Santo
 
 O Espírito Santo atravessava então uma fase inédita de prosperidade,
 devida à expansão do café e à alta de seu preço, e se beneficiava do
@@ -235,11 +207,3 @@ Colatina teve 10 filhos.
 Além de *Cartas ao imperador* (1885) e de diversos discursos, publicou
 *A Constituinte de 1892* (1892), *A Caixa de Conversão* (1910), *O voto
 secreto* (1910) e *A existência política dos estados* (1913).
-
-Nara Saletto
-
-**FONTES:** BASÍLIO, M. *Vida*; *Comércio do Espírito Santo*
-(1894-1909); *Estado do Espírito Santo* (1890-1904, 1909); *Jornal
-Oficial* (1905-1907); PEREIRA, A. *Homens*; *Cachoeirano* (1912-1913);
-RIBEIRO, D. *Busca*; RIBEIRO, F. *Academia*; SENADO. *Dados biográficos
-dos senadores.*

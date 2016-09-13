@@ -1,59 +1,20 @@
 ---
 title: FONTENELLE, Bezerril
-cargoss: 
- - Constituinte
- - Deputado federal
- - Presidente de associação ou confederação de empregados ou empregadores
- - Deputado federal
- - Senador
- - Deputado federal
- - Senador
- - Deputado federal
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1892
- - 1897
- - 1898
- - 1903
- - 1908
- - 1909
-datas_fim: 
- - 1891
- - 1892
- - 1896
- - 1898
- - 1903
- - 1908
- - 1909
- - 1914
-estados: 
- - 
- - CE
- - CE
- - CE
- - CE
- - CE
- - CE
- - CE
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - const. 1891
+ - dep. fed. CE 1891-1892
+ - pres. CE 1892-1896
+ - dep. fed. CE 1897-1898
+ - sen. CE 1898-1903
+ - dep. fed. CE 1903-1908
+ - sen. CE 1908-1909
+ - dep. fed. CE 1909-1914 
 autor: 
- - 
+ - Kleiton de Moraes
 ---
-
-**FONTENELLE, Bezerril**
-
-\*militar; const. 1891; dep. fed. CE 1891-1892; pres. CE 1892-1896; dep.
-fed. CE 1897-1898; sen. CE 1898-1903; dep. fed. CE 1903-1908; sen. CE
-1908-1909; dep. fed. CE 1909-1914.
 
 *José Freire Bezerril Fontenelle* nasceu em Viçosa (CE) em 9 de março de
 1850, filho de Veríssimo Bezerril e de Maria Fontenelle Bezerril.
@@ -96,8 +57,3 @@ Faleceu no Rio de Janeiro, então Distrito Federal, no dia 30 de março de
 
 Casou-se no Pará com Maria Joaquina Paranhos, filha do capitão Caetano
 da Silva Paranhos e de Joaquina Rosa da Silva Paranhos.
-
-Kleiton de Moraes
-
-**FONTES:** GIRÃO, V. *Ceará* (p.73-74); STUDART, G. *Dicionário* (v.2,
-p.116-117).
