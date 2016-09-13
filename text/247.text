@@ -1,41 +1,17 @@
 ---
 title: BARROSO, Liberato
-cargoss: 
- - Governador de estado ou do Distrito Federal
- - Presidente de associação ou confederação de empregados ou empregadores
- - Deputado federal
- - Presidente de associação ou confederação de empregados ou empregadores
- - Senador
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1892
- - 1893
- - 1914
- - 1918
-datas_fim: 
- - 1891
- - 1892
- - 1893
- - 1916
- - 1927
-estados: 
- - CE
- - CE
- - CE
- - CE
- - CE
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - gov. CE 1891
+ - pres. CE 1892
+ - dep. fed. CE 1893
+ - pres. CE 1914-1916
+ - sen. CE 1918-1927 
+autor: 
+ - Kleiton de Moraes
 ---
-
-**BARROSO, Liberato**
-
-\* militar; gov. CE 1891; pres. CE 1892; dep. fed. CE 1893; pres. CE
-1914-1916; sen. CE 1918-1927.
 
 *Benjamin Liberato Barroso* nasceu em Quixeramobim (CE) no dia 31 de
 março de 1859, filho de Joaquim Liberato Barroso e de Antônia Barroso.
@@ -74,7 +50,3 @@ Colégio Militar do Rio de Janeiro.
 Faleceu em 17 de outubro de 1933.
 
 Era casado com Maria Lima da Cruz Barros.
-
-Kleiton de Moraes
-
-**FONTE:** GIRÃO, V. *Ceará* (p.83).
