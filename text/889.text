@@ -1,61 +1,21 @@
 ---
 title: FRANCO, Pereira
-cargoss: 
- - Presidente de associação ou confederação de empregados ou empregadores
- - Deputado Geral
- - Deputado Geral
- - min Marinha
- - Deputado Geral
- - min Marinha
- - Ministro da Guerra
- - Ministro do Supremo Tribunal Federal
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1853
- - 1869
- - 1857
- - 1870
- - 1872
- - 1875
- - 1876
- - 1891
-datas_fim: 
- - 1853
- - 1870
- - 1864
- - 1871
- - 1875
- - 1878
- - 1878
- - 1902
-estados: 
- - SE
- - BA
- - BA
- - 
- - BA
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - magistrado
+ - pres. SE 1853
+ - dep. geral BA 1857-1864 e 1869-1870
+ - min. Marinha 1870-1871
+ - dep. geral BA 1872-1875
+ - min. Marinha 1875-1878
+ - min. Guerra 1876-1878
+ - min. STF 1891-1902 
 autor: 
  - Eduardo Junqueira
 ---
 
-**FRANCO, Pereira**
-
-\*magistrado; pres. SE 1853; dep. geral BA 1857-1864 e 1869-1870; min.
-Marinha 1870-1871; dep. geral BA 1872-1875; min. Marinha 1875-1878; min.
-Guerra 1876-1878; min. STF 1891-1902.
-
-*Luís Antônio Pereira Franco*, futuro *barão de Pereira Franco*, nasceu
+*Luís Antônio Pereira Franco*, futuro barão de Pereira Franco, nasceu
 na província da Bahia no dia 19 de outubro de 1826, filho de Luís
 Antônio Pereira Franco e de Leonor Felisberta Pereira Franco.
 
@@ -75,7 +35,7 @@ parlamento em 1864. Mais uma vez bem-sucedido nas eleições de 1869,
 retornou à Assembleia Geral. Ligado aos conservadores do Império, foi
 ministro da Marinha de 1870 até 1871, quando foi removido para a Vara de
 Órfãos de Salvador. Foi mais uma vez eleito em 1872, sendo depois, em
-1875, removido para 1^a^ Vara Cível de Niterói, na província fluminense.
+1875, removido para 1ª Vara Cível de Niterói, na província fluminense.
 Durante a gestão do gabinete conservador do duque de Caxias, ocupou
 interinamente a pasta da Marinha, entre 1875 e 1878 e, de forma efetiva,
 a pasta da Guerra, de 1876 até 1878. Em março de 1887, foi nomeado
@@ -100,8 +60,3 @@ visava a afastar os juízes identificados com a monarquia.
 
 Faleceu na cidade do Rio de Janeiro, então Distrito Federal, no dia 20
 de janeiro de 1902, em pleno exercício de suas funções no STF.
-
-Eduardo Junqueira
-
-**FONTES:** MATTOSO, P. *Supremo Tribunal*; MELLO FILHO, J. *Notas*;
-SUP. TRIB. FED. Disponível em: \<www.stf.jus.br/portal/ministros\>.

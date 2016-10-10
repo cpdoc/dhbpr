@@ -1,32 +1,14 @@
 ---
 title: ELLIS, Alfredo
-cargoss: 
- - Constituinte
- - Deputado federal
- - Senador
-cargos_esp: 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1903
-datas_fim: 
- - 1891
- - 1902
- - 1925
-estados: 
- - 
- - SP
- - SP
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. SP 1891-1902
+ - sen. SP 1903-1925 
 autor: 
  - Francisco Fonseca
 ---
-
-**ELLIS, Alfredo**
-
-\*const. 1891; dep. fed. SP 1891-1902; sen. SP 1903-1925.
 
 *Alfredo Ellis* nasceu em São Paulo no dia 19 de março de 1850, filho de
 William Ellis, médico inglês, e de Maria do Carmo da Cunha Bueno Ellis.
@@ -104,12 +86,3 @@ Faleceu no Rio de Janeiro, então Distrito Federal, no dia 30 de junho de
 
 Publicou *Discursos pronunciados nas sessões de 20/6, 22/7 e 11/8/1903*
 (1903) e *Discursos pronunciados no Senado Federal* (1910).
-
-Francisco Fonseca
-
-**FONTES:** ABRANCHES, J. *Governos*; AMARAL, A. *Dicionário*; CALIMAN,
-A. *Legislativo*; LEITE NETO, L. *Catálogo biográfico* (v.1, p.131/2);
-RIBEIRO, J. *Chronologia* Paulista; SAES, A. *Industrialização*;SENADO.
-Disponível em:
-\<www.senado.gov.br/senadores/senadores\_biografia.asp?codparl=1382\>.
-Acesso em: 15/9/2011.

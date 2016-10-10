@@ -1,48 +1,17 @@
 ---
 title: CAVALCANTI, Amaro
-cargoss: 
- - Constituinte
- - Senador
- - Ministro da Justiça
- - Ministro do Supremo Tribunal Federal
- - Prefeito
- - Ministro da Fazenda
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1897
- - 1906
- - 1917
- - 1918
-datas_fim: 
- - 1891
- - 1893
- - 1898
- - 1914
- - 1918
- - 1919
-estados: 
- - 
- - RN
- - 
- - 
- - DF
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - sen. RN 1891-1893
+ - min. Just. 1897-1898
+ - min. STF 1906-1914
+ - pref. DF 1917-1918
+ - min. Faz. 1918-1919 
 autor: 
  - Eduardo Junqueira
 ---
-
-**CAVALCANTI, Amaro**
-
-\*const. 1891; sen. RN 1891-1893; min. Just. 1897-1898; min. STF
-1906-1914; pref. DF 1917-1918; min. Faz. 1918-1919.
 
 *Amaro Bezerra Cavalcanti de Albuquerque* nasceu em Caicó, no sertão do
 Seridó, na província do Rio Grande do Norte, no dia 15 de agosto de
@@ -75,15 +44,6 @@ Consultor jurídico do Ministério das Relações Exteriores de 1905 a 1906,
 em junho desse último ano tornou-se ministro do Supremo Tribunal Federal
 (STF), ocupando a vaga aberta em decorrência da aposentadoria de João
 Barbalho Uchoa Cavalcanti.
-
-www.famososquepartiram.com/2011/07/amaro-cavalcanti.html
-
-![Description:
-http://3.bp.blogspot.com/-u-JcK\_Y9ncY/TjIshhAo0\_I/AAAAAAAACck/8IZYQAjLcvk/s320/Amaro%2BCavalcanti2.jpg](CAVALCANTI,%20Amaro_arquivos/image003.jpg)
-
-Amaro Bezerra Cavalcanti (1918/1919).
-
-\
 
 No STF, foi relator em 1909 de um dos habeas corpus impetrados pelos
 intendentes municipais do Distrito Federal, impedidos de entrar no
@@ -133,8 +93,3 @@ civil do Estado* (1905), *Revisão das sentenças dos tribunais estaduais
 pela Suprema Corte dos Estados Unidos* (1910), *O caso do Conselho
 Municipal perante o Supremo Tribunal Federal* (1911).
 
-Eduardo Junqueira
-
-**FONTES:** CAMPANHOLE. *Constituições*; MATTOSO, P. *Supremo Tribunal
-Federal*; MELLO FILHO, J. *Notas*; RODRIGUES, L. *História*; SUP. TRIB.
-FED. Disponível em: \<www.stf.jus.br/portal/ministros\>.

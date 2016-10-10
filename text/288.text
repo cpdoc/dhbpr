@@ -1,32 +1,15 @@
 ---
 title: BITTENCOURT, Carlos Machado
-cargoss: 
- - Governador de estado ou do Distrito Federal
- - Ministro do Supremo Tribunal Militar
- - Ministro da Guerra
-cargos_esp: 
- - 
- - 
- - 
-datas_ini: 
- - 1890
- - 1896
- - 1897
-datas_fim: 
- - 1890
- - 1897
- - 1897
-estados: 
- - RS
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - gov. RS. 1890
+ - min. STM 1896-1897
+ - min. Guerra 1897 
 autor: 
- - 
+ - Cláudio Beserra de Vasconcelos
 ---
-
-**BITTENCOURT, Carlos Machado**
-
-\*militar; gov. RS. 1890; min. STM 1896-1897; min. Guerra 1897.
 
 *Carlos Machado Bittencourt* nasceu em Porto Alegre, na então província
 do Rio Grande do Sul, no dia 12 de abril de 1840, filho do brigadeiro
@@ -35,11 +18,11 @@ avô, major Camilo Machado de Bittencourt, e seu pai morreram ambos na
 guerra: o primeiro, em 1818, durante a campanha contra José Gervasio
 Artigas (1816-1820), caudilho uruguaio, em San Carlos, na Argentina, e o
 segundo, em 1869, em Assunção, durante a Guerra do Paraguai (1864-1870),
-quando exercia o comando do 2^o^ Corpo de Exército.
+quando exercia o comando do 2º Corpo de Exército.
 
-Em 1^o^ de janeiro de 1857 ingressou voluntariamente nas fileiras do
-Exército brasileiro assentando praça no 13^o^ Batalhão de Infantaria, em
-Porto Alegre, com destino ao 1^o^ Regimento de Artilharia a Cavalo. Em 4
+Em 1º de janeiro de 1857 ingressou voluntariamente nas fileiras do
+Exército brasileiro assentando praça no 13º Batalhão de Infantaria, em
+Porto Alegre, com destino ao 1º Regimento de Artilharia a Cavalo. Em 4
 de maio de 1858 matriculou-se na Escola Militar de Porto Alegre, onde
 concluiu os cursos de infantaria e cavalaria, e no ano seguinte passou a
 frequentar a Escola Central, no Rio de Janeiro, então capital do
@@ -47,16 +30,16 @@ Império. Chegou a alferes em 2 de dezembro de 1860, e a 26 de abril de
 1863 transferiu-se, a pedido, da infantaria para a cavalaria.
 
 Em 6 de outubro de 1865 seguiu para o campo de operações da Guerra do
-Paraguai (1864-1870), onde serviu inicialmente junto à 7^a^ Brigada de
+Paraguai (1864-1870), onde serviu inicialmente junto à 7ª Brigada de
 Infantaria, comandada por seu pai. Participou da operação que deu início
 à invasão do território paraguaio em abril de 1866, em seguida entrou
 nos combates de Estero Belaco, e no dia 24 de maio tomou parte na
 primeira batalha de Tuiuti, na qual foi ferido. De janeiro a abril de
-1867 esteve no Rio Grande do Sul em tratamento de saúde. Em 1^o^ de
+1867 esteve no Rio Grande do Sul em tratamento de saúde. Em 1º de
 junho foi promovido a tenente, e no ano seguinte, pelos serviços
 prestados em batalhas, foi agraciado com o hábito da Imperial Ordem do
 Cruzeiro. Em 31 de agosto de 1868 foi nomeado ajudante de campo do
-comando do 1^o^ Corpo do Exército e em seguida partiu para o Chaco, onde
+comando do 1º Corpo do Exército e em seguida partiu para o Chaco, onde
 participou das batalhas que ficaram conhecidas como a “dezembrada”.
 Entrou com sua unidade na capital paraguaia no dia 5 de janeiro de 1869,
 e no dia 20 de fevereiro foi promovido a capitão por atos de bravura na
@@ -75,11 +58,11 @@ tenente-coronel e em 1885 a coronel, todas promoções por merecimento. Em
 30 de janeiro de 1890, logo após o fim do Império e a implantação do
 regime republicano, foi promovido a general.
 
-Comandante das armas do Rio Grande do Sul, então 6^o^ Distrito Militar,
+Comandante das armas do Rio Grande do Sul, então 6º Distrito Militar,
 quando da renúncia de Francisco da Silva Tavares ao governo do estado em
 13 de maio de 1890, substituiu-o interinamente até 24 do mesmo mês,
 quando passou o governo ao general Cândido José da Costa. Em 4 de junho
-de 1891 foi nomeado comandante do 4^o^ Distrito Militar, e em 7 de abril
+de 1891 foi nomeado comandante do 4º Distrito Militar, e em 7 de abril
 do ano seguinte foi promovido a general de divisão. Por decreto de 19 de
 setembro de 1894, assumiu o comando superior da Guarda Nacional. No dia
 23 de maio de 1895 deixou tal função para exercer a de ajudante-general
@@ -87,7 +70,7 @@ do Exército. No dia 12 de julho do mesmo ano foi promovido a marechal.
 Em 15 de junho de 1896 foi nomeado ministro do Supremo (depois Superior)
 Tribunal Militar.
 
-No Ministério da Guerra
+## No Ministério da Guerra
 
 Em 17 de maio de 1897, em meio a uma crise de relacionamento entre o
 presidente da República, Prudente de Morais, e o ministro da Guerra,
@@ -155,7 +138,7 @@ consequente morte de milhares de militares em combate, Prudente de
 Morais viu os ânimos contrários ao seu governo tornaram-se ainda mais
 evidentes. Foi em meio a esse clima que, no dia 5 de novembro, por volta
 das 13 horas, o anspeçada (na ocasião, graduação entre soldado e cabo)
-Marcelino Bispo de Melo, da 3^a^ Companhia do 10^o^ Batalhão de
+Marcelino Bispo de Melo, da 3ª Companhia do 10º Batalhão de
 Infantaria, que se encontrava formada no cais, se adiantou armado com
 uma garrucha, com a intenção de assassinar o presidente. A arma falhou,
 e o ministro da Guerra e o chefe da Casa Militar, coronel Luís Mendes de
@@ -183,37 +166,7 @@ Cognominado o “Marechal de Ouro”, Carlos Machado Bittencourt, por haver
 demonstrado como ministro da Guerra, na expedição a Canudos, a
 necessidade da existência de um serviço de intendência estruturado,
 equipado e treinado para garantir o apoio logístico às tropas que lá
-combatiam, foi consagrado pelo Decreto-Lei n^o^ 2.112, de 5 de abril de
+combatiam, foi consagrado pelo Decreto-Lei nº 2.112, de 5 de abril de
 1940, como patrono do Serviço de Intendência do Exército Brasileiro.
 
 Do seu casamento com Maria José Lobo, teve 11 filhos.
-
-Cláudio Beserra de Vasconcelos
-
-**FONTES:** COL. MIL. PORTO ALEGRE. Ex-alunos, ex-professores e
-ex-integrantes da Escola Militar do Rio Grande do Sul, da Escola
-Preparatória e de Tática, da Escola Preparatória de Porto Alegre e do
-Colégio Militar de Porto Alegre que se destacaram no cenário municipal,
-estadual e nacional. Disponível em:
-“www.cmpa.tche.br/ex\_integrantes\_cmpa.pdf”. Acesso em 30 de abril de
-2011; CUNHA, E. *Os Sertões*. Disponível em:
-\<www.dominiopublico.gov.br/download/texto/bn000153.pdf\>. Acesso em:
-1/7/2011; DONATO, H. *Dicionário*; *Encic. Delta* (v.9, p.4.951);
-*Encyc. Diccionario Internacional* (v.3, p.1.476); *Encic. Mirador
-Internacional* (v.13, p.7.080); *Jornal do Brasil* (6/11/1897, p.1);
-*Jornal do Comércio* (6/11/1897, p.1); LAGO, L. *Estado-Maior* (p.31);
-LOPES T.; TORRES, G. *Ministros* (p.136-137); MACCANN, F. *Soldados*;
-MIN. DEF. Patronos: Marechal Bitencourt”. Disponível em:
-\<www.exercito.gov.br/web/guest/bitencourt-intendencia”
-www.exercito.gov.br/web/guest/bitencourt-intendencia\>. Acesso em:
-19/6/2011; MIN. DEF. ESC. APERFEIÇOAMENTO DE OFICIAIS. Marechal
-Bitencourt. Disponível
-em:\<www.esao.ensino.eb.br/paginas/cursos/int/patrono/patrono.htm\>.
-Acesso em: 1/7/2011; MIN. GUERRA. *Almanaque*; PORTO ALEGRE, A. *Homens*
-(p.128-129); 5^a^ REGIÃO MILITAR. “Seção de Tiro de Guerra”. Disponível
-em:
-\<www.5rm5de.eb.mil.br/secoes/escter/tiro\_guerra/paginas/noticias/intendencia.htm\>.
-Acesso em: 30/4/2011; SUP.TRIB. MIL. Ministros do STM (1808-2011).
-Disponível em:
-\<www.stm.jus.br/institucional/ministros-desde-1808/minSTM1808\_2011.pdf\>.
-Acesso em: 30/4/2011.

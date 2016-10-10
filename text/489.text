@@ -1,46 +1,15 @@
 ---
 title: CASTELO BRANCO, Jacinto de Assunção Pais de Mendonça
-cargoss: 
- - Presidente de associação ou confederação de empregados ou empregadores
- - Deputado Geral
- - Deputado Geral
- - Senador
- - Senador
- - Membro de junta governativa
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1859
- - 1869
- - 1861
- - 1889
- - 1871
- - 1891
-datas_fim: 
- - 1859
- - 1871
- - 1863
- - 1889
- - 
- - 1891
-estados: 
- - AL
- - AL
- - AL
- - AL
- - AL
- - AL
+natureza: biográfico
+sexo: m
+cargos: 
+ - pres. AL 1859
+ - dep. geral AL 1861-1863 e 1869-1871
+ - sen. AL 1871-1889
+ - junta gov. AL 1891 
+autor: 
+ - Reynaldo de Barros
 ---
-
-**CASTELO BRANCO, Jacinto de Assunção Pais de Mendonça**
-
-\*pres. AL 1859; dep. geral AL 1861-1863 e 1869-1871; sen. AL 1871-
-1889; junta gov. AL 1891.
 
 *Jacinto de Assunção Pais de Mendonça Castelo Branco* nasceu em Porto
 Calvo (AL) no dia 10 de outubro de 1823, filho de Bernardo Antônio de
@@ -49,7 +18,7 @@ Mendonça e de Ana Bárbara de Matos Castelo Branco.
 Formou-se pela Faculdade de Direito de Olinda em 1843. Foi deputado
 provincial pelo Partido Conservador de 1846 a 1849 e de 1856 a 1861. Em
 18 de agosto de 1859, como segundo vice-presidente da província, assumiu
-o governo de Alagoas, que exerceu até 1^o^ de outubro. Participou de
+o governo de Alagoas, que exerceu até 1º de outubro. Participou de
 acontecimentos políticos de Alagoas como a Cabanada e Revolta dos Lisos
 e Cabeludos. Foi deputado geral de maio de 1861 a maio de 1863 e, ainda,
 de maio de 1869 a setembro de 1871. Em 15 de maio de 1871 ocupou uma
@@ -68,7 +37,3 @@ Faleceu no Rio de Janeiro, então Distrito Federal, no dia 27 de
 fevereiro de 1900.
 
 Teve publicados discursos que pronunciou como senador do Império.
-
-Reynaldo de Barros
-
-**FONTE:** BARROS, F. *A B C das Alagoas* (v.2).

@@ -1,37 +1,15 @@
 ---
 title: ERNESTO, Pedro
-cargoss: 
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - Interventor
- - Prefeito
-cargos_esp: 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1924
- - 1930
- - 1931
- - 1935
-datas_fim: 
- - 1924
- - 1930
- - 1935
- - 1936
-estados: 
- - 
- - 
- - DF
- - DF
+natureza: biográfico
+sexo: m
+cargos: 
+ - rev. 1924
+ - rev. 1930
+ - interv. DF 1931-1935
+ - pref. DF 1935-1936 
 autor: 
  - Paulo Brandi
 ---
-
-**ERNESTO, Pedro**
-
-\*rev. 1924; rev. 1930; interv. DF 1931-1935; pref. DF 1935-1936.
 
 *Pedro Ernesto Batista* nasceu em Recife no dia 25 de setembro de 1884,
 filho de Modesto do Rego Batista e de Maria Adelina Siqueira e Silva.
@@ -60,7 +38,7 @@ permaneceria em funcionamento até 1942, ano de seu falecimento,
 transformando-se depois no hospital do Instituto de Assistência dos
 Servidores do Estado do Rio de Janeiro (IASERJ).
 
-O Tenentismo e a Revolução de 1930
+## O Tenentismo e a Revolução de 1930
 
 A trajetória política de Pedro Ernesto começou efetivamente em 1922,
 quando aderiu ao movimento de oposição desencadeado naquele ano pelos
@@ -83,7 +61,7 @@ capitão de mar e guerra Protógenes Guimarães para revoltar os navios da
 Esquadra fundeados na baía de Guanabara, em ato destinado a apoiar o
 movimento revolucionário contra o presidente Artur Bernardes deflagrado
 em São Paulo no dia 5 de julho daquele ano. Com a prisão de Protógenes,
-o movimento limitou-se ao levante do encouraçado *São Paulo,* liderado
+o movimento limitou-se ao levante do encouraçado *São Paulo*, liderado
 por um grupo de oficiais da Marinha tendo à frente Herculino Cascardo.
 Pedro Ernesto também foi preso por alguns dias, mas foi solto por
 interferência de seu tio-avô André Cavalcanti, presidente do Supremo
@@ -94,13 +72,13 @@ abril de 1925 a partir da junção dos grupos que se haviam sublevado no
 ano anterior em São Paulo e no Rio Grande do Sul – percorria o interior,
 conseguindo escapar ao cerco do Exército, várias tentativas de rebelião
 eclodiram em diferentes pontos do país. No Rio de Janeiro, após o
-fracasso do ataque ao 3^o^ Regimento de Infantaria em maio de 1925,
+fracasso do ataque ao 3º Regimento de Infantaria em maio de 1925,
 Pedro Ernesto organizou uma rede de apoio aos “tenentes” perseguidos
 pela polícia. Em sua casa de saúde, principal refúgio e ponto de
 encontro dos “tenentes” na capital federal até a vitória da Revolução de
 1930, prestou socorros médicos a vários revolucionários, suas famílias e
 seus recomendados, ajudando ainda a publicar o jornal revolucionário *5
-de Julho.* Apesar das constantes invasões da polícia a seu hospital,
+de Julho*. Apesar das constantes invasões da polícia a seu hospital,
 Pedro Ernesto não deixou de submeter a uma operação cirúrgica, em 1929,
 o próprio presidente Washington Luís (1926-1930).
 
@@ -146,7 +124,7 @@ numa ambulância de seu hospital, obrigando-o a fugir para Minas Gerais.
 Desencadeada a revolução no dia 3 de outubro, Pedro Ernesto organizou o
 corpo de saúde das forças revolucionárias no setor de Minas Gerais.
 
-O Clube 3 de Outubro e a Interventoria
+## O Clube 3 de Outubro e a Interventoria
 
 Em 14 de novembro, vitorioso o movimento revolucionário e instalado o
 governo provisório chefiado por Getúlio Vargas, Pedro Ernesto foi
@@ -211,9 +189,9 @@ Assembleia Nacional Constituinte. Vargas não cedeu à exigência de
 demissão de Pedro Ernesto, mas comprometeu-se a realizar eleições para a
 Constituinte no prazo de um ano.
 
-Após o ataque ao *Diário Carioca,* o Clube 3 de Outubro entrou numa fase
+Após o ataque ao *Diário Carioca*, o Clube 3 de Outubro entrou numa fase
 de acentuado declínio, marcada pelo agravamento de suas dissensões
-internas. Em abril de 1932, Góis Monteiro, na época comandante da 2^a^
+internas. Em abril de 1932, Góis Monteiro, na época comandante da 2ª
 Região Militar, sediada em São Paulo, e Miguel Costa, comandante da
 Força Pública paulista, entraram em choque aberto pelo controle do
 estado de São Paulo. Com o apoio de Pedro Ernesto, Osvaldo Aranha,
@@ -246,7 +224,7 @@ um mês antes em São Paulo. O congresso resultou na criação do Partido
 Socialista Brasileiro, de efêmera existência, e na formulação de um
 programa a ser defendido na Assembleia Nacional Constituinte.
 
-As Eleições de 1933 e 1934
+## As Eleições de 1933 e 1934
 
 Nos primeiros meses de 1933, juntamente com Góis Monteiro, João Mendonça
 Lima e João Alberto, Pedro Ernesto participou da comissão organizadora
@@ -313,7 +291,7 @@ Municipal. A maioria na Câmara Municipal garantiu também a vitória de
 Pedro Ernesto, que em abril de 1935 se tornou o primeiro prefeito eleito
 do Distrito Federal.
 
-A Administração de Pedro Ernesto
+## A Administração de Pedro Ernesto
 
 A administração de Pedro Ernesto como interventor e como prefeito foi
 marcada por importantes realizações, notadamente no campo da educação e
@@ -324,7 +302,7 @@ hospitais bastante deficiente.
 Em 1933, Pedro Ernesto nomeou Anísio Teixeira para a direção do
 Departamento de Educação, atendendo a uma recomendação que, segundo
 Michael Conniff, lhe teria sido formulada pelo jurista Temístocles
-Cavalcanti. Signatário do *Manifesto dos pioneiros da* *educação nova,*
+Cavalcanti. Signatário do *Manifesto dos pioneiros da educação nova*,
 de 1932, Teixeira era partidário da adoção de um sistema escolar
 público, gratuito, obrigatório e leigo. Com base em seu plano regulador,
 a prefeitura construiu ao longo da administração de Pedro Ernesto cerca
@@ -364,7 +342,7 @@ Monteiro, ministro da Guerra na ocasião, a Polícia Municipal foi
 equipada com armamento ligeiro – pistolas e metralhadoras leves – e seu
 comando foi entregue ao tenente-coronel Zenóbio da Costa.
 
-1935: a Anl e a Revolta Comunista
+## 1935: a Anl e a Revolta Comunista
 
 Embora a promulgação da Constituição tivesse aparentemente inaugurado
 uma fase de normalização da situação política nacional, o agravamento
@@ -420,7 +398,7 @@ Ernesto não apenas esteve à margem do levante, como preveniu o próprio
 presidente Vargas na tarde de 26 de novembro da iminência de sua
 deflagração no Rio de Janeiro.
 
-Em 1^o^ de dezembro, Pedro Ernesto foi obrigado a demitir seu secretário
+Em 1º de dezembro, Pedro Ernesto foi obrigado a demitir seu secretário
 de Educação, Anísio Teixeira, transformado em bode expiatório da
 campanha anticomunista liderada pelo pensador católico Alceu Amoroso
 Lima. Juntamente com Anísio Teixeira, foram exonerados o reitor da
@@ -430,10 +408,10 @@ Teixeira, Francisco Campos, primeiro ministro da Educação e Saúde do
 governo Vargas, não hesitou em desbaratar a obra de seu predecessor,
 suprimindo de imediato as escolas experimentais e desmantelando a
 Universidade do Distrito Federal. Ainda em dezembro, Pedro Ernesto foi
-acusado pelo jornal *O* *Globo* de coordenar uma greve de marítimos e
+acusado pelo jornal *O Globo* de coordenar uma greve de marítimos e
 mobilizar as associações de sargentos contra o governo.
 
-A Prisão e o Inquérito
+## A Prisão e o Inquérito
 
 Em 5 de fevereiro de 1936, o deputado Adalberto Correia, presidente da
 Comissão Nacional de Repressão ao Comunismo, propôs ao ministro da
@@ -448,7 +426,7 @@ de um plebiscito para a escolha do sucessor de Vargas e, alguns dias
 mais tarde, Pedro Ernesto anunciou uma nova reorganização do Partido
 Autonomista, dessa vez com base num programa essencialmente liberal.
 
-No dia 1^o^ de abril, Pedro Ernesto foi intimado a prestar depoimento no
+No dia 1º de abril, Pedro Ernesto foi intimado a prestar depoimento no
 gabinete do chefe de Polícia do Distrito Federal, Filinto Müller. Já
 havia contudo antecipado sua defesa, entregando pessoalmente a Vargas um
 relatório sobre as atividades comunistas no país.
@@ -542,9 +520,9 @@ contra o governo e anunciou sua adesão ao Partido Libertador Carioca e à
 candidatura oposicionista de Armando de Sales Oliveira à presidência da
 República.
 
-O Golpe do Estado Novo
+## O Golpe do Estado Novo
 
-No dia 1^o^ de outubro, em consequência da “descoberta” do Plano Cohen,
+No dia 1º de outubro, em consequência da “descoberta” do Plano Cohen,
 documento forjado que revelava um plano de derrubada do governo pelos
 comunistas, entrou novamente em vigor o estado de guerra e foram
 suspensos os direitos constitucionais. Pedro Ernesto seguiu para São
@@ -568,7 +546,7 @@ com outros funcionários municipais, por desvio de material da
 prefeitura. Da mesma forma arbitrária como havia sido cassada sua
 patente de coronel-médico do Exército em novembro de 1937, foi-lhe
 negado o direito a foro especial. Em agosto de 1939, Pedro Ernesto foi
-julgado e absolvido pelo juízo da 7^a^ Vara Criminal do Rio de Janeiro.
+julgado e absolvido pelo juízo da 7ª Vara Criminal do Rio de Janeiro.
 
 Nos anos seguintes, marcados por uma profunda desarticulação das forças
 oposicionistas, Pedro Ernesto permaneceu à margem das atividades
@@ -589,20 +567,3 @@ de Medicina.
 O arquivo pessoal de Pedro Ernesto encontra-se depositado no Centro de
 Pesquisa e Documentação de História Contemporânea do Brasil (Cpdoc) da
 Fundação Getulio Vargas.
-
-Paulo Brandi
-
-**FONTES:**ARQ. CLUBE 3 DE OUTUBRO; ARQ. GETÚLIO VARGAS; ARQ. PEDRO
-ERNESTO; BELLO, J. *História*; CARNEIRO, G. *História*; CARONE, E.
-*República nova*; CARONE, E. *Segunda*; CONSULT. RAMOS, P.; CORRESP.
-GOV. EST. GB; COUTINHO, L. *General*; *Cronologia da*
-*Assembleia*;DULLES, J. *Getúlio*; *Enc. Barsa*; ENTREV. BATISTA, O.;
-FIGUEIREDO, E. *Contribuição*; FONTOURA, J. *Memórias*; FUND. GETULIO
-VARGAS. *Guia*; *Grande encic. Delta*; *Jornal do Brasil* (11/8/1942);
-LEVINE, R. *Vargas*; MALTA, O. *Tenentes*; NOGUEIRA FILHO, P.
-*Ideais*;PEIXOTO, A. *Getúlio*; POPPINO, R. *Federal*; PORTO, E.
-*Insurreição*; REIS, J. *Prefeitos*; REIS, J. *Rio*;SALGADO, P.
-*Integralismo na vida*; SILVA, H. *1922*; SILVA, H. *1926*; SILVA, H.
-*1930*; SILVA, H. *1934*; SILVA, H. *1935*;SILVA, H. *1937*; SILVA, H.
-*1938*; SKIDMORE, T. *Brasil*;TAVARES, J. *Radicalização*; TÁVORA, J.
-*Vida*; *Tribuna da* *Imprensa* (18/1/1954).
