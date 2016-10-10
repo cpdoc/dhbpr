@@ -1,57 +1,18 @@
 ---
 title: LIMA, Alexandre Barbosa
-cargoss: 
- - Constituinte
- - Deputado federal
- - Governador de estado ou do Distrito Federal
- - Deputado federal
- - Deputado federal
- - Deputado federal
- - Deputado federal
- - Senador
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1892
- - 1897
- - 1900
- - 1915
- - 1906
- - 1924
-datas_fim: 
- - 1891
- - 1892
- - 1896
- - 1899
- - 1905
- - 1917
- - 1911
- - 1930
-estados: 
- - 
- - CE
- - PE
- - PE
- - RS
- - DF
- - DF
- - AM
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. CE 1891-1892
+ - gov. PE 1892-1896
+ - dep. fed. PE 1897-1899
+ - dep. fed. RS 1900-1905
+ - dep. fed. DF 1906-1911 e 1915-1917
+ - sen. AM 1924-1930 
+autor: 
+ - Raimundo Helio Lopes
 ---
-
-**LIMA, Alexandre Barbosa**
-
-\*const. 1891; dep. fed. CE 1891-1892; gov. PE 1892-1896; dep. fed. PE
-1897-1899; dep. fed. RS 1900-1905; dep. fed. DF 1906-1911 e 1915-1917;
-sen. AM 1924-1930.
 
 *Alexandre José Barbosa Lima* nasceu em Recife no dia 23 de março de
 1862, filho de Joaquim Barbosa Lima e de Rita de Cássia Cintra Barbosa
@@ -142,10 +103,3 @@ de Pernambuco e membro da Academia Brasileira de Letras.
 
 Publicou *Independência e República* (1917), *Centenário da Revolução de
 1817 em Pernambuco* e *Discursos parlamentares* (1963).
-
-Raimundo Helio Lopes
-
-**FONTES**: ABRANCHES, J. *Governos*; AITA, C.; AXT, G. *Parlamentares*;
-*Federação* (20/8/1901, 14/2/1902);GASPAR, L. *Barbosa Lima*; LEITE
-NETO, L. *Catálogo biográfico* (v.1, p.115-116); LEVINE, R. *Velha*;
-*Revista do Instituto Histórico e Geográfico Brasileiro* (v.164, 1931).

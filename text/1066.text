@@ -1,43 +1,17 @@
 ---
 title: LEAL, Estillac
-cargoss: 
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - comte Zona Mil Sul
- - Ministro da Guerra
- - comte Zona Mil Centro
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1924
- - 1930
- - 1949
- - 1951
- - 1954
-datas_fim: 
- - 1924
- - 1930
- - 1951
- - 1952
- - 1954
-estados: 
- - 
- - 
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - rev. 1924
+ - rev. 1930
+ - comte. Zona Mil. Sul 1949-1951
+ - min. Guerra 1951-1952
+ - comte. Zona Mil. Centro 1954 
 autor: 
- - 
+ - Plínio de Abreu Ramos
 ---
-
-**LEAL, Estillac**
-
-\*militar; rev. 1924; rev. 1930; comte. Zona Mil. Sul 1949-1951; min.
-Guerra 1951-1952; comte. Zona Mil. Centro 1954.
 
 *Newton Estillac Leal* nasceu no Rio de Janeiro, então Distrito Federal,
 no dia 6 de agosto de 1893, filho de Francisco Raul Estillac Leal,
@@ -49,7 +23,7 @@ Estado-Maior do Exército (EME) de 1956 a 1958.
 Em 1905 ingressou no Colégio Militar do Rio de Janeiro, onde concluiu os
 estudos preparatórios e obteve o título de agrimensor, concedido na
 ocasião pelos estabelecimentos básicos de ensino militar. Sentou praça
-em janeiro de 1912 no 1^o^ Regimento de Artilharia de Campanha, atual
+em janeiro de 1912 no 1º Regimento de Artilharia de Campanha, atual
 Regimento Floriano, ingressando em seguida na Escola Militar do
 Realengo, no Rio de Janeiro. Declarado aspirante a oficial em abril de
 1915, foi promovido a segundo-tenente em fevereiro de 1917 e a
@@ -65,7 +39,7 @@ desencadeamento dos movimentos de agitação que teriam como resultado as
 sublevações de 1922, envolvendo o país na fase das contestações
 tenentistas.
 
-No Movimento Tenentista
+## No Movimento Tenentista
 
 Ao eclodir a revolta do forte de Copacabana em 5 de julho de 1922, com
 ramificações na Escola Militar do Realengo e nas guarnições aquarteladas
@@ -79,7 +53,7 @@ Mesmo após a derrota do movimento, as articulações revolucionárias entre
 a jovem oficialidade prosseguiram, baseadas em duas justificativas. A
 primeira, e principal delas, fundamentava-se na naturalidade com que os
 governos republicanos, com o apoio do Congresso, recorriam ao artigo
-6^o^ da Constituição, intervindo militarmente nos estados para
+6º da Constituição, intervindo militarmente nos estados para
 amedrontar resistências oposicionistas mais decididas. Por outro lado, a
 promessa de Bernardes de que “o presidente esqueceria as injúrias
 atiradas ao candidato” não foi confirmada. A anistia aos oficiais
@@ -94,7 +68,7 @@ razões de ordem política, Siqueira Campos apresentava argumentos de
 natureza estratégica, que consistiam em comprimir a capital da República
 e isolar Minas Gerais, onde se concentravam as unidades mais poderosas
 da defensiva bernardista. Servindo na época no quartel-general do
-general Abílio de Noronha, comandante da 2^a^ Região Militar (2^a^ RM),
+general Abílio de Noronha, comandante da 2ª Região Militar (2ª RM),
 sediada em São Paulo, Estillac Leal foi um dos encarregados das
 articulações nesse estado.
 
@@ -125,14 +99,14 @@ Carlos de Campos, se havia retirado com todo o secretariado para Moji
 das Cruzes. O general Abílio de Noronha foi aprisionado e recolhido às
 dependências do Corpo-Escola. Com isso, a capital paulista foi
 inteiramente ocupada pelos rebeldes. Dias depois, em 14 de julho,
-Joaquim Távora decidiu atacar, no bairro da Liberdade, o quartel do 5^o^
+Joaquim Távora decidiu atacar, no bairro da Liberdade, o quartel do 5º
 Batalhão da Força Pública, que permanecia fiel à legalidade. Sem a
 indispensável cobertura de artilharia, investiu contra a bem equipada
 unidade da milícia paulista, sendo ferido e morrendo quatro dias depois,
 o que originou considerável desfalque no comando revolucionário.
 
 Por outro lado, Artur Bernardes não ficou passivo. Ordenou às tropas da
-1^a^ RM, sob o comando do general Eduardo Sócrates, que ocupasse toda a
+1ª RM, sob o comando do general Eduardo Sócrates, que ocupasse toda a
 área do vale do Paraíba, enquanto a Esquadra fechava as saídas pelo
 porto de Santos. Uma vanguarda federal, comandada pelo general Carlos
 Arlindo, avançou até as proximidades da capital e iniciou o bombardeio
@@ -257,7 +231,7 @@ Paraguai, passando depois para o Uruguai e a Argentina. Desse ano até
 Pio Barojas, intelectual socialista espanhol, naquela época bastante
 difundido nos países platinos.
 
-Na Revolução de 1930
+## Na Revolução de 1930
 
 O rompimento da aliança entre São Paulo e Minas, que dava garantias à
 estabilidade da República civil, ocorreu quando Antônio Carlos Ribeiro
@@ -335,7 +309,7 @@ encarregado das operações e comissionado na patente de tenente-coronel.
 
 Com a eclosão do movimento às 17:30h do dia 3 de outubro de 1930,
 juntamente com João Alberto, Estillac participou do assalto ao morro do
-Menino Deus, onde o comandante da 3^a^ RM, general Gil de Almeida,
+Menino Deus, onde o comandante da 3ª RM, general Gil de Almeida,
 fortificara suas defesas com poderosas peças de artilharia. A tomada do
 morro era considerada prioritária dentro do plano geral de ataque às
 forças governamentais aquarteladas em Porto Alegre. Se as baterias ali
@@ -348,10 +322,10 @@ alojamento mais seguro na parte baixa da cidade, para onde seria
 transferido o quartel-general civil e militar da revolução, caso a
 resistência no morro do Menino Deus se prolongasse por muito tempo. Além
 de dispor de abastecimento de água próprio, o morro abrigava grandes
-depósitos de munições e servia de localização aos quartéis do 3^o^ e
-4^o^ regimentos de Cavalaria Divisionária. Em setembro, tendo o governo
+depósitos de munições e servia de localização aos quartéis do 3º e
+4º regimentos de Cavalaria Divisionária. Em setembro, tendo o governo
 previsto ocorrências contestatórias no Rio Grande do Sul, as defesas do
-morro haviam sido reforçadas pelos 8^o^ e 9^o^ batalhões de Infantaria,
+morro haviam sido reforçadas pelos 8º e 9º batalhões de Infantaria,
 comandados respectivamente pelo tenente-coronel Galdino Esteves e
 coronel João Carlos Toledo Bordini. Toledo hesitava quanto à posição que
 deveria tomar, mas Esteves era uma ponta de lança da revolução dentro do
@@ -375,21 +349,21 @@ defesa dos postulados da revolução.
 
 Promovido a major em abril de 1932, deixou o gabinete ministerial em
 junho desse mesmo ano para assumir no mês seguinte a chefia de Material
-Bélico da 1^a^ RM, em operações contra a Revolução Constitucionalista de
+Bélico da 1ª RM, em operações contra a Revolução Constitucionalista de
 São Paulo. Nessa função, participou junto ao Destacamento Góis Monteiro
 da campanha militar contra os revoltosos. Promovido a tenente-coronel em
 abril de 1933, em junho seguinte foi dispensado da chefia de Material
-Bélico e assumiu o comando do 1^o^ Grupo de Artilharia Pesada, no Rio de
+Bélico e assumiu o comando do 1º Grupo de Artilharia Pesada, no Rio de
 Janeiro, onde permaneceu até setembro de 1934. Nessa data passou a
-comandar o 1^o^ Grupo de Obuses, aquartelado em São Cristóvão, também na
+comandar o 1º Grupo de Obuses, aquartelado em São Cristóvão, também na
 capital federal. Enquanto a maioria dos antigos tenentes atuava na
 política – quer no exercício de mandatos eletivos, quer em movimentos
 paralelos às organizações partidárias – Estillac manteve-se voltado para
 suas atividades profissionais, embora numa posição atenta de espectador
 dos acontecimentos.
 
-Encontrava-se naquele comando quando um grupo de oficiais do 3^o^
-Regimento de Infantaria (3^o^ RI), da praia Vermelha, deflagrou no dia
+Encontrava-se naquele comando quando um grupo de oficiais do 3º
+Regimento de Infantaria (3º RI), da praia Vermelha, deflagrou no dia
 27 de novembro de 1935 um movimento revolucionário sob os auspícios
 declarados da Aliança Nacional Libertadora (ANL), com o apoio do Partido
 Comunista Brasileiro, então Partido Comunista do Brasil (PCB), que via
@@ -408,7 +382,7 @@ abrindo caminho à sua ocupação.
 
 Em maio de 1938 foi promovido por merecimento a coronel. Entre julho
 desse ano e janeiro de 1939 comandou em Campo Grande, atual capital de
-Mato Grosso do Sul, o 1^o^ Regimento Misto de Artilharia de Dorso. De
+Mato Grosso do Sul, o 1º Regimento Misto de Artilharia de Dorso. De
 volta ao Rio de Janeiro em junho de 1939, foi indicado para estagiar na
 Escola de Aeronáutica Militar, passando em seguida, também como
 estagiário, pelo Batalhão Vilagran Cabrita e pelo Centro de Instrução
@@ -423,11 +397,11 @@ declarara guerra aos países do Eixo.
 
 Destacado para Recife, então transformado no principal núcleo
 sul-americano de operações contra o Eixo, comandou de janeiro a março de
-1943 o 7^o^ RI, sendo promovido a general de brigada em abril daquele
+1943 o 7º RI, sendo promovido a general de brigada em abril daquele
 ano. Transferiu-se em seguida para Natal, sede da base aeronaval aliada
 de Parnamirim, onde comandou a guarnição da cidade de maio de 1943 a
 maio do ano seguinte. Em julho foi enviado a Cruz Alta (RS) para
-comandar a Artilharia Divisionária da 3^a^ RM, e daí acompanhou as
+comandar a Artilharia Divisionária da 3ª RM, e daí acompanhou as
 articulações que vinham sendo desenvolvidas entre a oficialidade para
 promover a deposição do presidente Vargas. Amigo de João Alberto e
 infenso à candidatura de Eduardo Gomes à presidência da República,
@@ -440,17 +414,17 @@ de Vargas, a par das conspirações militares que antecederam ao golpe de
 Foi promovido a general de divisão em outubro de 1946, no primeiro ano
 do governo do general Dutra, quando era ministro da Guerra o general
 Canrobert Pereira da Costa. De novembro seguinte a janeiro de 1949,
-comandou em Santa Maria (RS) a 3^a^ Divisão de Infantaria (3^a^ DI),
+comandou em Santa Maria (RS) a 3ª Divisão de Infantaria (3ª DI),
 onde prestigiava as posições dos oficiais partidários da tese do
 monopólio estatal do petróleo. Ainda em 1949, no mês de abril, foi
-nomeado comandante da 5^a^ RM e 5^a^ DI, com sede em Curitiba, deixando
+nomeado comandante da 5ª RM e 5ª DI, com sede em Curitiba, deixando
 esse posto em outubro do mesmo ano, com seis meses de exercício apenas,
 para tomar posse, em novembro, no comando da Zona Militar Sul,
 antecessora do III Exército, com sede em Porto Alegre. Data daí a
 intensa atividade política do general Estillac, que iria levá-lo à
 presidência do Clube Militar e ao Ministério da Guerra.
 
-Presidente do Clube Militar e Ministro da Guerra
+## Presidente do Clube Militar e Ministro da Guerra
 
 Ainda durante o Estado Novo, Vargas elaborou e pôs em prática várias
 iniciativas ligadas à política petrolífera, sobressaindo-se entre elas a
@@ -565,19 +539,6 @@ Centro ao general Olímpio Falconière da Cunha. Onze dias depois, em 13
 de setembro, foi nomeado inspetor geral do Exército.
 
 Ainda como inspetor geral do Exército, Estillac Leal faleceu subitamente
-no Rio de Janeiro no dia 1^o^ de maio de 1955.
+no Rio de Janeiro no dia 1º de maio de 1955.
 
 Era casado com Laura Lima Leal e não deixou filhos.
-
-Plínio de Abreu Ramos
-
-**FONTES:**ARQ. CLUBE 3 DE OUTUBRO; BARROS, J. *Memórias*; BIJOS, G.
-*Clube*; CABRAL, O. *História*; CARNEIRO, G. *História*; COHN, G.
-*Petróleo*; CONSULT. MAGALHÃES, B.; CORREIA, A. *Rebelião*; *Correio da
-Manhã*; *Cronologia da Assembleia*; D’ARAÚJO, M. *Cronologia 1943*;
-DULLES, J. *Getúlio*; *Encic. Mirador*; ENTREV. LEAL, A.; *Grande encic.
-Delta*; HIPÓLITO, L. *Campanha*; *Jornal*; LAGO, L. *Generais*; LEVINE,
-R. *Vargas*; MIN. GUERRA. *Almanaque* (1952 e 1955); MIN. GUERRA.
-*Subsídios*; *Ministros da Justiça*; NABUCO, C. *Vida*; NOGUEIRA FILHO,
-P. *Ideais*; PEREIRA, J. *Petróleo*; SILVA, H. *1935*; SILVA, H. *1945*;
-SODRÉ, N. *História militar*; SODRÉ, N. *Memórias*.

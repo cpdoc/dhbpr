@@ -1,64 +1,20 @@
 ---
 title: GOMES, Eduardo
-cargoss: 
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - Comandante da I Zona Aérea
- - Comandante da II Zona Aérea
- - Candidato a presidência da República
- - Candidato a presidência da República
- - Ministro da Aeronáutica
- - Ministro da Aeronáutica
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1922
- - 1924
- - 1930
- - 1941
- - 1941
- - 1950
- - 1945
- - 1965
- - 1954
-datas_fim: 
- - 1922
- - 1924
- - 1930
- - 1942
- - 1945
- - 1950
- - 1945
- - 1967
- - 1955
-estados: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - rev. 1922
+ - rev. 1924
+ - rev. 1930
+ - comte I ZA 1941-1942
+ - comte II ZA 1941-1945
+ - cand. pres. Rep. 1945 e 1950
+ - min. Aer. 1954-1955 e
+1965-1967 
 autor: 
- - 
+ - Sônia Dias
 ---
-
-**GOMES, Eduardo**
-
-\*militar; rev. 1922; rev. 1924; rev. 1930; comte I ZA 1941-1942; comte
-II ZA 1941-1945; cand. pres. Rep. 1945 e 1950; min. Aer. 1954-1955 e
-1965-1967.
 
 *Eduardo Gomes* nasceu em Petrópolis (RJ) no dia 20 de setembro de 1896,
 filho de Luís Gomes e de Jenny Gomes. Seu pai, homem de vastas posses,
@@ -90,12 +46,12 @@ Finalizando o curso na Escola Militar, foi declarado aspirante a oficial
 da arma de artilharia em dezembro de 1918. Logo em seguida, ao lado de
 Siqueira Campos, matriculou-se no Curso Especial de Artilharia,
 completado ainda em 1919. Em dezembro desse ano passou a
-segundo-tenente, sendo transferido para o 9^o^ Regimento de Artilharia,
+segundo-tenente, sendo transferido para o 9º Regimento de Artilharia,
 em Curitiba. Promovido a primeiro-tenente em janeiro de 1921, ingressou
 em março na primeira turma do Curso de Observador Aéreo da Escola de
 Aviação Militar do Campo dos Afonsos, no Rio de Janeiro.
 
-Os 18 do Forte
+## Os 18 do Forte
 
 Nessa época crescia a oposição militar ao presidente da República
 Epitácio Pessoa (1919-1922). A eleição, em março de 1922, de Artur
@@ -123,7 +79,7 @@ que contava com o apoio do tenente Siqueira Campos.
 No dia seguinte, 5 de julho, eclodiu o levante do forte de Copacabana,
 movimento que iniciou o ciclo de revoltas tenentistas da década de 1920.
 Simultaneamente, rebelaram-se a Escola Militar do Realengo, parte da
-Vila Militar – elementos do 1^o^ Regimento de Infantaria e do 1^o^
+Vila Militar – elementos do 1º Regimento de Infantaria e do 1º
 Batalhão de Engenharia – e parte da guarnição do forte do Vigia, no
 bairro do Leme. Os rebeldes bombardearam vários objetivos militares,
 entre eles o quartel-general e o Arsenal de Marinha, forçando a
@@ -155,8 +111,8 @@ Euclides. Munidos de fuzis e revólveres, os rebeldes marcharam pela
 praia de Copacabana, recebendo no caminho a adesão de um civil, Otávio
 Correia, a quem foi entregue armamento e o pedaço da bandeira separado
 para Euclides. Liderado pelos tenentes Siqueira Campos, Eduardo Gomes,
-Mário Carpenter e Newton Prado, o grupo enfrentou as tropas do 2^o^
-Batalhão do 3^o^ Regimento de Infantaria durante aproximadamente uma
+Mário Carpenter e Newton Prado, o grupo enfrentou as tropas do 2º
+Batalhão do 3º Regimento de Infantaria durante aproximadamente uma
 hora e 15 minutos. Desse combate resultaram dois oficiais mortos, Mário
 Carpenter e Newton Prado, além do civil Otávio Correia. Saíram feridos,
 entre outros, Siqueira Campos e Eduardo Gomes, este com fratura exposta
@@ -198,7 +154,7 @@ pseudônimo de Eugênio Guimarães refugiou-se na fazenda Taquaraçu,
 pertencente à família do marechal Bento Ribeiro, no município de Três
 Lagoas, e aí passou a trabalhar como mestre-escola.
 
-O Segundo 5 de Julho
+## O Segundo 5 de Julho
 
 A retomada do movimento contra o governo federal havia sido articulada
 desde o início de 1923 por militares e civis oposicionistas. Longamente
@@ -211,7 +167,7 @@ fato insurreições militares em Sergipe e Amazonas, rapidamente
 debeladas, e também em São Paulo.
 
 Ligado aos conspiradores paulistas, Eduardo Gomes chegou a São Paulo no
-dia 1^o^ de julho, procedente de Mato Grosso. Ele e o terceiro-sargento
+dia 1º de julho, procedente de Mato Grosso. Ele e o terceiro-sargento
 aviador Carlos Rodrigues Coelho, expulso da Escola Militar em
 consequência da Revolta de 1922, foram os únicos membros da Aviação
 Militar que aderiram à revolta.
@@ -221,19 +177,19 @@ Pública de São Paulo Miguel Costa, e tendo em Joaquim e Juarez Távora
 figuras de destaque, a rebelião em São Paulo contou ainda em seu
 estado-maior com Newton Estillac Leal e Eduardo Gomes, entre outros. No
 dia 4 de julho tiveram início as manobras revolucionárias para a
-ocupação da capital paulista. Com a participação de 60 soldados do 4^o^
-Batalhão de Caçadores (4^o^ BC), foi planejado o assalto ao bloco de
-quartéis policiais da Luz: os 1^o^, 2^o^ e 4^o^ Batalhões de Infantaria
+ocupação da capital paulista. Com a participação de 60 soldados do 4º
+Batalhão de Caçadores (4º BC), foi planejado o assalto ao bloco de
+quartéis policiais da Luz: os 1º, 2º e 4º Batalhões de Infantaria
 (BI), o Corpo Escola, a Cadeia Pública e o Regimento de Cavalaria.
 
 Às duas horas da madrugada do dia 5, Joaquim Távora e Eduardo Gomes
 saíram da avenida Vauthier, centro da conspiração, e se dirigiram ao
-quartel do 4^o^ BC em Santana, onde deram início à sublevação. Tomado o
+quartel do 4º BC em Santana, onde deram início à sublevação. Tomado o
 quartel, os revolucionários seguiram para o quartel-general da Força
-Pública, dominando então o 2^o^ BI e o 4^o^ BI da corporação, apoiados
+Pública, dominando então o 2º BI e o 4º BI da corporação, apoiados
 no Regimento de Cavalaria, que, comandado por Miguel Costa, havia
 aderido à rebelião. Em seguida, Eduardo Gomes e João Batista Nitrini
-penetraram de surpresa no 1^o^ BI da Força Pública e intimaram o oficial
+penetraram de surpresa no 1º BI da Força Pública e intimaram o oficial
 de dia a lhes passar o comando, sob a alegação de que o quartel estava
 cercado pelos revoltosos. Depois que isso foi feito, quando os sargentos
 da guarnição constataram a inexistência do cerco, foi ensaiada uma
@@ -242,26 +198,26 @@ quartel-general da Força Pública, sob as ordens de Isidoro.
 
 A essa altura, nas primeiras horas do dia 5, o contingente
 revolucionário contava com 2.600 homens, enquanto o governo paulista
-estava reduzido ao apoio do 3^o^ BI e do 5^o^ BI da Força Pública, do
+estava reduzido ao apoio do 3º BI e do 5º BI da Força Pública, do
 Corpo de Bombeiros e da Guarda Cívica, num total de 1.500 homens. Já ao
 anoitecer do dia 5, as forças rebeldes haviam ocupado as estações da
 Luz, da Sorocabana, do Brás e da Cantareira, o Hotel Terminus e o
-quartel do 4^o^ BC.
+quartel do 4º BC.
 
-A reação legalista não se fez esperar: o comandante da 2^a^ Região
-Militar (2^a^ RM), general Abílio Noronha, liderou o contra-ataque ao
-4^o^ BC em Santana e ao 4^o^ BI na Luz, fazendo prisioneiro nesse último
+A reação legalista não se fez esperar: o comandante da 2ª Região
+Militar (2ª RM), general Abílio Noronha, liderou o contra-ataque ao
+4º BC em Santana e ao 4º BI na Luz, fazendo prisioneiro nesse último
 destacamento, entre outros, Juarez Távora. Eduardo Gomes assumiu o
-comando do 2^o^ BI da Força Pública e, a partir do anoitecer do dia 6,
-acumulou-o com o comando de uma seção do 2^o^ Grupo Independente de
+comando do 2º BI da Força Pública e, a partir do anoitecer do dia 6,
+acumulou-o com o comando de uma seção do 2º Grupo Independente de
 Artilharia Pesada. No dia 7, quando os rebeldes ocuparam o palácio dos
 Campos Elíseos, Carlos de Campos, presidente do estado, refugiou-se na
 Secretaria de Justiça. Depois que esta também foi tomada, abandonou a
 cidade acompanhado de seu secretariado, dirigindo-se para Moji das
-Cruzes, onde se encontrava o comandante da 1^a^ RM, general Eduardo
+Cruzes, onde se encontrava o comandante da 1ª RM, general Eduardo
 Sócrates.
 
-O forte ataque do 4^o^ BI, que havia sido retomado pelas forças
+O forte ataque do 4º BI, que havia sido retomado pelas forças
 legalistas, sobre o quartel-general revolucionário levou Eduardo Gomes a
 tentar contra-atacar com um mínimo de risco para os companheiros
 prisioneiros. Para atingir as metralhadoras que varriam a praça
@@ -364,11 +320,11 @@ essa época, os revolucionários paulistas uniram-se aos rebeldes gaúchos,
 formando a Coluna Miguel Costa-Prestes, que iria percorrer todo país nos
 dois anos seguintes. Eduardo Gomes permaneceu no presídio da Imigração,
 em São Paulo, durante um ano, findo o qual foi trazido de volta ao Rio e
-mantido no 1^o^ Regimento de Cavalaria. Nesse quartel reencontrou Juarez
+mantido no 1º Regimento de Cavalaria. Nesse quartel reencontrou Juarez
 Távora, que havia sido preso no Piauí, em pleno curso da Coluna Prestes,
 além de outros companheiros, com os quais estabeleceu um plano de fuga
 utilizando as serras que a mãe, Jenny Gomes, lhe passara numa de suas
-visitas. Frustrado esse intento, em maio de 1926 os presos do 1^o^
+visitas. Frustrado esse intento, em maio de 1926 os presos do 1º
 Regimento de Cavalaria foram transferidos para a ilha de Trindade, onde
 estavam presos oficiais das várias revoluções da década de 1920.
 
@@ -402,9 +358,9 @@ outras unidades da Federação, apresentando como candidato à presidência
 da República Getúlio Vargas, em oposição a Júlio Prestes, presidente de
 São Paulo e candidato do governo federal.
 
-Na Revolução de 1930
+## Na Revolução de 1930
 
-A vitória do candidato oficial nas eleições de 1^o^ de março de 1930
+A vitória do candidato oficial nas eleições de 1º de março de 1930
 reafirmou a preponderância dos interesses da oligarquia e o peso da
 máquina eleitoral do governo. Um mês depois, toda a bancada paraibana na
 Câmara e mais 14 deputados mineiros ligados à Aliança Liberal foram
@@ -432,7 +388,7 @@ Cordeiro de Farias, as condições militares em Minas Gerais não eram
 muito favoráveis aos revolucionários, que tinham o apoio da Polícia
 Militar do estado e da maioria das lideranças políticas, mas não haviam
 conseguido penetrar no Exército. Assim, a prolongada resistência do
-12^o^ Regimento de Infantaria (12^o^ RI) em Belo Horizonte, que se
+12º Regimento de Infantaria (12º RI) em Belo Horizonte, que se
 estenderia por dez dias, transformou os planos iniciais dos
 revolucionários de Barbacena, que puderam dispor de somente 70 praças
 sob o comando do capitão Fulgêncio para dar início ao levante.
@@ -441,11 +397,11 @@ No dia 4, Eduardo Gomes incumbiu Tasso Tinoco de submeter setecentos
 operários que não haviam aderido à revolução em Conselheiro Lafaiete,
 posição-chave para o transporte ferroviário. Isto foi feito com a ajuda
 de apenas dez voluntários civis, armados com carabinas de caça. Vencida
-a resistência do 12^o^ RI de Belo Horizonte, os primeiros reforços
+a resistência do 12º RI de Belo Horizonte, os primeiros reforços
 chegaram à Barbacena no dia 10, através de um batalhão de cerca de 350
 homens comandados por Nélson de Melo.
 
-O Correio Aéreo Militar
+## O Correio Aéreo Militar
 
 Com a deposição de Washington Luís consumada no dia 24 de outubro de
 1930 e a posse do governo provisório de Vargas em novembro, os oficiais
@@ -487,43 +443,43 @@ solução civil e paulista para o governo de São Paulo. Retomou igualmente
 suas atividades à frente do CAM, que continuou ampliando suas rotas.
 Comandou o Grupo Misto de Aviação até março de 1933, quando, com a
 reorganização da aviação militar, o Grupo Misto foi extinto e
-transformado no 1^o^ Regimento de Aviação, também sediado no Campo dos
+transformado no 1º Regimento de Aviação, também sediado no Campo dos
 Afonsos. Em junho seguinte foi promovido a tenente-coronel, continuando
 a ser o grande impulsionador do CAM.
 
-A Revolta Comunista de 1935
+## A Revolta Comunista de 1935
 
 Após a eclosão dos levantes organizados pelo Partido Comunista
 Brasileiro, então Partido Comunista do Brasil (PCB), em nome da Aliança
 Nacional Libertadora (ANL), nas cidades de Natal e Recife,
 respectivamente nos dias 23 e 24 de novembro de 1935, as autoridades
 militares da capital federal tomaram medidas preventivas contra uma
-esperada insurreição no 3^o^ RI, sediado na Praia Vermelha. O
+esperada insurreição no 3º RI, sediado na Praia Vermelha. O
 tenente-coronel Eduardo Gomes, que desde maio de 1935 assumira o comando
-do 1^o^ Regimento de Aviação, e o tenente-coronel Ivo Borges, comandante
+do 1º Regimento de Aviação, e o tenente-coronel Ivo Borges, comandante
 da Escola de Aviação Militar, mantinham frequentes contatos, recebendo
 informações do chefe de polícia, capitão Filinto Müller. Efetivamente,
-na madrugada do dia 27 o movimento foi deflagrado no 3^o^ RI e na Escola
+na madrugada do dia 27 o movimento foi deflagrado no 3º RI e na Escola
 de Aviação Militar.
 
 Em depoimento prestado no inquérito policial-militar instaurado mais
 tarde na Escola de Aviação Militar, Eduardo Gomes afirmou que, embora
 prevenido da ameaça de um levante comunista na cidade, não contava com
 sua eclosão naquela escola. De qualquer maneira, ao ser avisado da
-revolta no 3^o^ RI, reforçou as medidas de segurança da unidade. Apesar
+revolta no 3º RI, reforçou as medidas de segurança da unidade. Apesar
 disso, agindo de surpresa, os revoltosos liderados pelos capitães
 Sócrates Gonçalves da Silva e Agliberto Vieira de Azevedo dominaram a
-maior parte do 1^o^ Regimento de Aviação, conseguindo isolar Eduardo
+maior parte do 1º Regimento de Aviação, conseguindo isolar Eduardo
 Gomes no pavilhão de comando. Após assumir o controle do hangar da
 Esquadrilha de Treinamento e cercar o regimento, os rebeldes
 prosseguiram na luta até o amanhecer. Eduardo Gomes, que havia sido
 ferido por um tiro de fuzil na mão logo ao início dos combates,
 conseguiu comunicar-se com o Ministério da Guerra e com outras
 autoridades militares. Durante algumas horas manteve sua posição,
-enquanto a artilharia da Vila Militar bombardeava a Escola e o 1^o^
+enquanto a artilharia da Vila Militar bombardeava a Escola e o 1º
 Regimento de Aviação, preparando o terreno para a chegada dos reforços.
 Finalmente, após a prisão de alguns rebeldes e a expulsão dos demais das
-proximidades do regimento, chegaram ao 1^o^ Regimento de Aviação Ivo
+proximidades do regimento, chegaram ao 1º Regimento de Aviação Ivo
 Borges e elementos de ligação das unidades escolas, aprofundando a
 contraofensiva. Dominado o levante, seis soldados haviam morrido em
 combate, além de três oficiais: o primeiro-tenente Benedito Lopes
@@ -531,7 +487,7 @@ Bragança, cuja morte foi atribuída ao tenente Agliberto Azevedo, o
 primeiro-tenente Danilo Paladini, comandante da Companhia de Alunos, e o
 capitão Armando de Sousa e Melo, comandante da Companhia de Guardas.
 
-Eduardo Gomes permaneceu no comando do 1^o^ Regimento de Aviação até a
+Eduardo Gomes permaneceu no comando do 1º Regimento de Aviação até a
 instauração do Estado Novo (10/11/1937), quando, por ser contrário ao
 golpe, apresentou-se no dia seguinte ao Estado-Maior, formalizando seu
 pedido de demissão. Na ocasião, declarou ter sido ferido em seu brio
@@ -561,7 +517,7 @@ que participasse da rebelião.
 As atitudes anteriores de Eduardo Gomes em relação aos integralistas
 tampouco se coadunam com a hipótese de que houvesse participado da
 conspiração. Depois da Parada dos 50 mil, realizada pelos integralistas
-no dia 1^o^ de novembro de 1937, ele ordenou a prisão por 30 dias de um
+no dia 1º de novembro de 1937, ele ordenou a prisão por 30 dias de um
 sargento e um cabo que dela haviam participado. Da mesma forma, por
 ocasião da comemoração do Dia do Aviador no Campo dos Afonsos, ao
 constatar a chegada de grupos de milicianos integralistas uniformizados,
@@ -588,7 +544,7 @@ CAM com o Correio Aéreo Naval. Eduardo Gomes manteve-se na chefia do
 Serviço de Rotas e Bases Aéreas até sua desarticulação, em novembro de
 1941.
 
-Comandante das I E II Zonas Aéreas
+## Comandante das I E II Zonas Aéreas
 
 Ainda em 1941, com o desenvolvimento da Segunda Guerra Mundial e,
 principalmente, com a ocupação do Norte da África pelas forças do Eixo,
@@ -644,7 +600,7 @@ Devido à sua resistência essa medida não se consumou, apesar das
 pressões do vice-almirante norte-americano Jonas Howard Ingram,
 comandante em chefe da Esquadra do Atlântico.
 
-Primeira Candidatura à Presidência
+## Primeira Candidatura à Presidência
 
 Em 24 de outubro de 1943 foi divulgado o chamado *Manifesto dos
 mineiros*, a primeira manifestação ostensiva de repúdio à ditadura que
@@ -903,7 +859,7 @@ onde realizou um curso de aperfeiçoamento em Fort Leavenworth, no
 Kansas. Em outubro de 1946 retornou ao Brasil, voltando a chefiar a
 Diretoria de Rotas Aéreas do Ministério da Aeronáutica.
 
-A Segunda Candidatura à Presidência
+## A Segunda Candidatura à Presidência
 
 As articulações em torno da sucessão de Dutra foram iniciadas em 1948 em
 Minas Gerais. No ano seguinte, Nereu Ramos, José Eduardo Prado Kelly e
@@ -934,7 +890,7 @@ São Paulo Ademar de Barros, foi também lançada abertamente por João
 Goulart, em comício no Sul do país.
 
 Com o objetivo de dedicar-se plenamente à campanha eleitoral, Eduardo
-Gomes deixou o comando das Rotas Aéreas a 1^o^ de junho de 1950. Dois
+Gomes deixou o comando das Rotas Aéreas a 1º de junho de 1950. Dois
 dias depois, a convenção nacional do PL resolveu apoiar sua candidatura,
 atitude que seria seguida pelo conselho nacional do Partido de
 Representação Popular (PRP), de Plínio Salgado, no final do mês
@@ -988,7 +944,7 @@ influência para apoiar Vargas, acarretando um esvaziamento da
 candidatura de Cristiano Machado. Esse processo criou no jargão político
 a expressão “cristianização”.
 
-A Aeronáutica contra Vargas
+## A Aeronáutica contra Vargas
 
 Após sua segunda derrota eleitoral, Eduardo Gomes retornou ao antigo
 cargo de diretor das Rotas Aéreas da FAB, no qual permaneceria até março
@@ -1123,7 +1079,7 @@ seguida, pouco depois de receber a notícia de que seu irmão Benjamim
 Vargas fora intimado a depor no inquérito da Tonelero, Getúlio
 suicidou-se com um tiro no coração.
 
-Ministro da Aeronáutica – Governos Café Filho e Carlos Luz
+## Ministro da Aeronáutica – Governos Café Filho e Carlos Luz
 
 Café Filho assumiu a presidência ainda na manhã do dia 24 de agosto de
 1954 e, logo em seguida, recebeu através de Prado Kelly a indicação de
@@ -1237,7 +1193,7 @@ Boto só veio a ser adotada pelos adversários de Kubitschek após a
 vitória da chapa PSD-PTB. Até então, os derrotados aferravam-se à tese
 da maioria absoluta.
 
-No dia 1^o^ de novembro, por ocasião do enterro do general Canrobert
+No dia 1º de novembro, por ocasião do enterro do general Canrobert
 Pereira da Costa, o coronel Jurandir Bizarria Mamede discursou na
 qualidade de porta-voz da diretoria do Clube Militar, manifestando-se
 contrário a que se desse posse aos eleitos. Alegando quebra da
@@ -1290,7 +1246,7 @@ como “ilegal” e “subversiva”. Em seguida, Eduardo Gomes tomou um avião
 para São Paulo, cujo governador Jânio Quadros era simpático às suas
 posições, e onde pretendia organizar a resistência ao movimento
 desencadeado por Lott. Para isso contava com o apoio da Esquadra, que se
-dirigiu para Santos (SP), da 2^a^ Divisão de Infantaria (2^a^ DI),
+dirigiu para Santos (SP), da 2ª Divisão de Infantaria (2ª DI),
 comandada pelo general Tasso Tinoco, da Força Pública estadual e da IV
 ZA, cujo comandante era o brigadeiro Ivo Borges. Eduardo Gomes ordenou,
 ainda, que os aviões de caça e de bombardeio do Campo dos Afonsos se
@@ -1340,7 +1296,7 @@ Branco foi escolhido pelo oficialato e, depois, referendado pelo
 Congresso para assumir a presidência da República e completar o período
 de mandato de Goulart.
 
-Ministro da Aeronáutica – Governo Castelo Branco
+## Ministro da Aeronáutica – Governo Castelo Branco
 
 Em agosto de 1964 teve início uma crise entre a Marinha e a Aeronáutica
 devido à disputa pelo controle dos helicópteros e aviões embarcados no
@@ -1388,7 +1344,7 @@ marcante nos acontecimentos, aconselhando o presidente Castelo Branco a
 assumir o controle da situação, ainda que através do poder absoluto, o
 que foi veementemente rejeitado por Castelo. Segundo Luís Viana Filho,
 Eduardo insistia junto ao presidente para que fosse editado o Ato
-Institucional n^o^ 2 (AI-2), o que ocorreu de fato no dia 27 de outubro.
+Institucional nº 2 (AI-2), o que ocorreu de fato no dia 27 de outubro.
 O novo ato estabeleceu a extinção dos partidos e a eleição indireta para
 a presidência da República e autorizou o presidente a cassar mandatos
 parlamentares e a suspender direitos políticos, além de facilitar a
@@ -1411,7 +1367,7 @@ Ainda em outubro, no dia 12, a decisão do presidente no sentido de
 decretar a cassação dos mandatos de seis deputados federais gerou uma
 crise entre o governo e o presidente da Câmara dos Deputados, Adauto
 Lúcio Cardoso. No dia 20 de outubro, com base no AI-2, o presidente
-Castelo Branco decretou o Ato Complementar n^o^ 23, colocando o
+Castelo Branco decretou o Ato Complementar nº 23, colocando o
 Congresso em recesso, medida contra a qual Eduardo Gomes tinha-se batido
 durante reunião do Conselho de Segurança Nacional. Eduardo estava
 convencido de que não era interessante a eclosão de novas crises, mas só
@@ -1422,7 +1378,7 @@ Eduardo Gomes deixou o Ministério da Aeronáutica ao final do governo
 Castelo Branco, no dia 15 de março de 1967, dando por encerrada sua vida
 pública.
 
-O Caso Para-Sar
+## O Caso Para-Sar
 
 No final de 1968, Eduardo Gomes iniciou uma tentativa de mediação em
 favor do capitão Sérgio Miranda de Carvalho, lotado no Para-Sar, unidade
@@ -1496,7 +1452,7 @@ fraternidade cristã e da dignidade humana”. Apesar de todos os esforços
 desenvolvidos por Eduardo Gomes e outros militares e civis solidários
 com o capitão Sérgio, ele não foi reintegrado à Aeronáutica.
 
-Por ocasião da missa em comemoração ao seu 82^o^ aniversário, no dia 21
+Por ocasião da missa em comemoração ao seu 82º aniversário, no dia 21
 de setembro de 1978, Eduardo Gomes renovou seu apoio à candidatura do
 senador José de Magalhães Pinto à presidência da República,
 incentivando-o a não desistir dela. Na época, a candidatura Magalhães
@@ -1514,24 +1470,3 @@ e *Eduardo Gomes e a evolução brasileira*, de Euclides Mata.
 
 Em 1973, o município de Parnamirim (RN) passou a chamar-se Eduardo
 Gomes.
-
-Sônia Dias
-
-**FONTES:** ALMEIDA, A. *Dicionário*; ARQ. CLUBE 3 DE OUTUBRO; BANDEIRA,
-L. *Governo*; CAFÉ FILHO, J. *Do* s*indicato*; CALMON, P. *História*;
-CARNEIRO, G. *História*; CARONE, E. *Revoluções*; CORRESP. II COMDO.
-AÉREO REGIONAL; COSTA, M. *Cronologia*; COUTINHO, L. *General*; DULLES,
-J. *Anarquistas*; DULLES, J. *Getúlio*; *Efemérides paulistas*; *Encic.
-Barsa*; *Encic. Mirador*; ENTREV. CAVALCANTI, T.; *Estado de S. Paulo*
-(21/9 e 10/10/76); FAUSTO, B. *Revolução*; FAVERO, M. *Universidade*;
-FRANCO, A. *Escalada*; FRANCO, V. *Campanha*; *Globo* (21/9/76); *Grande
-encic. Delta*; HIPÓLITO, L. *Campanha*; HIRSCHOWICZ, E.
-*Contemporâneos*; *Jornal do* *Brasil* (19/3, 21/5, 7 e 14/6/81);
-*Jornal do Comércio*, Rio; LEITE, A *História*; LEVINE, R. *Vargas*;
-MACEDO, R. *Efemérides*; MACHADO, F. *Últimos*; MIN. GUERRA.
-*Almanaque*; MIN. GUERRA. *Subsídios*; *Novo dic. de história*; PESQ. F.
-Barbosa; *Quem é quem no Brasil*; ROMANELLI, O. *História*; SILVA, H.
-*História*; SILVA, H. *1922*; SILVA, H. *1931*; SILVA, H. *1935*; SILVA,
-H. *1937*; SILVA, H. *1938*; SILVA, H. *1964*; SKIDMORE, T. *Brasil*;
-TÁVORA, J. *Vida*; *Veja* (1 e 8/12/71); VÍTOR, M. *Batalha*; VÍTOR, M.
-*Cinco*; WANDERLEY, N. *História*; *Who’s who in Brazil.*

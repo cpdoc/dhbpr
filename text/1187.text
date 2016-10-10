@@ -1,73 +1,24 @@
 ---
 title: LUCENA, Henrique Pereira de
-cargoss: 
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Deputado Geral
- - Governador de estado ou do Distrito Federal
- - Ministro da Justiça
- - Ministro da Agricultura
- - Ministro da Fazenda
- - Ministro do Supremo Tribunal Federal
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1872
- - 1872
- - 1877
- - 1885
- - 1886
- - 1890
- - 1891
- - 1891
- - 1891
- - 1891
-datas_fim: 
- - 1872
- - 1875
- - 1878
- - 1886
- - 1889
- - 1890
- - 1891
- - 1891
- - 1891
- - 1892
-estados: 
- - RN
- - PE
- - BA
- - RS
- - PE
- - PE
- - 
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - magistrado
+ - pres. RN 1872
+ - pres. PE 1872-1875
+ - pres. BA 1877-1878
+ - pres. RS 1885-1886
+ - dep. geral PE 1886-1889
+ - gov. PE 1890
+ - min. Just. 1891
+ - min. Agric. 1891
+ - min. Faz. 1891
+ - min. STF 1891-1892 
 autor: 
  - Eduardo Junqueira
 ---
 
-**LUCENA, Henrique Pereira de**
-
-\*magistrado; pres. RN 1872; pres. PE 1872-1875; pres. BA 1877-1878;
-pres. RS 1885-1886; dep. geral PE 1886-1889; gov. PE 1890; min. Just.
-1891; min. Agric. 1891; min. Faz. 1891; min. STF 1891-1892.
-
- 
-
-*Henrique Pereira de Lucena*, futuro *barão de Lucena*, nasceu em
+*Henrique Pereira de Lucena*, futuro barão de Lucena, nasceu em
 Limoeiro, atual Bom Jardim (PE), em 27 de maio de 1835, filho de
 Henrique Pereira de Lucena e de Ana Barbosa da Silva.
 
@@ -143,9 +94,3 @@ Pessoa Cavalcanti de Albuquerque, era mãe João Pessoa, ministro do
 Superior Tribunal Militar (1919-1928), presidente da Paraíba (1928-1930)
 e candidato da Aliança Liberal a vice-presidente da República, cujo
 assassínio foi o estopim da Revolução de 1930.
-
-Eduardo Junqueira
-
-**FONTES:** MATTOSO, P. *Supremo Tribunal*; MELLO FILHO, J. *Notas*;
-RODRIGUES, L. *História*; SUP. TRIB. FED. Disponível em:
-\<www.stf.jus.br/portal/ministros\>.

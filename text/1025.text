@@ -1,13 +1,10 @@
 ---
 title: IMPOSTO DE RENDA
-cargoss: 
-cargos_esp: 
-datas_ini: 
-datas_fim: 
-estados: 
+natureza: temático
+subtipo: 
 ---
 
-**IMPOSTO DE RENDA**
+*IMPOSTO DE RENDA*
 
 Tributo criado em 1922 sobre a renda auferida por todas as pessoas e
 todas as empresas. Foi o primeiro imposto direto cobrado pelo poder
@@ -48,7 +45,7 @@ ao desenvolvimento do país e, com taxas moderadas, antes o estimula.
 Encarado pelo aspecto ético, é o mais justo de todos”, argumentou ele.
 
 Em 31 de dezembro de 1922, o Imposto de Renda foi instituído pelo artigo
-21 da Lei de Orçamento n^o^ 4.625. Previa alíquotas de 0,5% a 8% sobre
+21 da Lei de Orçamento nº 4.625. Previa alíquotas de 0,5% a 8% sobre
 os ganhos auferidos, esta última para rendas acima de quinhentos contos
 de réis. Rendas inferiores a 20 contos de réis estavam isentas. Havia
 ainda o problema da administração do imposto, e a solução coube ao

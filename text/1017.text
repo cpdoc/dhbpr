@@ -1,43 +1,17 @@
 ---
 title: HIGINO, José
-cargoss: 
- - Constituinte
- - Senador
- - min Instr Públ
- - Ministro da Justiça
- - Ministro do Supremo Tribunal Federal
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1891
- - 1891
- - 1892
-datas_fim: 
- - 1891
- - 1891
- - 1892
- - 1892
- - 1897
-estados: 
- - 
- - PE
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - magistrado
+ - const. 1891
+ - sen. PE 1891
+ - min. Instr. Públ. 1891-1892
+ - min. Just. 1891-1892
+ - min. STF 1892-1897 
 autor: 
  - Eduardo Junqueira
 ---
-
-**HIGINO, José**
-
-\*magistrado; const. 1891; sen. PE 1891; min. Instr. Públ. 1891-1892;
-min. Just. 1891-1892; min. STF 1892-1897.
 
 *José Higino Duarte Pereira* nasceu em Recife no dia 22 de janeiro de
 1847, filho de Luís Duarte Pereira e de Carlota de Miranda Duarte, uma
@@ -81,9 +55,3 @@ Brasil no Congresso Pan-Americano, que realizou sua primeira assembleia
 no México. Foi eleito vice-presidente do congresso e, no exercício dessa
 função, veio a falecer na Cidade do México, no dia 10 de dezembro de
 1901.
-
-Eduardo Junqueira
-
-**FONTES:** MATTOSO, P. *Supremo Tribunal*; MELLO FILHO, J. *Notas*;
-RODRIGUES, L. *História*; SUP. TRIB. FED. Disponível em:
-\<www.stf.jus.br/portal/ministros\>.

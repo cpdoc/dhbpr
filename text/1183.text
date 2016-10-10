@@ -1,28 +1,14 @@
 ---
 title: LORETO, Galdino Lins de Barros
-cargoss: 
- - Membro de junta governativa
- - Deputado federal
-cargos_esp: 
- - 
- - 
-datas_ini: 
- - 1891
- - 1894
-datas_fim: 
- - 1892
- - 1905
-estados: 
- - ES
- - ES
-autor:
+natureza: biográfico
+sexo: m
+cargos: 
+ - junta gov. ES 1891-1892
+ - dep. fed. ES 1894-1905 
+autor: 
  - Nara Saletto
  - Fernando Achiamé
 ---
-
-**LORETO, Galdino Lins de Barros**
-
-\*junta gov. ES 1891-1892; dep. fed. ES 1894-1905.
 
 *Galdino Teixeira Lins de Barros Loreto* nasceu em Águas Belas (PE) a 18
 de fevereiro de 1866, filho de Galdino Eleutério Teixeira de Barros
@@ -89,9 +75,3 @@ Espírito Santo.
 Faleceu no Rio de Janeiro no dia 11 de abril de 1909.
 
 Publicou *Devaneios literários* em 1886.
-
-Nara Saletto/Fernando Achiamé
-
-**FONTES:** ASSEMB. LEGIS. ES. *Anais* (1906); *Comércio do Espírito
-Santo* (1896-1897, 1908-1909); *Estado do Espírito Santo* (1891-1904);
-*Jornal Oficial* (1906-1907); PEREIRA, A. *Homens.*
