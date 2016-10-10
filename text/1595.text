@@ -1,59 +1,19 @@
 ---
 title: PEÇANHA, Nilo
-cargoss: 
- - Constituinte
- - Deputado federal
- - Presidente de associação ou confederação de empregados ou empregadores
- - Vice-presidente da República
- - Presidente da República
- - Senador
- - Presidente de associação ou confederação de empregados ou empregadores
- - Candidato a presidência da República
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1903
- - 1906
- - 1909
- - 1912
- - 1914
- - 1922
-datas_fim: 
- - 1891
- - 1902
- - 1906
- - 1909
- - 1910
- - 1912
- - 1917
- - 1922
-estados: 
- - 
- - RJ
- - RJ
- - 
- - 
- - RJ
- - RJ
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. RJ 1891-1902
+ - pres. RJ 1903-1906
+ - vice-pres. Rep. 1906-1909
+ - pres. Rep. 1909-1910
+ - sen. RJ 1912
+ - pres. RJ 1914-1917
+ - cand. pres. Rep. 1922 
 autor: 
- - 
+ - Marieta de Morais Ferreira
 ---
-
-**PEÇANHA, Nilo**
-
-\* const. 1891; dep. fed. RJ 1891-1902; pres. RJ 1903-1906; vice-pres.
-Rep. 1906-1909; pres. Rep. 1909-1910; sen. RJ 1912; pres. RJ 1914-1917;
-cand. pres. Rep. 1922.
 
 *Nilo Procópio Peçanha* nasceu em Campos, na então província do Rio de
 Janeiro, no dia 2 de outubro de 1867, filho de Sebastião de Sousa
@@ -67,9 +27,9 @@ movimentos abolicionista e republicano em Campos, onde ajudou a instalar
 o Partido Republicano após a fundação, em 13 de novembro de 1888, do
 Partido Republicano da Província do Rio de Janeiro.
 
-Constituinte e Deputado Federal
+## Constituinte e Deputado Federal
 
- Com a proclamação da República em 15 de novembro de 1889, e a
+Com a proclamação da República em 15 de novembro de 1889, e a
 convocação de eleições para a Assembleia Nacional Constituinte em 15 de
 novembro 1890, candidatou-se a deputado pelo estado do Rio de Janeiro na
 chapa do Partido Republicano e foi eleito. Tomou posse em 15 de novembro
@@ -147,7 +107,7 @@ provocadas pela volta da capital de Petrópolis para Niterói e de
 realizar uma reforma constitucional que fortalecesse o Executivo
 estadual.
 
-Primeiro Governo no Estado do Rio
+## Primeiro Governo no Estado do Rio
 
 Como aliado de Campos Sales e defensor na Câmara da “política dos
 governadores”, Nilo Peçanha foi extremamente bem-sucedido em suas
@@ -203,15 +163,15 @@ aproximação com os estados da Bahia e de Pernambuco e, em certos
 episódios, até mesmo com o Rio Grande do Sul, buscando apoio para seu
 projeto político nacional.
 
-Na Presidência da República
+## Na Presidência da República
 
- Como desdobramento de sua projeção no cenário nacional, em 1906 Nilo
+Como desdobramento de sua projeção no cenário nacional, em 1906 Nilo
 Peçanha foi indicado para concorrer a vice-presidente da República na
 chapa do mineiro Afonso Pena. Seu nome, sustentado pelas articulações do
 senador gaúcho Pinheiro Machado, ganhou densidade em virtude de suas
 tradições republicanas, numa chapa em que o nome principal era o de um
 antigo monarquista. Eleitos ambos em março de 1906, Nilo transmitiu o
-governo fluminense ao primeiro-vice-presidente Oliveira Botelho em 1^o^
+governo fluminense ao primeiro-vice-presidente Oliveira Botelho em 1º
 de novembro e tomou posse na vice-presidência da República no dia 15 de
 novembro. A partir de então ficaria bastante isolado e ameaçado de
 perder sua liderança na política fluminense, já que seu sucessor,
@@ -320,9 +280,9 @@ neutro. A tentativa de atuar como uma força política independente iria
 lançá-lo contra o governo federal, terminando por levá-lo ao isolamento
 e a dificuldades na manutenção de seu domínio na política fluminense.
 
-Segundo Governo no Estado do Rio
+## Segundo Governo no Estado do Rio
 
- Em 1914, Nilo Peçanha enfrentava portanto momentos difíceis: sem
+Em 1914, Nilo Peçanha enfrentava portanto momentos difíceis: sem
 aliados na esfera federal, e traído pelos correligionários em seu estado
 natal, parecia que sua carreira estava esgotada. Mas ainda não seria
 dessa vez que perderia definitivamente o controle do estado do Rio.
@@ -365,7 +325,7 @@ Müller. O fato mais marcante registrado durante sua passagem por essa
 pasta foi a declaração de guerra do Brasil à Alemanha no dia 26 de
 outubro desse ano. Em 1918, foi novamente eleito senador.
 
-A Campanha da Reação Republicana
+## A Campanha da Reação Republicana
 
 Depois de deixar o ministério ao final do governo Venceslau Brás, em 15
 de novembro de 1918, no qual foi sucedido por Domício da Gama, Nilo
@@ -414,7 +374,7 @@ atenção para a importância da institucionalização dos partidos e já
 anunciava suas preocupações com a situação de desprestígio que vinham
 enfrentando os militares.
 
-Entre 24 de junho de 1921 e 1^o^ de março de 1922, Nilo percorreu todo o
+Entre 24 de junho de 1921 e 1º de março de 1922, Nilo percorreu todo o
 país em uma crescente e moderna campanha política que contava, além das
 viagens, com forte propaganda, comícios, faixas e distribuição de
 brindes, e por isso mesmo ganhou grande repercussão em todos os jornais.
@@ -483,13 +443,11 @@ pelo *Correio da Manhã* visava claramente a incompatibilizar o candidato
 situacionista com os militares e envolver definitivamente estes últimos
 na causa dissidente.
 
-A Derrota da Reação Republicana
-
-e a Revolta de 5 de Julho de 1922
+## A Derrota da Reação Republicana e a Revolta de 5 de Julho de 1922
 
 A despeito do clima de intensa agitação política que marcou os primeiros
 meses de 1922, as eleições presidenciais realizaram-se na data prevista,
-em 1^o^ de março. Os resultados eleitorais, controlados pela máquina
+em 1º de março. Os resultados eleitorais, controlados pela máquina
 oficial, deram a vitória a Bernardes, com 446 mil votos contra 317 mil
 de Nilo Peçanha. Mais uma vez o esquema eleitoral vigente na Primeira
 República funcionou para garantir a posição do candidato oficial.
@@ -582,8 +540,3 @@ com ele também findava uma fase em que as oligarquias fluminenses
 ambicionaram um lugar de destaque no contexto da Federação brasileira.
 
 Nilo Peçanha faleceu pouco tempo depois, em 21 de março de 1924.
-
-Marieta de Morais Ferreira
-
-**FONTES:** CÔRTE, A. *Política*; FERREIRA, M. *Em busca*; FERREIRA, M.
-*República*; PINTO, S. *Correspondência.*

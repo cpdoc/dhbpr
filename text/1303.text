@@ -1,58 +1,17 @@
 ---
 title: MEDEIROS, Borges de
-cargoss: 
- - Constituinte
- - Deputado federal
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - Deputado federal
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1916
- - 1913
- - 1898
- - 1930
- - 1932
- - 1935
-datas_fim: 
- - 1891
- - 1892
- - 1928
- - 1915
- - 1908
- - 1930
- - 1932
- - 1937
-estados: 
- - 
- - RS
- - RS
- - RS
- - RS
- - 
- - 
- - RS
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. RS 1891-1892
+ - pres. RS 1898-1908, 1913-1915 e 1916-1928
+ - rev. 1930
+ - rev. 1932
+ - dep. fed. RS 1935-1937 
 autor: 
- - 
+ - Regina da Luz Moreira
 ---
-
-**MEDEIROS, Borges de**
-
-\*const. 1891; dep. fed. RS 1891-1892; pres. RS 1898-1908, 1913-1915 e
-1916-1928; rev. 1930; rev. 1932; dep. fed. RS 1935-1937.
 
 *Antônio Augusto Borges de Medeiros* nasceu em Caçapava do Sul (RS) no
 dia 19 de novembro de 1863, filho do desembargador Augusto César de
@@ -112,7 +71,7 @@ não chegaram a ter qualquer participação direta na proclamação da
 República, em 15 de novembro de 1889. Quanto a Borges de Medeiros, três
 dias depois foi nomeado delegado de polícia de Cachoeira do Sul.
 
-Na Constituinte de 1891
+## Na Constituinte de 1891
 
 Após assumir o governo provisório da República, o marechal Deodoro da
 Fonseca marcou eleições para a Assembleia Nacional Constituinte para o
@@ -190,7 +149,7 @@ do Sul e chegou a conflagrar também Santa Catarina e Paraná durante mais
 de dois anos e meio, envolvendo ainda remanescentes da Revolta da Armada
 (1893-1894).
 
-De Volta ao Rio Grande do Sul
+## De Volta ao Rio Grande do Sul
 
 Ainda antes da posse de Júlio de Castilhos no governo gaúcho, no dia 31
 de dezembro de 1892 Borges de Medeiros foi nomeado desembargador do
@@ -210,7 +169,7 @@ auxiliar Júlio de Castilhos na elaboração de leis ordinárias e na
 redação do anteprojeto do Código de Processo Penal. A revolução terminou
 em agosto de 1895 com a vitória dos republicanos.
 
-A Sucessão de Castilhos
+## A Sucessão de Castilhos
 
 Júlio de Castilhos deu início às articulações dentro do PRR para a
 escolha de seu sucessor em 1897, quando se aproximava o fim de seu
@@ -237,7 +196,7 @@ afetada com a posse do novo governo, o que veio a ser confirmado. O
 antigo presidente continuou como principal chefe político do estado e
 até morrer manteve relativo controle sobre a administração.
 
-Primeira Experiência de Governo
+## Primeira Experiência de Governo
 
 Ao assumir a presidência do Rio Grande do Sul, Borges de Medeiros
 encontrou a administração e a economia estaduais desorganizadas pelas
@@ -305,7 +264,7 @@ Direito. Implantou também os códigos de Processo Penal e de Processo
 Civil e Comercial, obedecendo assim ao que ficara definido pela
 Constituição de 1891.
 
-Primeira Reeleição
+## Primeira Reeleição
 
 Em outubro de 1902, Júlio de Castilhos, na condição de presidente do
 PRR, lançou longo manifesto elogiando a atuação de Borges de Medeiros na
@@ -367,7 +326,7 @@ Em 1904, o Congresso Nacional aprovou uma reforma que garantia o direito
 de voto nas eleições estaduais aos cidadãos alistados de acordo com as
 disposições previstas no nível federal. Entretanto, Borges e outros
 chefes de executivos estaduais se recusaram a adotar essa modificação,
-alegando que o artigo 1^o^ da nova lei era inconstitucional. Um dos
+alegando que o artigo 1º da nova lei era inconstitucional. Um dos
 mecanismos previstos pela lei federal era o voto cumulativo, que
 permitia ao eleitor escolher um número de candidatos correspondente às
 vagas do seu distrito ou concentrar todos os seus votos em um só nome,
@@ -386,7 +345,7 @@ seguinte, sob a alegação de que o presidente gaúcho teria que se curvar
 Tribunal Federal, que se manifestou pela inconsistência do recurso dos
 federalistas.
 
-As Eleições de 1907
+## As Eleições de 1907
 
 Em 1906 havia uma clara divisão no interior do PRR, em virtude do
 aumento do número de descontentes com a rigidez das diretrizes da
@@ -435,7 +394,7 @@ Ministério da Agricultura, feito por Nilo Peçanha em 1909, e o da
 Fazenda, feito por Hermes da Fonseca ao organizar seu gabinete no ano
 seguinte.
 
-O Retorno ao Governo do Estado
+## O Retorno ao Governo do Estado
 
 No início de 1912, quando se aproximava o fim do mandato de Carlos
 Barbosa Gonçalves, o senador Pinheiro Machado lançou o nome de Borges de
@@ -562,7 +521,7 @@ governo federal.
 
 Em maio de 1916, Borges reassumiu o governo.
 
-As Greves de 1917 no Rio Grande do Sul
+## As Greves de 1917 no Rio Grande do Sul
 
 A redução do nível de vida do operariado brasileiro durante a Primeira
 Guerra Mundial atingiu seu ponto mais agudo em 1917, provocando a
@@ -577,7 +536,7 @@ ampla divulgação no Rio Grande do Sul, principalmente através do órgão
 republicano *A Federação*. No dia 26 do mês seguinte chegou a Porto
 Alegre a notícia de que um grupo de operários de Santa Maria, principal
 entroncamento ferroviário do estado, se apossara de uma locomotiva e
-saíra propagandeando uma greve. O movimento chegou à capital no dia 1^o^
+saíra propagandeando uma greve. O movimento chegou à capital no dia 1º
 de agosto, com a adesão dos empregados da Companhia Força e Luz, do
 Centro de Choferes e da maior parte das outras categorias profissionais,
 sob a liderança da Liga de Defesa Popular (LDP), cuja principal
@@ -669,7 +628,7 @@ Geral, com a remodelação das redes, a aquisição de novas locomotivas e
 vagões, a construção de variantes, a substituição de trilhos e a
 instalação de grandes oficinas ferroviárias em Santa Maria.
 
-A Participação na Reação Republicana
+## A Participação na Reação Republicana
 
 Em fins de abril de 1921, Borges de Medeiros foi consultado oficialmente
 pelo Partido Republicano Mineiro (PRM) sobre a possível candidatura de
@@ -704,12 +663,12 @@ do Rio de Janeiro, formando a Reação Republicana, que lançou a chapa
 oposicionista composta pelo fluminense Nilo Peçanha (indicado por
 Borges) e o baiano José Joaquim Seabra.
 
-Nas eleições realizadas em 1^o^ de março de 1922, Bernardes foi
+Nas eleições realizadas em 1º de março de 1922, Bernardes foi
 vitorioso em nível nacional, apesar de derrotado no Rio Grande do Sul
 por larga margem (11.632 votos contra 96.051 dados à Reação
 Republicana).
 
-As Eleições Estaduais de 1922 e a Revolução de 1923
+## As Eleições Estaduais de 1922 e a Revolução de 1923
 
 A disputa travada no Rio Grande do Sul entre os republicanos e as
 oposições na campanha para o governo federal em 1922 esteve sempre
@@ -831,7 +790,7 @@ outras exigências dos rebeldes, como a reforma da Constituição estadual
 no capítulo referente à reeleição de presidentes, o fim do voto às
 claras e da nomeação dos vice-presidentes e vice-intendentes municipais.
 
-O Último Período de Governo
+## O Último Período de Governo
 
 Segundo Hélgio Trindade, a Revolução Gaúcha de 1923 foi responsável pela
 institucionalização da oposição liberal, que até então ocupava um espaço
@@ -855,7 +814,7 @@ revolucionários se retiraram para o interior e, em seguida,
 estabeleceram contato com os oposicionistas gaúchos para apressar a
 deflagração de novo levante que forçasse a divisão das forças
 legalistas. As articulações evoluíram e, no início de agosto, irrompeu a
-revolta do 2^o^ Batalhão de Engenharia, sediado em Cachoeira do Sul. No
+revolta do 2º Batalhão de Engenharia, sediado em Cachoeira do Sul. No
 dia 29 de outubro sublevaram-se elementos das guarnições federais
 sediadas nas cidades de Santo Ângelo, São Luís, São Borja, Uruguaiana e
 Alegrete, sob a coordenação do capitão Luís Carlos Prestes. Borges de
@@ -940,7 +899,7 @@ Borges de Medeiros deixou Porto Alegre para uma rápida estada em Torres
 (RS), antes de seguir para a fazenda de Irapuazinho. Apesar de afastado
 do poder e da capital, continuou a exercer a chefia do PRR.
 
-A Formação da Frente Única Gaúcha e da Aliança Liberal
+## A Formação da Frente Única Gaúcha e da Aliança Liberal
 
 Em março de 1928, os libertadores se organizaram em partido político, o
 Partido Liberal (PL), que foi atraído para colaborar com o governo de
@@ -979,7 +938,7 @@ Essa iniciativa contou com o apoio público de Borges de Medeiros, que,
 em setembro, quebrou seu silêncio e concedeu entrevista negando qualquer
 conotação revolucionária do projeto.
 
-Entretanto, a vitória de Júlio Prestes nas eleições de 1^o^ de março de
+Entretanto, a vitória de Júlio Prestes nas eleições de 1º de março de
 1930 foi considerada fraudulenta por setores da Aliança Liberal, que
 passaram a organizar um levante armado contra o governo federal.
 Discordando de tal plano, outros oposicionistas achavam que as tarefas
@@ -1031,7 +990,7 @@ no Rio Grande do Sul, Minas Gerais e Paraíba.
 
 A insurreição teve início em Porto Alegre às 17:30h do dia combinado, no
 exato momento em que terminava o expediente do general Gil de Almeida,
-comandante da 3^a^ Região Militar. Depois de dois dias de combates, o
+comandante da 3ª Região Militar. Depois de dois dias de combates, o
 estado passou para o controle total dos revolucionários, que iniciaram
 então sua marcha para o norte, atingindo em poucos dias os arredores de
 São Paulo. Os preparativos para o ataque a essa cidade foram suspensos
@@ -1041,7 +1000,7 @@ lotada no Distrito Federal. Formou-se então uma junta governativa
 provisória que em 3 de novembro seguinte transferiu o poder para Getúlio
 Vargas.
 
-O Governo Provisório e a Revolução Constitucionalista de 1932
+## O Governo Provisório e a Revolução Constitucionalista de 1932
 
 Depois da vitória da revolução, a atuação dos partidos gaúchos ainda
 permaneceu estreitamente ligada à FUG. O interventor federal no estado,
@@ -1206,7 +1165,7 @@ composto por Borges de Medeiros, Artur Bernardes, Otávio Mangabeira,
 Roberto Moreira, José Sampaio Correia, Sebastião do Rego Barros e José
 Bezerra de Menezes.
 
-A Constituinte Estadual e a Política Interna Gaúcha
+## A Constituinte Estadual e a Política Interna Gaúcha
 
 Durante os trabalhos da Assembleia Constituinte do Rio Grande do Sul,
 desenvolvidos no primeiro semestre de 1935, tanto a FUG quanto Flores da
@@ -1317,23 +1276,3 @@ A seu respeito, foram publicadas, entre outras, as seguintes obras:
 *Borges de Medeiros, subsídios para o estudo de sua vida e de sua obra*
 (1928), de João Pio de Almeida, e *Memórias: Borges de Medeiros e seu
 tempo* (1958), de João Neves da Fontoura.
-
-Regina da Luz Moreira
-
-**FONTES:** ABRANCHES, J. *Governos*; ALMANAQUE DA BRIG. MILITAR;
-ALMEIDA, A. *Vultos*; ARQ. GETÚLIO VARGAS; BODEA, M. *Greve*; BRAGA, R.
-*Dic*.; CÂM. DEP. *Anais*; CÂM. DEP. *Deputados*; CARONE, E. *Estado*;
-CARONE, E. *República nova*; *Correio do Povo* (27/7/1977); CORTÉS, C.
-Gaúcho; CRUZ, E. História do Pará; *Diário de Notícias*, Rio
-(26/4/1961); *Efemérides paulistas*; *Encic. Mirador*; FERREIRA FILHO,
-A. *História*; FIGUEIREDO, E. *Contribuição*; FLYNN, P. *Legião*;
-FONTOURA, J. *Memórias*; FRANCO, S. *Júlio*; *Grande encic. Delta*;
-*Grande encic.* *portuguesa*; *Jornal* (26/4/1961); *Jornal do
-Comércio*, Rio (26/4/1961); LEITE, A. *História*; LEVINE, R. *Vargas*;
-LOVE, J. *Regionalismo*; MAGALHÃES, B. *Artur*, *Moeda e Finanças*;
-MORAIS, A. *Minas*; NOGUEIRA FILHO, P. *Ideais*; *Novo dic. de
-história*; OLIVEIRA, C. *Biografias*; PESAVENTO, S. *Política*; *Quem é
-quem no Brasil*; REIS JÚNIOR, P. *Presidentes* RS; SILVA, H. *1889*;
-SILVA, H. *1922*; SILVA, H. *1931*; SILVA, H. *1932*; SILVA, H. *1945*;
-SILVA, R. *Notas*; SPALDING, V. *Construtores*; TÁVORA, J. *Vida*;
-VAMPRÉ, S. *Memórias*; VELHO SOBRINHO, J. *Dicionário*.

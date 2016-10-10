@@ -1,27 +1,14 @@
 ---
 title: MENDES, Sousa
-cargoss: 
- - min STJ
- - Ministro do Supremo Tribunal Federal
-cargos_esp: 
- - 
- - 
-datas_ini: 
- - 1888
- - 1891
-datas_fim: 
- - 1890
- - 1892
-estados: 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - magistrado
+ - min. STJ 1888-1890
+ - min. STF 1891-1892 
 autor: 
  - Eduardo Junqueira
 ---
-
-**MENDES, Sousa**
-
-\*magistrado; min. STJ 1888-1890; min. STF 1891-1892.
 
 *Antônio de Sousa Mendes* nasceu na província do Piauí em 1823, filho de
 Francisco Antônio Mendes e de Maria do Rosário de Sousa Martins.
@@ -53,9 +40,3 @@ provenientes do antigo tribunal da monarquia.
 
 Faleceu na cidade do Rio de Janeiro, então Distrito Federal, em 11 de
 dezembro de 1905.
-
-Eduardo Junqueira
-
-**FONTES:** MATTOSO, P. *Supremo Tribunal*; MELLO FILHO, J. *Notas*;
-RODRIGUES, L. *História*; SUP. TRIB. FED. Disponível em:
-\<www.stf.jus.br/portal/ministros\>.
