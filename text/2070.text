@@ -1,74 +1,27 @@
 ---
 title: TÁVORA, Juarez
-cargoss: 
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - Revolucionário ou revoltoso
- - Ministro da Viação e Obras Públicas
- - Ministro da Agricultura
- - Comandante da Escola Superior de Guerra
- - Chefe do Gabinete Militar da Presidência da República
- - Candidato a presidência da República
- - Deputado federal
- - Ministro da Viação e Obras Públicas
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - GB
- - 
-datas_ini: 
- - 1922
- - 1924
- - 1930
- - 1930
- - 1932
- - 1952
- - 1954
- - 1955
- - 1962
- - 1964
-datas_fim: 
- - 1922
- - 1924
- - 1930
- - 1930
- - 1934
- - 1954
- - 1955
- - 1955
- - 1964
- - 1967
-estados: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - rev. 1922
+ - rev. 1924
+ - Col. Prestes
+ - rev. 1930
+ - min. Viação 1930
+ - min. Agric. 1932-1934
+ - comte. ESG 1952-1954
+ - ch. Gab. Mil. Pres. Rep. 1954-1955
+ - cand. pres. Rep. 1955
+ - dep. fed. GB 1962-1964
+ - min. Viação 1964-1967 
 autor: 
- - 
+ - Sílvia Pantoja
 ---
-
-**TÁVORA, Juarez**
-
-\*militar; rev. 1922; rev. 1924; Col. Prestes; rev. 1930; min. Viação
-1930; min. Agric. 1932-1934; comte. ESG 1952-1954; ch. Gab. Mil. Pres.
-Rep. 1954-1955; cand. pres. Rep. 1955; dep. fed. GB 1962-1964; min.
-Viação 1964-1967.
 
 *Juarez do Nascimento Fernandes Távora* nasceu no município de
 Jaguaribemirim, atual Jaguaribe (CE), no dia 14 de janeiro de 1898,
-15^o^ filho de Joaquim Antônio do Nascimento e de Clara Fernandes Távora
+15º filho de Joaquim Antônio do Nascimento e de Clara Fernandes Távora
 do Nascimento, proprietários da fazenda Embargo. A escolha do seu nome
 resultou de sugestão de seu irmão Manuel do Nascimento Fernandes Távora,
 que na época estudava medicina no Rio de Janeiro, então Distrito
@@ -113,15 +66,15 @@ então transferir-se para a Escola Militar do Realengo, na mesma cidade.
 Como cursavam a Escola Politécnica, o ingresso naquela instituição
 militar se fez, de acordo com a lei então vigente, sem concurso de
 admissão. Assim, em maio de 1916, para obter o certificado de instrução
-militar necessário, os dois irmãos sentaram praça na 4^a^ Companhia de
+militar necessário, os dois irmãos sentaram praça na 4ª Companhia de
 Estabelecimento, em Realengo. Em 1917 ambos entraram para a Escola
 Militar, saindo em dezembro de 1919 aspirantes a oficial da arma de
 engenharia. Promovidos a segundo-tenente em abril do ano seguinte,
-passaram a servir no 5^o^ Batalhão de Engenharia, em Curitiba, após
-fazer um estágio no 1^o^ Batalhão de Engenharia na Vila Militar.
+passaram a servir no 5º Batalhão de Engenharia, em Curitiba, após
+fazer um estágio no 1º Batalhão de Engenharia na Vila Militar.
 
 Em maio de 1921 Juarez foi promovido a primeiro-tenente e no início de
-julho foi transferido para o 4^o^ Batalhão de Engenharia em Itajubá
+julho foi transferido para o 4º Batalhão de Engenharia em Itajubá
 (MG). Ali permaneceu até janeiro de 1922, quando foi designado auxiliar
 de instrutor da seção de engenharia da Escola Militar do Realengo, em
 substituição a Luís Carlos Prestes, que, promovido a capitão, passou a
@@ -132,7 +85,7 @@ João Alberto Lins de Barros, Osvaldo Cordeiro de Farias, Luís Carlos
 Prestes e Odílio Denis, que viriam a se tornar líderes do movimento
 tenentista.
 
-O 5 de Julho de 1922
+## O 5 de Julho de 1922
 
 Em represália à eleição de Artur Bernardes para a presidência da
 República em março de 1922 e a algumas medidas repressivas do governo de
@@ -168,7 +121,7 @@ tendo Juarez retornado ao seu posto de oficial de dia.
 
 À tarde do mesmo dia, chegou à unidade escolar um batalhão de
 infantaria, comandado pelo tenente-coronel Álvaro Mariante, que recolheu
-Xavier de Brito, os instrutores e demais oficiais ao 1^o^ Regimento de
+Xavier de Brito, os instrutores e demais oficiais ao 1º Regimento de
 Infantaria e, posteriormente, os enviou para o centro da cidade. Os
 alunos foram confinados na escola por cerca de 20 dias, respondendo a
 inquéritos e aguardando novas ordens. Juarez foi finalmente conduzido à
@@ -194,7 +147,7 @@ aguardar o julgamento em liberdade condicional. Juarez passou então a
 morar num quarto de pensão que dividia com Artur da Costa e Silva, na
 época primeiro-tenente.
 
-O Segundo 5 de Julho
+## O Segundo 5 de Julho
 
 Em meados de 1923 começaram a ser feitas sondagens nos meios militares
 do Sul do país para tentar um novo levante contra o governo de Artur
@@ -231,12 +184,12 @@ Para fazer um balanço da situação, os organizadores do movimento
 reuniram-se em fevereiro de 1924 em Jundiaí (SP). Apesar do desencontro
 de opiniões quanto à natureza e às proporções que a revolta deveria
 assumir, foi ali organizado o estado-maior revolucionário, integrado
-pelo tenente-coronel Olinto de Mesquita Vasconcelos, comandante do 2^o^
-Grupo de Artilharia Montada, e Bertoldo Klinger, do 4^o^ Regimento de
+pelo tenente-coronel Olinto de Mesquita Vasconcelos, comandante do 2º
+Grupo de Artilharia Montada, e Bertoldo Klinger, do 4º Regimento de
 Artilharia Montada, de Itu (SP). Nessa mesma reunião foi estabelecido o
 dia 28 de março daquele ano para a eclosão do movimento. No entanto, o
-desligamento de Bertoldo Klinger e de outros oficiais do 4^o^ Regimento
-de Artilharia Montada, a dúvida quanto à adesão do 4^o^ Regimento de
+desligamento de Bertoldo Klinger e de outros oficiais do 4º Regimento
+de Artilharia Montada, a dúvida quanto à adesão do 4º Regimento de
 Infantaria de Quitaúna (SP), a morte do ex-presidente da República Nilo
 Peçanha e a renúncia do governador da Bahia, José Joaquim Seabra,
 determinaram a transferência da data. Após um encontro realizado no
@@ -250,11 +203,11 @@ guarnições do estado. Mais tarde as guarnições dos outros estados, ao
 serem mandadas para combater os rebeldes paulistas, adeririam ao
 movimento. O plano revolucionário dividia-se em duas partes: a primeira,
 chefiada pelos capitães Newton Estillac Leal e Joaquim Távora, consistia
-no assalto, no bairro da Luz, aos 1^o^ e 2^o^ batalhões de Infantaria,
+no assalto, no bairro da Luz, aos 1º e 2º batalhões de Infantaria,
 ao Corpo Escola, à Cadeia Pública e ao Regimento de Cavalaria, que
 estava comprometido com a revolução. A segunda, sob a orientação do
 tenente Custódio de Oliveira, ajudado por Juarez Távora e outros
-capitães, incluía o assalto ao 3^o^ e 5^o^ batalhões de Infantaria, ao
+capitães, incluía o assalto ao 3º e 5º batalhões de Infantaria, ao
 Corpo de Bombeiros, à Secretaria da Justiça, ao quartel-general da
 Guarda Cívica e ao palácio dos Campos Elísios. Um atraso de 12 horas na
 chegada a São Paulo do general Isidoro prejudicou a execução do
@@ -268,11 +221,11 @@ Cavalaria da Polícia Militar do estado e envolvido também na
 conspiração, o malogro de sua missão em face da ausência em Quitaúna do
 tenente Custódio, Juarez foi incumbido de ir ao palácio do governo
 ordenar ao oficial da guarda, tenente Vila-Nova, também comprometido com
-o levante, que se recolhesse com a sua tropa ao quartel do 1^o^
+o levante, que se recolhesse com a sua tropa ao quartel do 1º
 Batalhão, a que pertencia. Este, porém, ao invés de juntar-se aos
 sediciosos, julgou mais prudente denunciá-los ao governo de São Paulo.
 Informado dos acontecimentos, o general Abílio de Noronha, comandante da
-2^a^ Região Militar (2^a^ RM), imediatamente os comunicou ao presidente
+2ª Região Militar (2ª RM), imediatamente os comunicou ao presidente
 do estado, Carlos de Campos, e ao ministro da Guerra, general Fernando
 Setembrino de Carvalho. Dirigiu-se a seguir ao quartel do bairro de
 Santana, aguardou a chegada dos oficiais que, residindo fora da caserna,
@@ -280,7 +233,7 @@ não haviam aderido à revolta, e com eles organizou a reação legalista.
 Chegando, porém, ao Corpo Escola, foi preso por Joaquim Távora que havia
 sublevado essa unidade.
 
-Não sabendo das ordens que o general Abílio Noronha dera ao 4^o^
+Não sabendo das ordens que o general Abílio Noronha dera ao 4º
 Batalhão da Força Pública, Joaquim e Juarez Távora, o capitão Índio do
 Brasil, o tenente Luís Cordeiro de Castro Afilhado e a aviadora Anésia
 Pinheiro Machado entraram no quartel dessa unidade e foram aprisionados,
@@ -290,10 +243,10 @@ reorganizaram as suas tropas desbaratadas pela luta dos dias anteriores.
 Na noite de 10 de julho as forças governistas reiniciaram suas ações
 contra os rebeldes visando à retomada da cidade, e entre os dias 11 e 14
 travaram-se combates parciais em diferentes setores da frente de defesa
-dos revoltosos. No dia 15, Joaquim Távora atacou o quartel do 5^o^
+dos revoltosos. No dia 15, Joaquim Távora atacou o quartel do 5º
 Batalhão de Polícia, no bairro da Liberdade, enquanto Juarez tentava
 restabelecer a posição perdida no bairro de Belenzinho. O quartel do
-5^o^ Batalhão foi retomado após sangrento combate do qual resultou a
+5º Batalhão foi retomado após sangrento combate do qual resultou a
 morte de Joaquim Távora, mas o assalto à posição de Belenzinho foi
 rechaçado, tendo Juarez recebido ferimentos leves.
 
@@ -307,12 +260,12 @@ infantaria, um regimento de cavalaria, um regimento misto de artilharia
 e uma escolta do quartel-general divisionário. O conjunto dessas forças
 formou uma divisão, sob o comando do general Isidoro, tendo como chefe
 do estado-maior o coronel Mendes Teixeira. Coube a Juarez comandar o
-3^o^ Batalhão de Caçadores da 2^a^ Brigada, sob as ordens do general
+3º Batalhão de Caçadores da 2ª Brigada, sob as ordens do general
 Olinto de Mesquita Vasconcelos. Após exame da situação, o comando
 revolucionário decidiu prosseguir a retirada para o sudoeste do estado,
 tendo como primeiro objetivo o Porto Tibiriçá (SP), sobre o rio Paraná.
-Ainda no dia 29, Juarez, no comando do 3^o^ BC, marchou sobre Botucatu
-(SP), ocupando essa cidade no dia 1^o^ de agosto, quando recebeu ordens
+Ainda no dia 29, Juarez, no comando do 3º BC, marchou sobre Botucatu
+(SP), ocupando essa cidade no dia 1º de agosto, quando recebeu ordens
 de deixá-la e seguir para Rubião Júnior (SP), onde se encontrava o
 grosso da divisão. Comandada pelo capitão Asdrúbal Gwyer de Azevedo, a
 vanguarda revolucionária alcançou Porto Tibiriçá no dia 6 do mesmo mês,
@@ -339,7 +292,7 @@ líder republicano Antônio Augusto Borges de Medeiros, os federalistas e
 republicanos dissidentes discutiam a possibilidade de um novo movimento
 armado. Para tanto, procuraram o apoio de militares favoráveis ao
 movimento tenentista de 1922, como Luís Carlos Prestes, que continuava
-servindo no 1^o^ Batalhão Ferroviário em Santo Ângelo, e outros que
+servindo no 1º Batalhão Ferroviário em Santo Ângelo, e outros que
 estavam exilados, principalmente o tenente Antônio de Siqueira Campos.
 
 Com o objetivo de tomar Guaíra (PR), o escalão de vanguarda paulista sob
@@ -354,7 +307,7 @@ após ocuparem diversos portos ao longo do rio Paraná, tomaram Guaíra em
 Mendes, aguardando a chegada do general Isidoro, o batalhão comandado
 por Juarez ocupou a cidade de Foz do Iguaçu (PR).
 
-O Levante de 1924 no Rio Grande do Sul
+## O Levante de 1924 no Rio Grande do Sul
 
 Em continuidade aos contatos com os gaúchos liderados pelo capitão Luís
 Carlos Prestes, realizou-se em 5 de outubro de 1924 em Foz do Iguaçu um
@@ -410,7 +363,7 @@ novembro, após duro combate contra o Corpo Provisório de Rosário, que
 veio em auxílio das forças legalistas, os revoltosos conseguiram seu
 intento. Em seguida, ainda em cumprimento à ordem de Honório Lemes,
 Juarez seguiu para Santana do Livramento a fim de entender-se com os
-oficiais do 7^o^ Regimento de Cavalaria Independente. Comunicou-lhes que
+oficiais do 7º Regimento de Cavalaria Independente. Comunicou-lhes que
 a cidade seria atacada na madrugada do dia 24 e que contava com o apoio
 deles, mas o aviso foi inútil, porque no dia 22, sabedor de que as
 tropas legalistas vinham no seu encalço, Honório Lemes resolveu
@@ -425,7 +378,7 @@ provisórios sob as ordens do coronel Júlio Boscino, em Barro Vermelho,
 teve que abandonar a luta, dispersando os poucos combatentes que lhe
 restavam e internando-se no Uruguai.
 
-Em face do ocorrido em relação ao 7^o^ RCI, Juarez seguiu para Rivera,
+Em face do ocorrido em relação ao 7º RCI, Juarez seguiu para Rivera,
 no Uruguai, à espera de uma oportunidade para reunir-se à coluna
 revolucionária em território gaúcho. Entretanto, no dia 25 de janeiro de
 1925, Borges de Medeiros anunciou que o movimento revolucionário fora
@@ -471,7 +424,7 @@ sucessivas, comandando a retaguarda até o dia 5 de abril, quando, nas
 proximidades de Cascavel (PR), passou o comando do batalhão a João
 Cabanas.
 
-A Coluna Prestes
+## A Coluna Prestes
 
 Finalmente, no dia 7 de abril de 1925, Prestes encontrou-se com Miguel
 Costa no cruzamento das estradas de Benjamin Constant com Santa Helena
@@ -492,19 +445,19 @@ acompanhariam as tropas, passando a liderança suprema a ser exercida por
 eles do exílio.
 
 Nesse encontro ficou decidida ainda a reorganização da coluna, na qual
-todos os oficiais receberam novas patentes. A 1^a^ Divisão
+todos os oficiais receberam novas patentes. A 1ª Divisão
 Revolucionária passou então a ter como comandante geral o “general de
 brigada” Miguel Costa e a ser constituída de dois contingentes: a
 Brigada Rio Grande, com oitocentos homens, sob o comando do “coronel”
-Luís Carlos Prestes e integrada pelos 1^o^, 2^o^ e 3^o^ destacamentos,
+Luís Carlos Prestes e integrada pelos 1º, 2º e 3º destacamentos,
 comandados respectivamente pelos “tenentes-coronéis” Osvaldo Cordeiro de
 Farias, João Alberto Lins de Barros e Antônio de Siqueira Campos, além
-do 1^o^ Esquadrão de Cavalaria Independente, sob as ordens do capitão
+do 1º Esquadrão de Cavalaria Independente, sob as ordens do capitão
 Ari Salgado Freire, e a Brigada São Paulo, com 1.300 homens, comandada
-pelo “tenente-coronel” Juarez Távora e formada pelos 2^o^ e 3^o^
+pelo “tenente-coronel” Juarez Távora e formada pelos 2º e 3º
 batalhões de Caçadores, comandados respectivamente pelos majores Manuel
 Alves Lira e Virgílio dos Santos, o Batalhão de Artilharia Montada, sob
-o comando do capitão Henrique Ricardo Holl, e o 2^o^ Esquadrão de
+o comando do capitão Henrique Ricardo Holl, e o 2º Esquadrão de
 Cavalaria Independente, comandado pelo capitão Jorge Danton.
 
 Impossibilitadas de tomar Guaíra, fortemente defendida pelas forças
@@ -529,8 +482,8 @@ reunida, continuou através de Mato Grosso, sofrendo nova estruturação em
 continuou com Miguel Costa, mas Prestes passou a chefe do estado-maior e
 comandante de fato, enquanto Juarez tornou-se subchefe do estado-maior.
 Cordeiro de Farias, João Alberto e Siqueira Campos foram mantidos nos
-comandos dos 1^o^, 2^o^ e 3^o^ destacamentos, tendo sido criado então o
-4^o^ Destacamento, que foi posto sob o comando de Djalma Dutra. Foram
+comandos dos 1º, 2º e 3º destacamentos, tendo sido criado então o
+4º Destacamento, que foi posto sob o comando de Djalma Dutra. Foram
 organizados, além disso, grupos de patrulheiros e potreadores que
 avançariam para capturar inimigos e animais. A função principal de
 Juarez era obter informações sobre possíveis itinerários e marchas das
@@ -573,7 +526,7 @@ vinda do Piauí se apoderara de uma canoa dos rebeldes, decidiu armar-lhe
 uma emboscada. No entanto, tendo as tropas legalistas desfechado um
 ataque às forças revolucionárias postadas em Caieiras, Juarez ouviu o
 tiroteio à sua retaguarda e seguiu para aquela localidade. Preso antes
-de lá chegar, foi recolhido ao quartel do 25^o^ Batalhão de Caçadores,
+de lá chegar, foi recolhido ao quartel do 25º Batalhão de Caçadores,
 em Teresina. Sem a sua participação, a coluna Miguel Costa-Prestes
 continuaria sua marcha pelo país, sempre combatendo as forças
 legalistas, até internar-se, em fevereiro de 1927, em território da
@@ -581,9 +534,9 @@ Bolívia e do Paraguai.
 
 Transferido de Teresina para São Luís, Juarez ficou inicialmente
 recolhido como preso comum na penitenciária estadual e, em seguida, no
-quartel do 24^o^ BC. Poucos dias depois foi removido para o Rio de
+quartel do 24º BC. Poucos dias depois foi removido para o Rio de
 Janeiro, sendo levado, junto com Paulo Kruger, aprisionado em Grajaú
-(MA), para o 1^o^ Regimento de Cavalaria Divisionária, comandado então
+(MA), para o 1º Regimento de Cavalaria Divisionária, comandado então
 pelo coronel Euclides Figueiredo. Ali se encontravam presos vários
 outros revoltosos, entre os quais Eduardo Gomes e Carlos Saldanha da
 Gama Chevalier, com os quais Juarez fez uma tentativa de fuga. Em
@@ -606,7 +559,7 @@ jornais do Rio de Janeiro e de São Paulo. Finalmente, em janeiro de
 evadir-se, procurando a partir de então refúgios sucessivos em casa de
 amigos e parentes.
 
-Articulação da Revolução de 1930
+## Articulação da Revolução de 1930
 
 Em julho de 1927 Juarez foi a Montevidéu para entender-se com Isidoro
 Dias Lopes sobre a preparação e deflagração de um movimento armado no
@@ -683,11 +636,11 @@ fortaleza de Santa Cruz. Ali já se achavam presos vários companheiros
 seus, entre os quais Eduardo Gomes, Newton Estillac Leal e Djalma Dutra.
 
 Foi nessa prisão que Juarez recebeu a visita do tenente Juraci
-Magalhães. Servindo no 1^o^ Regimento de Infantaria da Vila Militar,
+Magalhães. Servindo no 1º Regimento de Infantaria da Vila Militar,
 Juraci era simpático ao movimento revolucionário e lhe contou que tinha
 sido convidado pelo comandante da sua unidade, juntamente com os
 tenentes Jurandir Mamede e Agildo Ribeiro, também adeptos das mesmas
-ideias, para servir ao 22^o^ BC, sediado na capital paraibana.
+ideias, para servir ao 22º BC, sediado na capital paraibana.
 Confidenciou-lhe em seguida que lá procuraria organizar, com os
 companheiros, um núcleo de apoio ao movimento no Nordeste. Juarez achou
 oportuna a ida dos três e informou Juraci de que estava tramando sua
@@ -705,8 +658,8 @@ abril, entrou imediatamente em contato com Caio e Carlos de Lima
 Cavalcanti, informando-se da situação em Pernambuco e na Paraíba. Seguiu
 depois para a Paraíba e refugiou-se na residência de Juraci e Mamede na
 praia de Tambaú, onde iniciou as ligações com os tenentes
-revolucionários que serviam no 22^o^ BC. De Tambaú viajou até Fortaleza
-para estabelecer contatos com oficiais do 23^o^ BC e do Colégio Militar,
+revolucionários que serviam no 22º BC. De Tambaú viajou até Fortaleza
+para estabelecer contatos com oficiais do 23º BC e do Colégio Militar,
 regressando em seguida à Paraíba. Juarez era partidário de que, iniciado
 o levante, se constituísse um governo geral do Norte, com João Pessoa na
 chefia, pois entendia que a luta seria longa e a resistência do estado
@@ -790,14 +743,14 @@ conclusão dos preparativos do movimento no Sul e no Centro do país, e
 pediu-lhe que indicasse imediatamente duas ou três datas que julgasse
 mais convenientes para desencadeá-lo no Norte. Na capital paraibana,
 além do quartel-general revolucionário do Norte, estava sediado também o
-comando da 7^a^ RM, para lá transferido após o assassinato de João
+comando da 7ª RM, para lá transferido após o assassinato de João
 Pessoa. Era preciso, pois, não só levar o fator surpresa, como também
-ter como oficial de dia no 22^o^ BC um dos oficiais comprometidos com o
+ter como oficial de dia no 22º BC um dos oficiais comprometidos com o
 movimento. Após transmitir três datas, Juarez recebeu comunicado de
 Osvaldo Aranha fixando, de comum acordo com Antônio Carlos, o início do
 movimento para as 5:30h da tarde de 3 de outubro. Embora fosse essa a
 data preferida por Juarez, em virtude de estar escalado como oficial de
-dia do 22^o^ BC o tenente Agildo Barata, um dos cabeças da conspiração
+dia do 22º BC o tenente Agildo Barata, um dos cabeças da conspiração
 nessa unidade, a hora fixada era inaceitável por não garantir a
 indispensável surpresa na execução do levante. Como fora estabelecido
 desde o início que o movimento deveria começar simultaneamente nos três
@@ -810,12 +763,12 @@ início da movimentação das tropas para o sul após o levante e não ao
 começo do levante. O líder do movimento no Nordeste estava convencido de
 que a sua mensagem fora corretamente interpretada.
 
-A Revolução de 1930 no Nordeste
+## A Revolução de 1930 no Nordeste
 
 A eclosão do movimento estava programada para ocorrer simultaneamente no
-21^o^ BC, em Recife, no 22^o^ BC e na Polícia Militar destacada na
-Paraíba, no 23^o^ BC, em Fortaleza, no 29^o^ BC em Natal, no 25^o^ BC em
-Teresina, no 24^o^ BC em São Luís e no 26^o^ BC em Belém, além de
+21º BC, em Recife, no 22º BC e na Polícia Militar destacada na
+Paraíba, no 23º BC, em Fortaleza, no 29º BC em Natal, no 25º BC em
+Teresina, no 24º BC em São Luís e no 26º BC em Belém, além de
 companhias de Fuzileiros na Paraíba e de contingentes de praças do
 Colégio Militar de Fortaleza. O levante incluía ainda a cooperação de
 civis e, onde fosse possível, a ajuda de elementos da política local.
@@ -824,17 +777,17 @@ comunicação da data fixada às chefias de cada guarnição.
 
 Contrariando a opinião de alguns companheiros que insistiam em sua
 permanência na Paraíba no início do movimento, Juarez decidiu seguir
-para Recife, uma vez que a mobilização das forças rebeldes no 21^o^ BC
+para Recife, uma vez que a mobilização das forças rebeldes no 21º BC
 mostrava-se precária. Assim, às primeiras horas da noite do dia 3 partiu
 para a capital pernambucana com o tenente Sebastião Mendes de Holanda, a
-quem caberia o comando do levante do 21^o^ BC, e com o tenente Afonso
+quem caberia o comando do levante do 21º BC, e com o tenente Afonso
 Augusto de Albuquerque Lima. Chegando a Recife, soube, através de Carlos
 e Caio de Lima Cavalcanti, que o movimento revolucionário fora iniciado
 no Sul às 5:30h da tarde daquele mesmo dia e que as autoridades
 estaduais e federais já se tinham inteirado do fato.
 
 Juarez, seus companheiros de viagem e Carlos de Lima Cavalcanti rumaram
-então para o quartel do 21^o^ BC, certificando-se ao se aproximar de que
+então para o quartel do 21º BC, certificando-se ao se aproximar de que
 as forças governistas haviam sido postas de prontidão. Considerando
 inteiramente frustrado o plano de ocupação rápida de Recife, Juarez
 voltou imediatamente para a Paraíba. Antes de embarcar, porém,
@@ -842,43 +795,43 @@ objetivando a criação no Recife de pelo menos um foco de atividade
 revolucionária, determinou que um grupo de civis comandados por Rui e
 Caio de Lima Cavalcanti danificasse os equipamentos de ligação da
 central telefônica e ocupou o quartel da Soledade, depósito de material
-bélico da 7^a^ RM, o que permitiria armar e municiar todos os
+bélico da 7ª RM, o que permitiria armar e municiar todos os
 voluntários civis e militares que ali se apresentassem. Ao chegar à
 capital paraibana, tomou conhecimento do êxito ali alcançado pelos
-sediciosos do 22^o^ BC, comandados pelos tenentes Juraci Magalhães,
+sediciosos do 22º BC, comandados pelos tenentes Juraci Magalhães,
 Jurandir Mamede, Agildo Barata e Paulo Cordeiro, e pela Polícia Militar
 da Paraíba, sob o comando do coronel Elísio Sobreira. Esse sucesso fora
 devido em grande parte à iniciativa de Agildo Barata de reter em seu
 poder a correspondência telegráfica enviada ao general Alberto Lavenère
-Wanderley, comandante da 7^a^ RM, que foi morto em combate nessa
+Wanderley, comandante da 7ª RM, que foi morto em combate nessa
 ocasião, sobre o levante das guarnições do Centro e do Sul.
 
-Acompanhando ou imediatamente aderindo à rebelião do 22^o^ BC e da
-Polícia Militar, rebelaram-se as companhias do 28^o^ BC, 25^o^ BC e
-24^o^ BC, destacadas na capital paraibana, o 23^o^ BC, acantonado em
-Sousa, o 29^o^ BC, em Santa Rita do Sabrigi, e a Companhia de Fuzileiros
-do 21^o^ BC, acantonada em Campina Grande. No Piauí o 25^o^ BC também se
+Acompanhando ou imediatamente aderindo à rebelião do 22º BC e da
+Polícia Militar, rebelaram-se as companhias do 28º BC, 25º BC e
+24º BC, destacadas na capital paraibana, o 23º BC, acantonado em
+Sousa, o 29º BC, em Santa Rita do Sabrigi, e a Companhia de Fuzileiros
+do 21º BC, acantonada em Campina Grande. No Piauí o 25º BC também se
 revoltara na madrugada do dia 4, depondo o presidente do estado Pires
 Leal e pondo em seu lugar o vice-presidente, comandante Areia Leão.
-Juarez organizou então na Paraíba um destacamento com elementos do 22^o^
+Juarez organizou então na Paraíba um destacamento com elementos do 22º
 BC para apoiar os focos revolucionários que se tivessem estabelecido em
 Recife. Essa unidade militar, comandada por Juraci Magalhães, ao
 penetrar na capital pernambucana, no dia 5, encontrou apenas
 resistências esparsas. O presidente do estado, Estácio Coimbra, se
-retirara para Alagoas, o contingente do 21^o^ BC tinha embarcado para
+retirara para Alagoas, o contingente do 21º BC tinha embarcado para
 Natal, e grande parte dos elementos da Polícia Militar propôs se render
-aos revolucionários. Ainda no dia 5, ocorreu também o levante do 26^o^
+aos revolucionários. Ainda no dia 5, ocorreu também o levante do 26º
 BC em Belém do Pará. Não conseguindo se apoderar do quartel-general da
-8^a^ RM, os insurretos se retiraram da capital.
+8ª RM, os insurretos se retiraram da capital.
 
-No dia 6, com o avanço do 29^o^ BC sobre Natal, o presidente do Rio
+No dia 6, com o avanço do 29º BC sobre Natal, o presidente do Rio
 Grande do Norte, Juvenal Lamartine, abandonou o governo. Nesse mesmo
 dia, com José Américo de Almeida, Juarez viajou para Recife, onde Carlos
 de Lima Cavalcanti tomava posse, para estabelecer ali o quartel-general
 revolucionário do Norte. Dois dias depois, o presidente do Ceará, José
 Carlos de Matos Peixoto, abandonou o governo, sendo substituído por
 Manuel do Nascimento Fernandes Távora, irmão de Juarez. Ainda nesse dia,
-o 24^o^ BC sediado em São Luís revoltou-se, depondo o presidente do
+o 24º BC sediado em São Luís revoltou-se, depondo o presidente do
 Maranhão, José Pires Sexto, e empossando no governo o major José Luso
 Torres. No dia 9, com os governos revolucionários já constituídos nos
 estados de Pernambuco, Paraíba, Rio Grande do Norte, Ceará, Piauí e
@@ -895,11 +848,11 @@ Fortaleza-Teresina-São Luís e depois ingressaria em território paraense
 para ocupar Belém.
 
 No dia 10 o presidente Álvaro Pais abandonou o governo de Alagoas, e o
-20^o^ BC, sediado em Maceió, aderiu à revolução sem resistências. Para
+20º BC, sediado em Maceió, aderiu à revolução sem resistências. Para
 substituí-lo, José Américo empossou, no dia 14, Hermilo de Freitas
 Melro. No dia 11 José Américo empossou também, no Rio Grande do Norte,
 Irineu Joffily, em substituição ao presidente deposto, Juvenal
-Lamartine. No dia 16, o 28^o^ BC, sediado em Aracaju, aderiu à
+Lamartine. No dia 16, o 28º BC, sediado em Aracaju, aderiu à
 revolução, tendo o presidente do estado, Manuel Dantas, abandonado o
 governo. Para substituí-lo, José Américo nomeou dias depois o general
 José Calasans. No dia 24, uma junta militar composta pelos generais
@@ -909,7 +862,7 @@ deposto pela alta hierarquia do Exército. Diante disso, o governador da
 Bahia, coronel Frederico Costa, renunciou ao governo do estado, sendo
 nomeado para substituí-lo o civil Leopoldo Amaral.
 
-“Vice-Rei do Norte”
+## “Vice-Rei do Norte”
 
 Avisado pelos tenentes Artur da Costa e Silva e Napoleão Alencastro
 Guimarães de que estava havendo tentativas de divisão das forças
@@ -1035,19 +988,19 @@ preparar as teses que, aprovadas pela convenção, se basearam no ideário
 da revolução e deveriam ser apresentadas no I Congresso Nacional
 Revolucionário.
 
-A Revolução Constitucionalista de São Paulo
+## A Revolução Constitucionalista de São Paulo
 
 Em julho de 1932 eclodiu em São Paulo a Revolução Constitucionalista, em
 consequência da intensificação dos conflitos entre as lideranças
 paulistas tradicionais e o governo federal representado naquele estado
 por elementos tenentistas. Em apoio ao governo, Juarez seguiu para Minas
 Gerais, onde algumas unidades estavam em posição vulnerável. Ao chegar a
-Juiz de Fora, sede da 4^a^ RM, procedeu à imediata prisão do general
+Juiz de Fora, sede da 4ª RM, procedeu à imediata prisão do general
 Firmino Borba, que, tendo assumido poucos dias antes o comando da
 região, estava comprometido com os revolucionários paulistas.
 Substituiu-o pelo coronel Jorge Pinheiro, que reorganizou seu
 estado-maior, nomeando Gustavo Cordeiro de Farias para a sua chefia.
-Coube a Juarez a subchefia do estado-maior da 4^a^ Divisão de
+Coube a Juarez a subchefia do estado-maior da 4ª Divisão de
 Infantaria, que devia operar no eixo Itajubá-Pouso Alegre-Ouro
 Fino-Mojimirim. O plano de operações adotado visava essencialmente
 conter as tentativas de invasão do território mineiro, agir
@@ -1084,7 +1037,7 @@ como preocupação maior a difusão, junto aos novos partidos em formação
 nos estados, das ideias de renovação política, econômica e social para
 facilitar sua defesa perante a Assembleia Nacional Constituinte.
 
-No Ministério da Agricultura
+## No Ministério da Agricultura
 
 Em dezembro de 1932, Juarez foi convidado por Getúlio Vargas para a
 pasta da Agricultura, em substituição a Joaquim Francisco de Assis
@@ -1219,10 +1172,10 @@ eleições de outubro, entretanto, a oposição reunida em torno da Liga
 Eleitoral Católica (LEC) fez a maioria na Constituinte, que elegeu
 governador Francisco Meneses Pimentel.
 
-De Volta à Carreira Militar
+## De Volta à Carreira Militar
 
 Regressando ao Rio de Janeiro, Juarez retomou a carreira militar, indo
-servir em novembro de 1934 no 5^o^ Batalhão de Engenharia, em Curitiba,
+servir em novembro de 1934 no 5º Batalhão de Engenharia, em Curitiba,
 como fiscal administrativo e primeiro engenheiro da Comissão de Estradas
 de Rodagem do Paraná e Santa Catarina. Deixando essa função em fevereiro
 do ano seguinte, voltou à capital do país, matriculando-se no curso de
@@ -1263,9 +1216,9 @@ de novembro de 1937, que permitiu a Vargas permanecer na presidência,
 investindo-se de poderes ditatoriais.
 
 Depois de concluir o curso de estado-maior em fins de 1938, Juarez
-iniciou em fevereiro do ano seguinte estágio na 1^a^ Seção do
+iniciou em fevereiro do ano seguinte estágio na 1ª Seção do
 Estado-Maior do Exército (EME). Em abril de 1939 foi classificado para o
-comando do 1^o^ Batalhão Rodoviário e para a chefia da Comissão de
+comando do 1º Batalhão Rodoviário e para a chefia da Comissão de
 Estradas de Rodagem no Paraná e Santa Catarina. Ainda em abril foi
 nomeado presidente da comissão de inquérito administrativo instaurada no
 Ministério da Viação e Obras Públicas para apurar irregularidades
@@ -1279,15 +1232,15 @@ Brasil. Constituída outra comissão composta de membros mais graduados,
 no final dos trabalhos aqueles dois foram considerados isentos de culpa.
 
 Em julho de 1940, liberado das funções que exercia, Juarez iniciou
-estágio no estado-maior da 5^a^ RM, em Curitiba, para completar o
+estágio no estado-maior da 5ª RM, em Curitiba, para completar o
 estágio interrompido um ano antes no EME e habilitar-se a ingressar no
 quadro do Estado-Maior do Exército. Terminado o estágio em março de
 1941, já classificado ao quadro do Estado-Maior, foi designado para
-servir na 3^a^ Seção do EME, no Rio de Janeiro. Deixando a 3^a^ Seção em
-junho, passou a estagiar na 2^a^ Seção por haver sido nomeado adido
+servir na 3ª Seção do EME, no Rio de Janeiro. Deixando a 3ª Seção em
+junho, passou a estagiar na 2ª Seção por haver sido nomeado adido
 militar junto à embaixada do Brasil no Chile, para onde seguiu em agosto
 seguinte. No dia 25 desse mesmo mês chegou ao posto de coronel. Em
-novembro de 1943 regressou ao Brasil, voltando a estagiar na 2^a^ Seção
+novembro de 1943 regressou ao Brasil, voltando a estagiar na 2ª Seção
 do EME.
 
 Interessado em participar da organização da Força Expedicionária
@@ -1296,9 +1249,9 @@ Brasil às forças do Eixo (31/8/1942), na Segunda Guerra Mundial, Juarez
 foi classificado, em abril de 1944, para o comando do Batalhão Vilagran
 Cabrita, sediado na Vila Militar. Essa unidade estava incluída entre as
 forças expedicionárias e já preparara, durante o comando anterior de
-Fernandes Távora, uma companhia de transmissões para integrar a 1^a^
+Fernandes Távora, uma companhia de transmissões para integrar a 1ª
 Divisão Expedicionária. Assumindo o comando desse batalhão no mês
-seguinte, Juarez organizou outra companhia de Transmissões para a 2^a^
+seguinte, Juarez organizou outra companhia de Transmissões para a 2ª
 Divisão Expedicionária. Ainda no mês de abril tinha assumido a
 presidência do departamento militar da Liga da Defesa Nacional, órgão
 então criado para apoiar a campanha em prol dos expedicionários
@@ -1321,7 +1274,7 @@ Embora o conflito mundial tenha terminado em maio de 1945, Juarez
 permaneceu no comando do batalhão Vilagran Cabrita até setembro desse
 ano, quando assumiu a chefia da Diretoria de Engenharia do Exército.
 Contrário à promulgação do decreto-lei de 10 de setembro de 1945 que,
-alterando o Ato Adicional n^o^ 9 (28/2/1945), previa eleições federais e
+alterando o Ato Adicional nº 9 (28/2/1945), previa eleições federais e
 estaduais conjuntas para 2 de dezembro daquele ano, considerou essa
 medida uma manobra para garantir a eleição de governadores da confiança
 de Vargas e, com o auxílio deles, a maioria do Parlamento, que se
@@ -1343,7 +1296,7 @@ da nova lei de organização do Ministério da Guerra. Em junho desse ano
 foi promovido a general de brigada, sendo nomeado, em outubro, para a
 segunda subchefia do EME, função que assumiu no mês seguinte.
 
-A Política do Petróleo
+## A Política do Petróleo
 
 Em 1947, durante reuniões realizadas no Clube Militar, Juarez travou uma
 polêmica com o general Júlio Caetano Horta Barbosa a respeito da
@@ -1410,7 +1363,7 @@ conseguiu o aval pretendido, embora a CPI instaurada na Câmara dos
 Deputados tenha confirmado a procedência das acusações que lhe foram
 feitas.
 
-Em março de 1949, Juarez foi nomeado comandante da 6^a^ RM, sediada em
+Em março de 1949, Juarez foi nomeado comandante da 6ª RM, sediada em
 Salvador, permanecendo nessa função até se tornar delegado do Brasil na
 Junta Interamericana de Ajuda e Defesa em Washington, Estados Unidos,
 para onde viajou em março do ano seguinte. Em virtude da precariedade do
@@ -1443,7 +1396,7 @@ instalação do curso de estado-maior e comando das forças armadas, que
 vinha sendo objeto de estudo desde 1951, e a ampliação do acesso de
 civis aos cursos da ESG.
 
-A Crise de 1954
+## A Crise de 1954
 
 Em fevereiro de 1954, quando se iniciaram os debates sobre o problema
 sucessório nos estados e na presidência da República, João Cleofas,
@@ -1543,7 +1496,7 @@ No dia 24 foi divulgada a notícia do suicídio de Vargas. Juarez, diante
 do desfecho da crise, jurou “nunca mais me envolver em tentativas de
 corrigir pela força os erros ou omissões dos nossos governantes”.
 
-Na Chefia do Gabinete Militar da Presidência da República
+## Na Chefia do Gabinete Militar da Presidência da República
 
 Com a ascensão no mesmo dia de Café Filho ao poder, Juarez foi nomeado
 chefe do Gabinete Militar da Presidência da República. Por indicação sua
@@ -1594,7 +1547,7 @@ então, propiciaria, já depois da saída de Juarez da chefia do Gabinete
 Militar em abril de 1955, a assinatura de um acordo de cooperação entre
 o Brasil e os Estados Unidos nessa área.
 
-As Eleições Presidenciais de 1955
+## As Eleições Presidenciais de 1955
 
 Em fins de 1954, sondado por elementos do Partido Democrata Cristão
 (PDC), liderados por monsenhor Arruda Câmara no Nordeste e por Antônio
@@ -1615,7 +1568,7 @@ comporta como candidato à vice-presidência uma chapa com Juscelino.
 Juarez procurou sem sucesso demover Goulart do acordo e induzi-lo a
 aceitar a fórmula de conciliação nacional.
 
-Em 1^o^ de abril de 1955 Jânio Quadros desincompatibilizou-se do governo
+Em 1º de abril de 1955 Jânio Quadros desincompatibilizou-se do governo
 de São Paulo para concorrer à sucessão presidencial, abdicando assim de
 apoiar uma candidatura de união nacional. Nesse mesmo dia, sondado por
 Afonso Arinos de Melo Franco sobre a possibilidade de aceitar o
@@ -1825,7 +1778,7 @@ continuou seu trabalho na esfera civil, junto a alguns governadores
 amigos, com o intuito de reduzir as tensões políticas e evitar o apelo a
 outro golpe militar.
 
-De 1956 a 1964
+## De 1956 a 1964
 
 Em fins de julho e início de agosto de 1956, o deputado Renato Archer,
 do PSD, denunciou o fato de que Juarez, quando chefe do Gabinete Militar
@@ -1897,7 +1850,7 @@ Em 1961, diante da renúncia do presidente Jânio Quadros, no mês de
 agosto, os ministros militares vetaram a posse do seu substituto legal,
 o vice-presidente João Goulart. Nessa ocasião, Juarez mostrou-se
 favorável à iniciativa do Congresso, que, em 2 de setembro, aprovou a
-Emenda Constitucional n^o^ 4, instituindo o regime parlamentarista no
+Emenda Constitucional nº 4, instituindo o regime parlamentarista no
 país, como fórmula conciliatória capaz de permitir a posse de João
 Goulart na presidência da República, ocorrida no dia 7 ainda do mesmo
 mês.
@@ -1945,11 +1898,11 @@ louvando a iniciativa conjunta das forças armadas de restaurar a paz
 social sem derramamento de sangue para garantir a sobrevivência dos
 princípios democráticos e cristãos.
 
-No Ministério da Viação e Obras Públicas
+## No Ministério da Viação e Obras Públicas
 
 A junta militar que assumiu o governo com a deposição de Goulart, após
 longos entendimentos entre chefes civis e militares, dos quais Juarez
-participou, editou o Ato Institucional n^o^ 1 (9/4/1964), que, entre
+participou, editou o Ato Institucional nº 1 (9/4/1964), que, entre
 outras medidas, determinou a eleição indireta do presidente e
 vice-presidente da República, com mandato até 31 de janeiro de 1966.
 Assim, o Congresso Nacional elegeu, em 11 de abril, o general Humberto
@@ -2000,7 +1953,7 @@ cargo ao titular da nova pasta, coronel Mário Davi Andreazza.
 Logo após deixar o cargo, Juarez foi convidado pelo deputado Lopo
 Coelho, presidente do diretório regional da Guanabara da Aliança
 Renovadora Nacional (Arena) – partido governista criado após a extinção
-dos partidos pelo Ato Institucional n^o^ 2 (27/10/1965) – para integrar
+dos partidos pelo Ato Institucional nº 2 (27/10/1965) – para integrar
 o diretório, como vice-presidente. Juarez recusou o convite, alegando
 motivos de saúde. Abandonando então a vida pública, passou a dedicar-se
 a escrever as suas memórias.
@@ -2008,45 +1961,20 @@ a escrever as suas memórias.
 Faleceu no Rio de Janeiro no dia 18 de julho de 1975.
 
 Além de inúmeros artigos, conferências, discursos e pareceres, publicou:
-À guisa de depoimento – sobre a revolução brasileira de 1924 (1927), O
-ministro da Agricultura perante a Assembleia Nacional Constituinte
-(1934), Petróleo para o Brasil (1955), Produção para o Brasil
-(1956-1957), Átomos para o Brasil (1958), Organização para o Brasil
-(1959), Uma política de desenvolvimento para o Brasil (1962), Uma vida e
-muitas lutas, memórias (3v., 1973-1976).
+*À guisa de depoimento – sobre a revolução brasileira de 1924* (1927), *O
+ministro da Agricultura perante a Assembleia Nacional Constituinte*
+(1934), *Petróleo para o Brasil* (1955), *Produção para o Brasil*
+(1956-1957), *Átomos para o Brasil* (1958), *Organização para o Brasil*
+(1959), *Uma política de desenvolvimento para o Brasil* (1962), *Uma vida e
+muitas lutas, memórias* (3v., 1973-1976).
 
-A seu respeito foram publicadas as obras Osvaldo Aranha e Juarez Távora
-(os generais da Revolução) (1930), de Vítor Alves, e Prisão humorística
-do capitão Juarez Távora (1931), de Moisés Castelo Branco Filho, além do
-artigo “Távora: o homem, o militar e o estadista” (Revista do Instituto
-de Geografia e História Militar do Brasil, 1976), de Edmundo de Macedo
+A seu respeito foram publicadas as obras *Osvaldo Aranha e Juarez Távora
+(os generais da Revolução)* (1930), de Vítor Alves, e *Prisão humorística
+do capitão Juarez Távora* (1931), de Moisés Castelo Branco Filho, além do
+artigo *Távora: o homem, o militar e o estadista* (*Revista do Instituto
+de Geografia e História Militar do Brasil*, 1976), de Edmundo de Macedo
 Soares e Silva.
 
 O arquivo de Juarez Távora encontra-se depositado no Centro de Pesquisa
 e Documentação de História Contemporânea do Brasil (Cpdoc) da Fundação
 Getulio Vargas.
-
-Sílvia Pantoja
-
-**FONTES:** ALBUQUERQUE, J. *Cearenses no Rio e em SP*; ARQ. CLUBE 3 DE
-OUTUBRO; ARQ. GETÚLIO VARGAS; ARQ. MIN. EXÉRC.; BARROS, J. *Memórias*;
-BELEZA, N. *Evolução*; BENEVIDES, M. *Governo Kubitschek*; CACHAPUZ, P.
-*Cronologia*; CAFÉ FILHO, J. *Do sindicato*; CÂM. DEP. *Deputados*;
-CARNEIRO, G. *História*; CARONE, E. *Segunda*; CARVALHO, E. *Petróleo*;
-CASCUDO, L. *História*; COHN, G. *Petróleo*; CORRESP. ESC. SUP. GUERRA;
-CORRESP. GAB. MIL. PRES. REP.; COSTA, M. *Cronologia*; COUTINHO, A.
-*Brasil*; COUTINHO, L. *General*; *Cronologia da Assembleia*; D’ARAÚJO,
-M. *Cronologia*; DULLES, J. *Anarquistas*; DULLES, J. *Getúlio*; *Encic.
-Mirador*; ENTREV. ANDRADE, H.; *Estado de S. Paulo* (19/7/1975);
-FIGUEIREDO, E. *Contribuição*; FLYNN, P. *Legião*; *Folha de S. Paulo*
-(28/8/1977); FONTOURA, J. *Memórias*; *Globo* (19/7/1975); *Grande
-encic. Delta*; GUERRA FILHO, R. *Ministério*; HEILBORN, M. *Oligarquia*;
-HIRSCHOWICZ, E. Contemporâneos; JARDIM, R. *Aventura*; *Jornal do
-Brasil* (19/7/75); KUBITSCHEK, J. *Meu* (3); LEVINE, R. *Vargas*; LIMA,
-H. *Travessia*; LIMA, L. *Coluna*; MACHADO, F. *Últimos*; MIN. GUERRA.
-*Almanaque*; MIN. GUERRA. *Subsídios*; MORAIS, A. *Minas*; MOREIRA, J.
-*Dicionário*; NABUCO, C. *Vida*; NÉRI, S. *16*; NOGUEIRA FILHO, P.
-*Ideais*; *Panfleto* (9/54-35); PEIXOTO, A. *Getúlio*; REIS JÚNIOR, P.
-*Presidentes*; SALES, D. *Razões*; SKIDMORE, T. *Brasil*; PEREIRA, J.
-*Petróleo*; SODRÉ, N. *História militar*; TÁVORA, J. *Política*; TÁVORA,
-J. *Vida*; VIANA FILHO, L. *Governo*; VÍTOR, M. *Cinco*.

@@ -1,43 +1,16 @@
 ---
 title: SOUTO, Teodureto
-cargoss: 
- - Deputado Geral
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Constituinte
- - Senador
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1878
- - 1883
- - 1884
- - 1891
- - 1891
-datas_fim: 
- - 1881
- - 1883
- - 1884
- - 1891
- - 1893
-estados: 
- - CE
- - SC
- - AM
- - 
- - CE
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. geral CE 1878-1881
+ - pres. SC 1883
+ - pres. AM 1884
+ - const. 1891
+ - sen. CE 1891-1893 
 autor: 
- - 
+ - Kleiton de Sousa Moraes
 ---
-
-**SOUTO, Teodureto**
-
-\*dep. geral CE 1878-1881; pres. SC 1883; pres. AM 1884; const. 1891;
-sen. CE 1891-1893.
 
 *Teodureto Carlos de Faria Souto* nasceu em Ipu (CE) no dia 4 de
 novembro de 1841, filho de José Francisco Souto.
@@ -67,8 +40,3 @@ Foi ainda presidente do Banco do Brasil e diretor do Banco da República.
 
 Faleceu em Nova Friburgo (RJ) no dia 11 de agosto de 1893, em pleno
 exercício do mandato de senador.
-
-Kleiton de Sousa Moraes
-
-**FONTES:** GIRÃO, V. *Ceará* (p.63); GUIMARÃES, H. *Deputados* (p.504);
-LEITE NETO, L. *Catálogo biográfico* (v.4).

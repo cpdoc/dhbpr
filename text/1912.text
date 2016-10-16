@@ -1,59 +1,18 @@
 ---
 title: SÁ, Francisco
-cargoss: 
- - Deputado Geral
- - Deputado federal
- - Senador
- - Ministro da Viação e Obras Públicas
- - Senador
- - Senador
- - Ministro da Viação e Obras Públicas
- - Senador
-cargos_esp: 
- - 
- - 
- - 
- - e Obras Públ
- - 
- - 
- - e Obras Públ
- - 
-datas_ini: 
- - 1889
- - 1897
- - 1906
- - 1909
- - 1922
- - 1911
- - 1922
- - 1927
-datas_fim: 
- - 1889
- - 1905
- - 1909
- - 1910
- - 1922
- - 1915
- - 1926
- - 1930
-estados: 
- - CE
- - CE
- - CE
- - 
- - CE
- - CE
- - 
- - CE
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. geral CE 1889
+ - dep. fed. CE 1897-1905
+ - sen. CE 1906-1909
+ - min. Viação e Obras Públ. 1909-1910
+ - sen. CE 1911-1915 e 1922
+ - min. Viação e Obras Públ. 1922-1926
+ - sen. CE 1927-1930 
 autor: 
  - Paulo Brandi Cachapuz
 ---
-
-**SÁ, Francisco**
-
-\*dep. geral CE 1889; dep. fed. CE 1897-1905; sen. CE 1906-1909; min.
-Viação e Obras Públ. 1909-1910; sen. CE 1911-1915 e 1922; min. Viação e
-Obras Públ. 1922-1926; sen. CE 1927-1930.
 
 *Francisco Sá* nasceu na fazenda Brejo de Santo André, em Grão-Mogol
 (MG), no dia 14 de setembro de 1862, filho de Francisco José de Sá Filho
@@ -151,7 +110,7 @@ de 1906 para a renovação do terço do Senado. Segundo o resultado
 reconhecido pela Comissão de Poderes, teve 20.700 votos, suplantando por
 larga diferença o médico Francisco de Paula Rodrigues.
 
-Ministro da Viação e Obras Públicas – Primeira Gestão
+## Ministro da Viação e Obras Públicas – Primeira Gestão
 
 Em junho de 1909, Francisco Sá foi chamado a compor a nova equipe de
 governo formada pelo até então vice-presidente Nilo Peçanha, conduzido
@@ -222,7 +181,7 @@ produção mínima de mil toneladas por mês. A Itabira Iron Ore Company,
 organizada pelo grupo inglês em 1910, conseguiria posteriormente o fim
 da obrigatoriedade da construção da siderúrgica.
 
-De Volta ao Senado
+## De Volta ao Senado
 
 Em fevereiro de 1911, Francisco Sá foi reeleito senador pelo Ceará em
 pleito convocado para o preenchimento da vaga aberta pela renúncia do
@@ -272,9 +231,9 @@ membro da Comissão de Finanças do Senado. Em novembro de 1920, o
 Congresso aprovou sua proposta de criação da Carteira de Redesconto e
 Emissão do Banco do Brasil.
 
-Ministro da Viação e Obras Públicas – Segunda Gestão
+## Ministro da Viação e Obras Públicas – Segunda Gestão
 
- Francisco Sá participou da campanha de Rui Barbosa às eleições
+Francisco Sá participou da campanha de Rui Barbosa às eleições
 presidenciais de 1919, vencidas por Epitácio Pessoa, candidato apoiado
 pelas forças políticas dominantes em todos os estados, incluindo o
 Ceará, governado na época pelo engenheiro João Tomé Saboia e Silva. Fez
@@ -363,20 +322,3 @@ Francisco Sá em sua homenagem.
 Seu filho Francisco Sá Filho foi deputado federal pela Bahia no período
 1924-1930 e ministro do Tribunal Superior Eleitoral (TSE) entre 1945 e
 1950.
-
-Paulo Brandi Cachapuz
-
-**FONTES:** ABRANCHES, J. *Governos*; CÂM. DEP. *Anais* (18/4 –
-30/5/1897, v.1, p.136-144, 1 – 31/7/1897, v.3, p.680-681, 27/4 –
-30/7/1898, v.1, 29/7/1898, p.591, 1- 31/8/1901, v.4, 10/8/1901,
-p.179-193); CARONE, E. *República*; CARVALHO, J. *Escola*; *Diário do
-Congresso Nacional* (n.1, 22/4/1906, p.3, n.1, 4/5/1911, p.28, 30,
-19/5/1911, p.110, n.54, 6/7/1922, p.1.869-1.870, 7/5/1936, n.311,
-p.11.428); FAUSTO, B*. História*; FRITSCH, W. *1924*; GAULD. C.
-*Farquhar*; GOMES, A.; DIAS, J.; MOTTA, M. *Engenheiros*; *Governo
-presidencial*; HORTA, C. *Famílias*; LIMA, P. *Máquina;* LOPEZ, A.;
-MOTA, C. *História*; MCCANN, F. *Soldados*; *Mineração*; MIN. IND.,
-VIACÃO, OBRAS PUB. *Relatório* (1910, 1923, 1926); MONTEIRO, N*.
-Dicionário*; MOTOYAMA, S. *Prelúdio*; PINHEIRO, I. *Efemérides*; PIRES,
-A. *Homens*; SOUZA, M. *Processo*; SOUZA, J. *Política*; TELLES, P.
-*História*; VILLELA, A.; SUZIGAN W. *Política*; WIRTH, J. *Fiel*.

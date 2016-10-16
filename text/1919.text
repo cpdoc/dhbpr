@@ -1,82 +1,24 @@
 ---
 title: SEABRA, J. J.
-cargoss: 
- - Constituinte
- - Deputado federal
- - Deputado federal
- - Ministro do Interior
- - Deputado federal
- - Ministro da Viação e Obras Públicas
- - Governador de estado ou do Distrito Federal
- - Deputado federal
- - Senador
- - Governador de estado ou do Distrito Federal
- - Constituinte
- - Deputado federal
-cargos_esp: 
- - 
- - 
- - 
- - e Just
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1897
- - 1891
- - 1902
- - 1909
- - 1910
- - 1912
- - 1916
- - 1917
- - 1920
- - 1934
- - 1935
-datas_fim: 
- - 1891
- - 1902
- - 1893
- - 1906
- - 1910
- - 1912
- - 1915
- - 1917
- - 1920
- - 1924
- - 1934
- - 1937
-estados: 
- - 
- - BA
- - BA
- - 
- - BA
- - 
- - BA
- - BA
- - BA
- - BA
- - 
- - BA
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. BA 1891-1893 e 1897-1902
+ - min. Interior e Just. 1902-1906
+ - dep. fed. BA 1909-1910
+ - min. Viação 1910-1912
+ - gov. BA 1912-1915
+ - dep. fed. BA 1916-1917
+ - sen. BA 1917-1920
+ - gov. BA 1920-1924
+ - const. 1934
+ - dep. fed. BA 1935-1937 
 autor: 
- - 
+ - Amélia Coutinho
 ---
 
-**SEABRA, J. J.**
-
-\*const. 1891; dep. fed. BA 1891-1893 e 1897-1902; min. Interior e Just.
-1902-1906; dep. fed. BA 1909-1910; min. Viação 1910-1912; gov. BA
-1912-1915; dep. fed. BA 1916-1917; sen. BA 1917-1920; gov. BA 1920-1924;
-const. 1934; dep. fed. BA 1935-1937.
-
-*José Joaquim Seabra*nasceu em Salvador no dia 21 de agosto de 1855,
+*José Joaquim Seabra* nasceu em Salvador no dia 21 de agosto de 1855,
 filho de José Joaquim Seabra e de Leopoldina Alves Seabra.
 
 Concluindo os preparatórios em Salvador e ingressando na Faculdade de
@@ -96,7 +38,7 @@ tese da federação das províncias. Devido à proclamação da República
 foi nomeado lente catedrático de economia política e diretor da
 Faculdade de Direito do Recife.
 
-Na Primeira República
+## Na Primeira República
 
 Em setembro de 1890 J. J. Seabra foi eleito deputado pela Bahia ao
 Congresso Nacional Constituinte. Participou da elaboração da
@@ -232,7 +174,7 @@ da Aliança Liberal, tendo ainda participado na Bahia da caravana liberal
 que percorreu diversos estados no Nordeste, discursando nos comícios
 realizados em Salvador e Ilhéus.
 
-No Pós-1930
+## No Pós-1930
 
 Em 1930, após a derrota dos candidatos liberais nas eleições de março,
 esteve inicialmente ao lado do movimento revolucionário que depôs
@@ -273,23 +215,11 @@ Seabra.
 Casado com Amélia de Freitas Seabra, teve quatro filhos.
 
 Deixou escritos textos de crítica ao governo baiano posterior à
-Revolução de 1930: Humilhação e devastação da Bahia: análise documentada
-da administração do sr. Juraci Magalhães, reunida e anotada por Nélson
-de Sousa Carneiro (1933), Esfola de um mentiroso: estudo documentado da
-ação política e administrativa do interventor Juraci Magalhães na Bahia,
+Revolução de 1930: *Humilhação e devastação da Bahia: análise documentada
+da administração do sr. Juraci Magalhães*, reunida e anotada por Nélson
+de Sousa Carneiro (1933), *Esfola de um mentiroso: estudo documentado da
+ação política e administrativa do interventor Juraci Magalhães na Bahia*,
 contendo um esclarecimento completo em torno do assassinato do general
 Lavenère Wanderley na Paraíba em outubro de 1930 (1936). A seu respeito,
 A. Borges Barros escreveu *Dr. J. J. Seabra: sua vida na República*
 (1931).
-
-Amélia Coutinho
-
-**FONTES:** ASSEMB. NAC. CONST. 1934. *Anais*; BELEZA, N. *Evolução*;
-Boletim Min. Trab. (5/1936); CÂM. DEP. *Deputados*; Câm. Dep. seus
-componentes; CARNEIRO, G. *História*; Cronologia da Assembleia; *Diário
-de Notícias*, Rio; Diário do Congresso Nacional; *Encic. Mirador*;
-FONTOURA, J. *Memórias*; GODINHO, V. *Constituintes*; *Grande encic.
-Delta*; GUIMARÃES, A. *Dicionário*; JARDIM, R. Aventura; *Jornal do
-Comércio*, Rio; LEITE, A. *História*; LIRA, A. *Senado*; MORAIS, A.
-*Minas*; MOREIRA, J. *Dicionário*; PANG, Eul-Soo. *Coronelismo*;
-PEREIRA, N. *Faculdade*; SOUSA, A. *Baianos*.

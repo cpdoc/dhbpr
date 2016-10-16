@@ -1,53 +1,17 @@
 ---
 title: VELHO, Pedro
-cargoss: 
- - Governador de estado ou do Distrito Federal
- - Governador de estado ou do Distrito Federal
- - Constituinte
- - Deputado federal
- - Governador de estado ou do Distrito Federal
- - Deputado federal
- - Senador
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1890
- - 1889
- - 1891
- - 1891
- - 1892
- - 1896
- - 1897
-datas_fim: 
- - 1890
- - 1889
- - 1891
- - 1892
- - 1896
- - 1896
- - 1907
-estados: 
- - RN
- - RN
- - 
- - RN
- - RN
- - RN
- - RN
+natureza: biográfico
+sexo: m
+cargos: 
+ - gov. RN 1889 e 1890
+ - const. 1891 
+ - dep. fed. RN 1891-1892
+ - gov. RN 1892-1896
+ - dep. fed. RN 1896
+ - sen. RN 1897-1907 
 autor: 
  - Renato Amado Peixoto
 ---
-
-**VELHO, Pedro**
-
-\* gov. RN 1889 e 1890; const. 1891; dep. fed. RN 1891-1892; gov. RN
-1892-1896; dep. fed. RN 1896; sen. RN 1897-1907.
 
 *Pedro Velho de Albuquerque Maranhão* nasceu em Macaíba (RN) no dia 27
 de novembro de 1856, filho de Amaro Bezerra de Albuquerque Maranhão e de
@@ -73,12 +37,12 @@ Em 1885 foi nomeado inspetor da Saúde Pública e assumiu a cadeira de
 história no Colégio Ateneu em Natal. Sua entrada na política se deu nos
 primeiros dias de 1888, quando ajudou a fundar a Sociedade Libertadora
 Norte-Rio-Grandense. Em 27 de janeiro do ano seguinte foi um dos
-fundadores do Partido Republicano do Rio Grande do Norte e, em 1^o^ de
+fundadores do Partido Republicano do Rio Grande do Norte e, em 1º de
 julho, do jornal *A República*. No mesmo ano foi candidato a deputado
 geral, naquelas que seriam as últimas eleições do Império, pela legenda
 do Partido Republicano.
 
-Governador e Chefe Político do Rio Grande do Norte
+## Governador e Chefe Político do Rio Grande do Norte
 
 Em 17 de novembro de 1889, dois dias após a proclamação da República
 (15/11/1889), Pedro Velho recebeu a administração do Rio Grande do Norte
@@ -197,9 +161,3 @@ da União (TCU) de 1918 a 1941.
 
 A seu respeito foram publicados os livros *Vida de Pedro Velho* (1954) e
 *Antologia de Pedro* Velho (1956).
-
-Renato Amado Peixoto
-
-**FONTES:** CASCUDO, L. *Antologia*; CASCUDO, L. *Governo*; CASCUDO, L.
-*Vida*; LIRA, A. *História*; MAIA, A. *Parlamentares*; SOUZA, I.
-*República.*

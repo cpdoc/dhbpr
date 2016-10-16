@@ -1,59 +1,19 @@
 ---
 title: VARGAS, Getúlio
-cargoss: 
- - Deputado federal
- - Ministro da Fazenda
- - Presidente de associação ou confederação de empregados ou empregadores
- - Revolucionário ou revoltoso
- - Presidente da República
- - Constituinte
- - Senador
- - Presidente da República
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1923
- - 1926
- - 1928
- - 1930
- - 1930
- - 1946
- - 1946
- - 1951
-datas_fim: 
- - 1926
- - 1927
- - 1930
- - 1930
- - 1945
- - 1946
- - 1949
- - 1954
-estados: 
- - RS
- - 
- - RS
- - 
- - 
- - 
- - RS
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. fed. RS 1923-1926
+ - min. Faz. 1926-1927
+ - pres. RS 1928-1930 
+ - rev. 
+ - pres. Rep. 1930-1945
+ - const. 1946
+ - sen. RS 1946-1949
+ - pres. Rep. 1951-1954 
 autor: 
  - Paulo Brandi Cachapuz
 ---
-
-**VARGAS, Getúlio**
-
-\*dep. fed. RS 1923-1926; min. Faz. 1926-1927; pres. RS 1928-1930; rev.
-1930; pres. Rep. 1930-1945; const. 1946; sen. RS 1946-1949; pres. Rep.
-1951-1954.
 
 *Getúlio Dornelles Vargas* nasceu em São Borja (RS) no dia 19 de abril
 de 1882, filho de Manuel do Nascimento Vargas e de Cândida Dornelles
@@ -114,13 +74,13 @@ Em 1898, Getúlio decidiu seguir carreira militar, solicitando matrícula
 na Escola Preparatória e de Tática de Rio Pardo (RS), primeiro passo no
 caminho do oficialato. Getúlio teve de esperar um ano por falta de vaga,
 segundo Barros Vidal. Com o objetivo de facilitar sua matrícula na
-escola de Rio Pardo, alistou-se em fevereiro de 1899 no 6^o^ Batalhão de
+escola de Rio Pardo, alistou-se em fevereiro de 1899 no 6º Batalhão de
 Infantaria, sediado em São Borja. Foi rapidamente promovido a
 segundo-sargento. Em março de 1900, matriculou-se afinal na Escola
 Preparatória e de Tática de Rio Pardo. Em maio de 1902, porém
 desligou-se da escola, em solidariedade a alguns colegas que haviam sido
 expulsos por um incidente disciplinar. Voltou à tropa, dessa vez no
-25^o^ Batalhão de Infantaria, sediado em Porto Alegre. Predisposto a
+25º Batalhão de Infantaria, sediado em Porto Alegre. Predisposto a
 abandonar a carreira das armas, matriculou-se na Escola Brasileira com o
 intuito de completar o curso secundário, já decidido a estudar direito.
 No começo de 1903, quando se preparava para deixar o Exército, surgiu
@@ -196,7 +156,7 @@ Neves e voltou a São Borja, onde constituiu uma banca de advocacia e
 estendeu os contatos com os correligionários de seu pai, garantindo
 apoio eleitoral à sua candidatura.
 
-O Deputado Getúlio Vargas
+## O Deputado Getúlio Vargas
 
 Em março de 1909, Vargas foi eleito à Assembleia dos Representantes na
 legenda do PRR. A Assembleia gaúcha era uma instituição com funções
@@ -332,7 +292,7 @@ em seguida seus cálculos.
 Em 25 de janeiro de 1923, Assis Brasil e antigos caudilhos federalistas
 insurgiram-se com o objetivo de depor Borges, desencadeando violenta
 guerra civil no estado. Nomeado tenente-coronel por decreto de Borges,
-Vargas partiu para São Borja, assumindo o comando do 7^o^ Corpo
+Vargas partiu para São Borja, assumindo o comando do 7º Corpo
 Provisório, tropa irregular composta de civis recrutados. Mas não chegou
 a participar dos combates, pois, ameaçado de perder sua cadeira na
 Câmara Federal, interrompeu a luta e foi para o Rio de Janeiro assumir
@@ -378,7 +338,7 @@ Melo Viana, até então presidentes respectivamente de São Paulo e Minas
 Gerais, foram eleitos presidente e vice-presidente da República em março
 de 1926.
 
-Ministro da Fazenda
+## Ministro da Fazenda
 
 Em 15 de novembro de 1926, Washington Luís assumiu a presidência,
 empossando Vargas no Ministério da Fazenda. Essa escolha tinha o claro
@@ -427,7 +387,7 @@ pronunciado ainda no Rio de Janeiro insinuou que as divergências no Rio
 Grande do Sul deveriam ser abandonadas no interesse da paz com os
 libertadores.
 
-Presidente do Rio Grande do Sul
+## Presidente do Rio Grande do Sul
 
 Em 25 de janeiro de 1928, Getúlio assumiu a presidência do Rio Grande do
 Sul. Sua primeira preocupação foi estabelecer um *modus vivendi* com
@@ -500,7 +460,7 @@ Assim, nesse mesmo ano de 1929, Vargas teve condições de unificar a
 política do Rio Grande do Sul e empreender a primeira tentativa direta
 de um político gaúcho para chegar à presidência da República.
 
-A Aliança Liberal
+## A Aliança Liberal
 
 A candidatura de Vargas às eleições presidenciais de 1930 nasceu do
 acordo entre o Rio Grande do Sul e Minas Gerais, marcando o rompimento
@@ -776,9 +736,9 @@ ao governo de João Pessoa e contou com o apoio do Catete. Antes e depois
 das eleições, o governo federal hostilizou abertamente os estados de
 Minas e da Paraíba.
 
-A Revolução de 1930
+## A Revolução de 1930
 
-As eleições de 1^o^ de março de 1930, realizadas no estilo tradicional
+As eleições de 1º de março de 1930, realizadas no estilo tradicional
 da República Velha, deram afinal a vitória a Júlio Prestes, como já era
 esperado. Além de vencer por grande diferença nos estados
 situacionistas, o candidato oficial obteve 50 mil votos em Minas e a
@@ -883,7 +843,7 @@ Aliança Liberal. No seu Manifesto de maio, Prestes condenou a “revolução
 da oligarquia”, propondo um programa de revolução agrária e
 anti-imperialista.
 
-Em 1^o^ de junho, Vargas lançou um manifesto à nação, condenando a
+Em 1º de junho, Vargas lançou um manifesto à nação, condenando a
 depuração das bancadas mineira e paraibana e anunciando para breve a
 “necessária retificação” do regime. Mas temperou seus ataques, afirmando
 que as modificações dos “nossos hábitos e costumes” poderiam ter lugar
@@ -977,8 +937,8 @@ pacificadora no caso de um conflito prolongado.
 
 Nas últimas semanas que precederam a revolução, Vargas procurou
 dissimular seu envolvimento na conspiração, buscando, sobretudo
-despistar o senador Paim Filho e o comandante da 3^a^ Região Militar
-(3^a^ RM), sediada no Rio Grande do Sul, o general Gil de Almeida, ambos
+despistar o senador Paim Filho e o comandante da 3ª Região Militar
+(3ª RM), sediada no Rio Grande do Sul, o general Gil de Almeida, ambos
 fortemente leais a Washington Luís. Paim Filho foi induzido a transmitir
 informações tranquilizadoras ao presidente, negando a participação de
 Vargas na trama revolucionária. Enquanto isso, Vargas entendia-se com o
@@ -994,7 +954,7 @@ dia 3 de outubro. Segundo o plano adotado, o movimento deveria irromper
 simultaneamente no Rio Grande do Sul, Minas e estados do Nordeste.
 
 A revolução começou em Porto Alegre às cinco horas da tarde de 3 de
-outubro, com um ataque bem planejado ao comando da 3^a^ RM. Em 20
+outubro, com um ataque bem planejado ao comando da 3ª RM. Em 20
 minutos, o general Gil de Almeida foi feito prisioneiro. Em Belo
 Horizonte, o movimento começou ao mesmo tempo, mas no Nordeste, por um
 equívoco de Juarez Távora, a revolução irrompeu na madrugada do dia 4.
@@ -1035,11 +995,11 @@ Não poderás falhar ao teu destino heroico.” Os gaúchos atenderam ao
 apelo com entusiasmo e em poucos dias cerca de 50 mil voluntários
 alistaram-se para lutar na insurreição.
 
-Em Belo Horizonte, apesar da resistência do 12^o^ Regimento de
-Infantaria (12^o^ RI), que durou cinco dias, o domínio da cidade foi
+Em Belo Horizonte, apesar da resistência do 12º Regimento de
+Infantaria (12º RI), que durou cinco dias, o domínio da cidade foi
 rápido. No interior do estado algumas guarnições federais (Juiz de Fora,
 Três Corações), permaneceram fiéis a Washington Luís, mas limitaram sua
-ação à resistência dentro dos quartéis. Após a rendição do 12^o^ RI, as
+ação à resistência dentro dos quartéis. Após a rendição do 12º RI, as
 forças mineiras concentraram-se na região de fronteira com São Paulo e o
 Rio de Janeiro, conseguindo deter a invasão de tropas legalistas.
 
@@ -1081,7 +1041,7 @@ revolução. As verdadeiras intenções da junta não eram claras. A nomeação
 do ministério e a adoção de medidas legislativas indicavam sua
 disposição em permanecer no poder como um fato consumado. A situação
 tornou-se ainda mais dúbia com a designação do general Hastínfilo de
-Moura, comandante legalista da 2^a^ RM, para o cargo de interventor em
+Moura, comandante legalista da 2ª RM, para o cargo de interventor em
 São Paulo e com as declarações do novo chefe de polícia no Rio, coronel
 Bertoldo Klinger, prometendo reprimir as manifestações públicas na
 capital em favor dos revolucionários.
@@ -1104,7 +1064,7 @@ Provisório. Os soldados gaúchos fizeram então o que ficaria registrado
 na crônica como o gesto simbólico da vitória: amarraram seus cavalos no
 obelisco da Avenida Rio Branco, no Rio.
 
-A Era Vargas
+## A Era Vargas
 
 Líder civil do movimento revolucionário que determinou o fim da Primeira
 República, Getúlio Vargas tornou-se a figura dominante da política
@@ -1557,7 +1517,7 @@ A obra publicada de Getúlio Vargas é constituída por discursos e
 mensagens, reunidos em *A nova política do Brasil* (1938-1947, 11v.), *A
 política trabalhista do Brasil* (1950), *A campanha presidencial*
 (1951), *O governo trabalhista do Brasil* (1952-1969, 4v.), *A política
-nacionalista do petróleo no Brasil* (1964) e *Getúlio Vargas**:
+nacionalista do petróleo no Brasil* (1964) e *Getúlio Vargas:
 discursos 1903-1929* (1997).
 
 Vargas foi biografado por dezenas de autores, entre os quais: André
@@ -1587,32 +1547,3 @@ O arquivo particular de Getúlio Vargas encontra-se depositado no Cpdoc,
 seus diários pessoais foram publicados pelas pesquisadoras Maria Celina
 D’Araújo, Regina da Luz Moreira e Ângela de Castro Gomes, sob o título
 Getúlio Vargas: diário (1995, 2v.).
-
-Paulo Brandi Cachapuz
-
-**FONTES:** AITA, C; AXT, G. *Getúlio*; ARAÚJO, R. V. *Vargas*; AXT, G.
-*Emergência*; AXT, G. *Governo*; BRANDI, P. *Vargas*; COLUSSI, E; DIEHL,
-A. A. *Cultura*; COLUSSI, E. *Violência*; D’ARAÚJO, M. C. *Fio*; Da
-vida; FARIA, A. A; BARROS, E. L. *Getúlio*; FAUSTO, B. *Getúlio*;
-FAUSTO, B. *História*; FAUSTO, B. *Memória*; GOMES, A. C. *Escrita*;
-PINHEIRO, P. S. *Getúlio*; QUADROS, J; FRANCO, A. A. Melo. *História*;
-REZENDE, S. G. *Vargas*; SILVA, R. M; CACHAPUZ, P. B; LAMARÃO, S.
-*Getúlio*; ANDRADE, M. 1930; ARQ. GETÚLIO VARGAS; BEIGUELMAN, P.
-*Processo*; BELO, J. *História*; BORGES, V. *Getúlio*; BOURNE, R.
-*Getúlio*; CAMARGO, A. *Carisma*; CARONE, E. *República velha*; CARONE,
-E. *Revoluções*; CARONE, E. *Tenentismo*; CARRAZONI, A. *Getúlio*;
-CARRAZONI, A. *Perfil*; CONY, C. *Quem*; COUTINHO, L. *General*; DULLES,
-J. *Getúlio*; Encic. Mirador; Energia; FAORO, R. *Donos*; FAUSTO, B.
-*Crise*; FAUSTO, B. *Pequenos*; FAUSTO, B. *Revolução*; FAUSTO, B.
-*Revolução* 1930; FONTOURA, J. *Memórias*; FRANCO, A. *Estadista*;
-FRANCO, V. *Outubro*; FRISCHAUER, P. *Presidente*; FUND. GETULIO VARGAS.
-*Revolução*; FURTADO, C. *Formação*; GOMES, A. *Burguesia*; GOMES, A.
-*Regionalismo*; Grande encic. Delta; *História do Século*; JARDIM, Z.
-*Trajetória*; LEVINE, R. *Regime*; LIMA SOBRINHO, A. *Verdade*; LOVE, J.
-*Regionalismo*; MAGALHÃES JÚNIOR, R. *Getúlio*; MARTINS, W. *História*;
-MENDES JÚNIOR, A. *Brasil*; MORAIS FILHO, E. *Problema*; PEIXOTO, A.
-*Getúlio*; PESAVENTO, S. *República*; PINHEIRO, P. *Getúlio*; *Revolução
-de 1930*; SCHNEIDER, R. *Flores*; SILVA, H. *História*; SILVA, H. 1930;
-SILVA, H. *Vargas*; SKIDMORE, T. *Brasil*; SOUSA, M. *Processo*;
-TAVARES, J. *Getúlio*; TRINDADE, H. *Aspectos*; VERGARA, L. *Fui*;
-VIANNA, M. *Getúlio*; VIDAL, B. *Destino*; VILELA, A. *Política*.

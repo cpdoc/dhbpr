@@ -1,15 +1,12 @@
 ---
 title: SISTEMA ELEITORAL
-cargoss: 
-cargos_esp: 
-datas_ini: 
-datas_fim: 
-estados: 
+natureza: temático
+subtipo: 
 autor: 
- - 
+ - Aurélio Wander Bastos
 ---
 
-**SISTEMA ELEITORAL**
+*SISTEMA ELEITORAL*
 
 No Brasil, apesar de termos uma história política eleitoral regional, o
 sistema eleitoral – enquanto conjunto de normas que definem os
@@ -35,7 +32,7 @@ meramente subsidiário. Isso ocorria porque, resguardando a Constituição
 de 1891 para o Congresso Nacional a competência exclusiva para legislar
 sobre eleições, ficava implícito que os estados, desde que não
 contrariassem as normas federais, poderiam legislar sobre situações
-eleitorais estaduais. A Lei Eleitoral do Rio Grande Sul n^o^ 153 de 14
+eleitorais estaduais. A Lei Eleitoral do Rio Grande Sul nº 153 de 14
 de junho de 1913 é um demonstrativo dessa abertura, mas, como em tantas
 outras situações, não é um indicativo de que tal permissão legal teria
 sido genericamente aplicada.
@@ -99,7 +96,7 @@ determinado volume de riquezas ou que possuíssem uma determinada renda,
 permitindo que o processo eleitoral tivesse uma natureza censitária.
 Esses modelos censitários, historicamente, têm como grande formulador
 teórico o pensador liberal francês Benjamin Constant, especialmente no
-seu livro *Princípios políticos constitucionais*,que exerceu decisiva
+seu livro *Princípios políticos constitucionais*, que exerceu decisiva
 influência na formulação dos mecanismos eleitorais brasileiros,
 especialmente transcritos na Constituição Política do Império do Brasil
 e na sua legislação regulamentar.
@@ -122,7 +119,7 @@ militares maiores de 21 anos, os bacharéis formados e clérigos de ordem
 sacra, e de natureza política, quando claramente estabelecia que só
 poderiam votar aqueles que estivessem no pleno gozo dos seus direitos
 políticos, não sendo, todavia, a legislação expressiva com relação à
-exigência do votante / eleitor / elegível saber ler e escrever.
+exigência do votante/eleitor/elegível saber ler e escrever.
 
 As sucessivas crises eleitorais do Império brasileiro contribuíram para
 que o voto de natureza censitária evoluísse mesmo no Império, e
@@ -135,7 +132,7 @@ processo proporcional, mas simplesmente dividia os cargos eletivos no
 Congresso Nacional a serem preenchidos em 2/3 para a maioria e 1/3 para
 a minoria) introduziu o título eleitoral, documento próprio de
 identificação do eleitor. Deve-se também destacar que, na crise
-eleitoral do Império, a Lei Saraiva (Lei n^o^ 3.029, de 9 de janeiro de
+eleitoral do Império, a Lei Saraiva (Lei nº 3.029, de 9 de janeiro de
 1881) extinguiu as juntas paroquiais de qualificação do eleitor,
 restringindo o poder da Igreja e confiando o processo de qualificação ou
 alistamento aos magistrados. Interessantemente, essa própria lei aboliu
@@ -175,10 +172,10 @@ controles eleitorais dos baronatos se transmudassem para os controles
 eleitorais das oligarquias republicanas, tema que foi profundamente
 estudado por Vítor Nunes Leal no seu livro *Coronelismo, enxada e voto*.
 Tanto é fato que a estrutura distrital sobreviveu com adaptações na
-República, que o Decreto n^o^ 153, de 3 de agosto de 1893, dividiu os
+República, que o Decreto nº 153, de 3 de agosto de 1893, dividiu os
 estados da União em distritos eleitorais, de acordo com o artigo 36 da
-Lei n^o^ 35, de 26 de janeiro de 1892, o que foi alterado pelo Decreto
-n^o^ 1.425, de 27 de novembro de 1905, que dividiu o território da
+Lei nº 35, de 26 de janeiro de 1892, o que foi alterado pelo Decreto
+nº 1.425, de 27 de novembro de 1905, que dividiu o território da
 República em distritos eleitorais. Assim observado, os deputados ficavam
 eleitos através do voto distrital direto, o que significa que sua
 representatividade ficava restrita à área geográfica do círculo
@@ -191,10 +188,10 @@ substituição à monarquia constitucional, com a eleição direta para
 presidente e vice-presidente da República na forma do escrutínio
 secreto, do sufrágio direto e da maioria absoluta de votos. Várias leis
 e decretos também trataram dessa matéria, entre eles o Decreto 200A de
-1890, a Lei n^o^ 35 de 1892 e o Decreto n^o^ 184 de 23 de setembro de
+1890, a Lei nº 35 de 1892 e o Decreto nº 184 de 23 de setembro de
 1893. Interessantemente, esse novo momento eleitoral brasileiro, com
 certeza articulado com o texto constitucional, definiu com maior clareza
-a questão das inelegibilidades (artigo n^o^ 70), na qual se destacava,
+a questão das inelegibilidades (artigo nº 70), na qual se destacava,
 entre outras limitações, que não poderiam ser votados os cidadãos que
 tivessem empresas privilegiadas, ou que gozassem de subvenções,
 garantias de juros ou outros favores da União/Estado, e se estabelecia
@@ -212,7 +209,7 @@ influiu no processo da industrialização brasileira na medida em que se
 estabeleciam restrições eleitorais para o empresário que tivesse
 qualquer militância política ou partidária.
 
-A Lei Rosa e Silva (Lei n^o^ 1.269 de 15 de novembro de 1904) ampliou
+A Lei Rosa e Silva (Lei nº 1.269 de 15 de novembro de 1904) ampliou
 significativamente essas restrições ao empresariado e aos banqueiros,
 inclusive pelo simples fato de estes emitirem notas ao portador,
 beneficiarem-se de isenção de impostos ou privilégios de zonas ou
@@ -245,7 +242,7 @@ República.
 
 A Revolução de 1930 assumiu politicamente o compromisso de enfrentar
 esse quadro de domínio eleitoral, vindo a promulgar ainda na sua fase
-revolucionária a Lei n^o^ 21.076, de 24 de fevereiro de 1932, o Código
+revolucionária a Lei nº 21.076, de 24 de fevereiro de 1932, o Código
 Eleitoral, que efetivamente definiu os parâmetros políticos e jurídicos
 do direito eleitoral brasileiro, introduzindo modificações profundas na
 dispersa legislação eleitoral da Primeira República. O Código Eleitoral
@@ -255,7 +252,7 @@ incluindo no contexto eleitoral novas camadas da população, viabilizando
 a participação da população operária no contexto eleitoral, sem,
 todavia, alcançar com efeitos positivos a grande massa da população
 rural, que permaneceu ainda por algum tempo indiferente às questões de
-Estado. O Decreto n^o^ 22.653, de 24 de abril de 1933, apenas como
+Estado. O Decreto nº 22.653, de 24 de abril de 1933, apenas como
 efeito demonstrativo, fixou o número e estabeleceu o modo de escolha das
 representações das associações profissionais para a participação na
 Assembleia Constituinte.
@@ -282,9 +279,9 @@ convocação da Constituinte de 1933, que promulgou a mais extensiva
 Constituição brasileira voltada para a proteção dos direitos sociais, e
 não apenas dos direitos individuais, como acontecera em 1891.
 Ressalte-se, todavia, que a Constituição de 1934 admitia que os estados
-poderiam decretar a sua constituição (artigo 7^o^) e as leis por que se
+poderiam decretar a sua constituição (artigo 7º) e as leis por que se
 deviam reger, deixando explícito, no entanto, um dispositivo (letra C,
-inciso I, artigo 7^o^) que não veio a ter qualquer eficácia: os estados
+inciso I, artigo 7º) que não veio a ter qualquer eficácia: os estados
 deveriam obedecer a temporariedade das funções eletivas, limitadas aos
 mesmos prazos dos cargos federais correspondentes, e proibida a
 reeleição de governadores e prefeitos. Da mesma forma, o código
@@ -300,10 +297,3 @@ Constituição da República dos Estados Unidos do Brasil de 16 de julho de
 1934, que naufragou, concomitantemente com as mobilizações do Partido
 Comunista e do movimento integralista, com a outorga da Constituição de
 1937.
-
-Aurélio Wander Bastos
-
-**FONTES:** BASTOS, A. *Autoritarismo*; CAMPANHOLE, A. *Constituições*;
-CARONE, E. *República Velha*; CONSTANT, B. *Princípios*; FERREIRA, M.
-*Evolução* (p.191); FREIRE, F. *História*; JOBIM, N.; PORTO, W.
-*Legislação*; LEAL, V. *Coronelismo*; VELLASCO, D. *Direito*.
