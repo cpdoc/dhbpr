@@ -1,36 +1,15 @@
 ---
 title: SANTOS, Tomás Delfino dos
-cargoss: 
- - Constituinte
- - Deputado federal
- - Senador
- - Deputado federal
-cargos_esp: 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1896
- - 1912
-datas_fim: 
- - 1891
- - 1896
- - 1906
- - 1916
-estados: 
- - 
- - DF
- - DF
- - DF
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. DF 1891-1896
+ - sen. DF 1896-1906
+ - dep. fed. DF 1912-1916 
+autor: 
+ - Izabel Pimentel da Silva
 ---
-
-**SANTOS, Tomás Delfino dos**
-
-\*const. 1891; dep. fed. DF 1891-1896; sen. DF 1896-1906; dep. fed. DF
-1912-1916.
 
 *Tomás Delfino dos Santos* nasceu no Rio de Janeiro, então capital do
 Império, no dia 24 de setembro de 1860, filho de Luís Delfino dos Santos
@@ -81,10 +60,3 @@ com Rivadávia Correia e Manuel Bonfim.
 Faleceu no Rio de Janeiro em 9 de junho de 1947.
 
 Era casado com Emília Botelho Delfino.
-
-Izabel Pimentel da Silva
-
-**FONTES**: ABRANCHES, J. *Governos*; BLAKE, A. *Diccionario* (v.2);
-CÂM. DEP. *Deputados brasileiros* (1826-1976); FERREIRA, J; DELGADO, L.
-*Tempo;* GIFFONI, O. C. *Dicionário*; *Índice*; LEITE NETO, L. *Catálogo
-biográfico*; SENADO. Disponível em: \<www.senado.gov.br\>.

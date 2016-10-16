@@ -1,62 +1,20 @@
 ---
 title: SALES, Campos
-cargoss: 
- - Deputado Geral
- - Ministro da Justiça
- - Constituinte
- - Senador
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente da República
- - Senador
- - Embaixador do Brasil - Argentina
- - sem
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1885
- - 1889
- - 1891
- - 1891
- - 1896
- - 1898
- - 1909
- - 1912
- - 1913
-datas_fim: 
- - 1885
- - 1891
- - 1891
- - 1896
- - 1897
- - 1902
- - 1912
- - 1912
- - 1913
-estados: 
- - 
- - 
- - 
- - SP
- - SP
- - 
- - SP
- - 
- - SP
+natureza: biográfico
+sexo: m
+cargos: 
+ -  dep. geral 1885
+ - min. Just. 1889-1891
+ - const. 1891
+ - sen. SP 1891-1896
+ - pres. SP 1896-1897
+ - pres. Rep. 1898-1902
+ - sen. SP 1909-1912
+ - emb. Bras. Argentina 1912
+ - sem. SP 1913 
+autor: 
+ - Américo Freire
 ---
-
-**SALES, Campos**
-
-\*dep. geral 1885; min. Just. 1889-1891; const. 1891; sen. SP 1891-1896;
-pres. SP 1896-1897; pres. Rep. 1898-1902; sen. SP 1909-1912; emb. Bras.
-Argentina 1912; sem. SP 1913.
 
 *Manuel Ferraz de Campos Sales* nasceu em Campinas (SP) em 13 de
 fevereiro de 1841, filho de Francisco de Paula Sales e de Ana Cândida
@@ -114,7 +72,7 @@ Prudente de Morais. Coube-lhe especificamente estabelecer o contato
 entre os correligionários paulistas e as lideranças civis que estiveram
 à testa do movimento republicano na capital do Império.
 
-Ministro da Justiça
+## Ministro da Justiça
 
 Instalado o governo provisório da República em 15 de novembro de 1889
 sob a chefia do marechal Deodoro da Fonseca, Campos Sales foi nomeado
@@ -172,7 +130,7 @@ indireta que, em 25 de fevereiro de 1891, um dia após a promulgação da
 primeira Constituição republicana, escolheu o primeiro presidente da
 República dos Estados Unidos do Brasil.
 
-Senador
+## Senador
 
 Após deixar o ministério, iniciada a legislatura ordinária no Congresso
 Nacional, Campos Sales passou a ocupar uma cadeira no Senado Federal.
@@ -229,14 +187,14 @@ defendendo com sucesso a presença do paulista Rodrigues Alves no
 Ministério da Fazenda. Ainda naquele ano, foi eleito uma vez mais para a
 comissão central do PRP.
 
-Presidente de São Paulo
+## Presidente de São Paulo
 
 Em dezembro de 1895, Campos Sales foi lançado pelo PRP candidato a
 presidente do estado de São Paulo na sucessão de Bernardino de Campos,
 fixando sua campanha na defesa de um governo forte que promovesse o
 incremento à agricultura, à imigração e à instrução pública. Em
 fevereiro de 1896, concorreu sem adversários e venceu o pleito com um
-total de 43.898 votos, sendo empossado em 1^o^ de maio.
+total de 43.898 votos, sendo empossado em 1º de maio.
 
 No quadriênio de Prudente de Morais, deu-se uma importante cisão
 política entre o presidente da República e Francisco Glicério, um dos
@@ -303,9 +261,9 @@ desenvolve a sua ação em uma esfera de completa independência, de tal
 sorte que o Legislativo, igualmente soberano no exercício de suas
 funções, não governa e não administra”.
 
-Presidente da República
+## Presidente da República
 
-Nas eleições de 1^o^ de março de 1898, Campos Sales obteve um total de
+Nas eleições de 1º de março de 1898, Campos Sales obteve um total de
 174.325 votos, contra 16.534 de seu opositor, o florianista Lauro Sodré.
 Em abril, definido o resultado eleitoral, partiu para Europa com vistas
 a dar encaminhamento ao grave problema das contas externas do país. Por
@@ -378,7 +336,7 @@ convertido e ganho para o serviço da República. ‘A idade heroica, a
 idade cavalheiresca já passou’. Agora, o verdadeiro patriotismo é o que
 consiste em designar os que forem capazes e dignos”.
 
-Para Campos Sales, o “adesista”Rodrigues Alves possuía também outro
+Para Campos Sales, o “adesista” Rodrigues Alves possuía também outro
 atributo por demais importante: o compromisso de dar continuidade ao seu
 programa de estabilização econômico-financeira, no qual havia
 concentrado grande parte dos seus esforços. Por meio de consultas aos
@@ -438,10 +396,3 @@ política republicana: repensando o pacto de Campos Sales* de Ana Luiza
 Backes (2006), e “Campos Sales: a arquitetura da Primeira República” de
 Júlio Pimentel Pinto (apresentação da reedição de *Manifestos e
 mensagens*, 2007).
-
-Américo Freire
-
-**FONTES**: ABRANCHES, J. *Como;* BELLO, J. *História*;CARDOSO*,* F.
-*Dos governos*; CASTRO, S. *República*; FREIRE, A. *Por um
-presidencialismo*; LESSA, R*. Invenção*; PENNA, L. *Progresso*; PENNA,
-L. *República.*

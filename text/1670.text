@@ -1,38 +1,15 @@
----
+--- 
 title: PINTO, Alfredo
-cargoss: 
- - Deputado federal
- - Ministro da Justiça
- - Ministro da Guerra
- - Ministro do Supremo Tribunal Federal
-cargos_esp: 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1897
- - 1919
- - 1919
- - 1921
-datas_fim: 
- - 1902
- - 1921
- - 1919
- - 1923
-estados: 
- - MG
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. fed. MG 1897-1902 
+ - min. Just. 1919-1921
+ - min. Guerra 1919
+ - min. STF 1921-1923 
 autor: 
  - Eduardo Junqueira
 ---
-
-**PINTO, Alfredo**
-
-\* dep. fed. MG 1897-1902; min. Just. 1919-1921; min. Guerra 1919; min.
-STF 1921-1923.
 
 *Alfredo Pinto Vieira de Melo* nasceu em Recife no dia 20 de junho de
 1863, filho de João Vieira de Melo e Silva e de Maria Pinto Vieira de
@@ -86,9 +63,3 @@ exercício de suas funções no STF, faleceu na cidade do Rio de Janeiro em
 Entre os trabalhos que publicou em diversas revistas especializadas de
 direito, destacam-se *Educação científica, O júri* e *Direitos das
 sucessões*.
-
-Eduardo Junqueira
-
-**FONTES:** GUIMARÃES, L. *Primeiro* (v.9); MATTOSO, P. *Supremo
-Tribunal*; MELLO FILHO, J. *Notas*; SUP. TRIB. FED. Disponível em:
-\<www.stf.jus.br/portal/ministros\>.

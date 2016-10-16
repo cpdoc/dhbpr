@@ -1,48 +1,15 @@
 ---
 title: RAMOS, Vidal
-cargoss: 
- - Governador de estado ou do Distrito Federal
- - Governador de estado ou do Distrito Federal
- - Deputado federal
- - Governador de estado ou do Distrito Federal
- - Deputado federal
- - Senador
-cargos_esp: 
- - 
- - 
- - 
- - SC 1910-1914, sen
- - 
- - 
-datas_ini: 
- - 1905
- - 1902
- - 1906
- - 1914
- - 1927
- - 1935
-datas_fim: 
- - 1905
- - 1902
- - 1910
- - 1927
- - 1929
- - 1937
-estados: 
- - SC
- - SC
- - SC
- - SC
- - SC
- - SC
-autor: 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - gov. SC 1902 e 1905
+ - dep. fed. SC 1906-1910
+ - gov. SC 1910-1914
+ - sen. SC 1914-1927
+ - dep. fed. SC 1927-1929
+ - sen. SC 1935-1937
 ---
-
-**RAMOS, Vidal**
-
-\*gov. SC 1902 e 1905; dep. fed. SC 1906-1910; gov. SC 1910-1914, sen.
-SC 1914-1927; dep. fed. SC 1927-1929; sen. SC 1935-1937.
 
 *Vidal José de Oliveira Ramos Júnior* nasceu em Lajes (SC) no dia 24 de
 outubro de 1865, filho de Vidal José de Oliveira Ramos e de Júlia
@@ -130,9 +97,3 @@ Santa Catarina de 1933 a 1935, Cândido de Oliveira Ramos, senador em
 de 1951 a 1955 e senador entre 1955 e 1963.
 
 Publicou *Notas sobre a fundação de Lajes* (1939).
-
-**FONTES:**CABRAL, O. *Era*; CABRAL, O. *História*; CÂM. DEP.
-*Deputados*; Diário do Congresso Nacional; *Encic. Mirador*; *Grande
-encic. Delta*; Ilustração Brasileira (12/1922); JAMUNDÁ, T.
-*Catarinenses*; PIAZZA, W. *Dicionário político*; SENADO. *Anais*
-(22/7/1935); TIAGO, A. *História*.
