@@ -1,33 +1,15 @@
 ---
 title: PERNAMBUCO, Joaquim
-cargoss: 
- - Constituinte
- - Deputado federal
- - Senador
-cargos_esp: 
- - 
- - 
- - 
-datas_ini: 
- - 1891
- - 1891
- - 1893
-datas_fim: 
- - 1891
- - 1893
- - 1900
-estados: 
- - 
- - PE
- - PE
-autor:
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. 1891
+ - dep. fed. PE 1891-1893
+ - sen. PE 1893-1900
+autor: 
  - Juliana Sampaio
  - Alan Carneiro
 ---
-
-**PERNAMBUCO, Joaquim**
-
-\*const. 1891; dep. fed. PE 1891-1893; sen. PE 1893-1900.
 
 *José Joaquim Almeida Pernambuco* formou-se engenheiro civil.
 
@@ -45,8 +27,3 @@ e de Obras Públicas de Empresas Privilegiadas. Permaneceu na Câmara Alta
 até setembro de 1900, quando faleceu ainda no exercício do mandato que
 se encerraria em dezembro seguinte.
 
-Juliana Sampaio/Alan Carneiro
-
-**FONTES:** LEITE NETO, L. *Catálogo biográfico* (v.3, p.1.633/4);
-SENADO. Disponível em:
-\<www.senado.gov.br/sf/senadores/senadores\_biografia.asp?codparl=1935&li=22&lcab=1891-1893&lf=22\>.

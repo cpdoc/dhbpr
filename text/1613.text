@@ -1,65 +1,20 @@
 ---
 title: PENA, Afonso
-cargoss: 
- - Deputado Geral
- - Ministro da Guerra
- - min Agricultura
- - Ministro do Interior
- - Deputado Geral
- - Presidente de associação ou confederação de empregados ou empregadores
- - Presidente de associação ou confederação de empregados ou empregadores
- - Vice-presidente da República
- - Presidente da República
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - Bco da Rep
- - 
- - 
-datas_ini: 
- - 1878
- - 1882
- - 1883
- - 1885
- - 1886
- - 1892
- - 1894
- - 1902
- - 1906
-datas_fim: 
- - 1884
- - 1882
- - 1884
- - 1885
- - 1889
- - 1894
- - 1898
- - 1906
- - 1909
-estados: 
- - MG
- - 
- - 
- - 
- - MG
- - MG
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. geral MG 1878-1884
+ - min. Guerra 1882
+ - min. Agricultura 1883-1884
+ - min. Interior 1885
+ - dep. geral MG 1886-1889
+ - pres. MG 1892-1894
+ - pres. Bco da Rep. 1894-1898
+ - vice-pres. Rep. 1902-1906
+ - pres. Rep. 1906-1909
 autor: 
- - 
+ - Cláudia Maria Ribeiro Viscardi
 ---
-
-**PENA, Afonso**
-
-\* dep. geral MG 1878-1884; min. Guerra 1882; min. Agricultura
-1883-1884; min. Interior 1885; dep. geral MG 1886-1889; pres. MG
-1892-1894; pres. Bco da Rep. 1894-1898; vice-pres. Rep. 1902-1906; pres.
-Rep. 1906-1909.
 
 *Afonso Augusto Moreira Pena* nasceu em Santa Bárbara do Mato Dentro,
 atual município de Santa Bárbara (MG), no dia 30 de novembro de 1847,
@@ -130,7 +85,7 @@ letras, a discussão da história do Brasil e o debate político
 contemporâneo. Sabe-se que Afonso Pena produziu uma série de publicações
 para essa agremiação, mas poucos resquícios restaram delas.
 
-Trajetória Política no Império
+## Trajetória Política no Império
 
 Tendo recusado o convite para ser professor da faculdade pela qual se
 havia graduado, voltou para Santa Bárbara e iniciou sua vida
@@ -216,7 +171,7 @@ responsável pela reformulação do Código Civil Brasileiro, missão
 interrompida pelo golpe militar que em 15 de novembro de 1889 implantou
 a República no Brasil.
 
-A República no Brasil
+## A República no Brasil
 
 A reação de Afonso Pena diante da República, bem como a de boa parte dos
 monarquistas convictos destronados, foi de aceitação resignada, motivada
@@ -287,7 +242,7 @@ alvinismo em Minas e ganhou o apoio de grande parte da elite mineira,
 que se sentia excluída das principais articulações políticas no interior
 do estado.
 
-De Presidente de Minas a Vice-Presidente da República
+## De Presidente de Minas a Vice-Presidente da República
 
 Após a renúncia de Deodoro (23/11/1891), dificilmente Cesário Alvim –
 então em seu segundo período no governo – conseguiria manter seu poder
@@ -420,7 +375,7 @@ pretensões, os paulistas se afastaram e permaneceram num ostracismo
 político prolongado, só interrompido após a sucessão de Venceslau Brás
 (1914-1918).
 
-Presidente da República
+## Presidente da República
 
 Antes de assumir a presidência, Pena fez uma viagem de três meses pelo
 país com o objetivo de conhecer melhor a realidade nacional. Percorreu
@@ -620,11 +575,5 @@ estado, e quando presidente da República, seu primeiro-secretário. Era
 também cunhado e primo de Feliciano Pena, deputado e senador por Minas
 Gerais.
 
-Cláudia Maria Ribeiro Viscardi
 
-**FONTES:** BARBOSA, F *JK*; CARVALHO, A. *Vultos*; CARVALHO, A.
-C*onspiração*; CARVALHO, D. *Capítulos*; FRANCO, A. *Estadista*; FRANCO,
-A. *Rodrigues*; LACOMBE, A. *Afonso Pena*; MENDONÇA, S. *Ruralismo*;
-MONTEIRO, N. *Dicionário*; MORAES FILHO, E. *Campanha*; PENNA, A.
-*Alguns*; REIS, M. *Trajetória*; VIEIRA, J. *Cadeia*; VISCARDI, C.
-*Teatro*; WEINER, J. *Afonso Pena*.
+
